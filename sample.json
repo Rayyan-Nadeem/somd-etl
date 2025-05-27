@@ -1,0 +1,48 @@
+{
+    "sports": [
+      {
+        "sportId": "SYSTEM WILL MAKE",
+        "sportName": "Basketball - 2003",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025",
+        "athletes": [
+          { "athleteId": "2342" },
+          { "athleteId": "8742" }
+        ],
+        "volunteers": [
+          { "volunteerId": "V2001", "role": "Coach" },
+          { "volunteerId": "V2002", "role": "Scorekeeper" }
+        ]
+      },
+      {
+        "sportId": "S002",
+        "sportName": "Swimming",
+        "season": "Summer",
+        "startDate": "08/02/2025",
+        "endDate": "08/02/2025",
+        "athletes": [
+          { "athleteId": "A1003" }
+        ],
+        "volunteers": [
+          { "volunteerId": "9023", "role": "Lifeguard" }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventId": "SYSTEM WILL MAKE",
+        "eventName": "State Championships",
+        "startDate": "01/01/2025",
+        "athletes": [
+          { "athleteId": "23424" },
+          { "athleteId": "24324" }
+        ],
+        "volunteers": [
+          { "volunteerId": "402934", "role": "Lead Referee" },
+          { "volunteerId": "29304", "role": "Timer" }
+        ]
+      }
+    ]
+  }
+  

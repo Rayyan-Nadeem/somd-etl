@@ -1,0 +1,4363 @@
+[
+    {
+        "sportId": "442025",
+        "sportName": "44 - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "462025",
+        "sportName": "46 - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "472025",
+        "sportName": "47 - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "AQU1995",
+        "sportName": "Aquatics - 1995",
+        "season": "Fall",
+        "startDate": "08/01/1995",
+        "endDate": "08/02/1995"
+    },
+    {
+        "sportId": "AQU1996",
+        "sportName": "Aquatics - 1996",
+        "season": "Fall",
+        "startDate": "08/01/1996",
+        "endDate": "08/02/1996"
+    },
+    {
+        "sportId": "AQU1997",
+        "sportName": "Aquatics - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "AQU1998",
+        "sportName": "Aquatics - 1998",
+        "season": "Fall",
+        "startDate": "08/01/1998",
+        "endDate": "08/02/1998"
+    },
+    {
+        "sportId": "AQU1999",
+        "sportName": "Aquatics - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "AQU2000",
+        "sportName": "Aquatics - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "AQU2001",
+        "sportName": "Aquatics - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "AQU2002",
+        "sportName": "Aquatics - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "AQU2004",
+        "sportName": "Aquatics - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "AQU2005",
+        "sportName": "Aquatics - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "AQU2006",
+        "sportName": "Aquatics - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "AQU2007",
+        "sportName": "Aquatics - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "AQU2008",
+        "sportName": "Aquatics - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "AQU2009",
+        "sportName": "Aquatics - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "AQU2010",
+        "sportName": "Aquatics - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "AQU2011",
+        "sportName": "Aquatics - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "AQU2012",
+        "sportName": "Aquatics - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "AQU2013",
+        "sportName": "Aquatics - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "AQU2014",
+        "sportName": "Aquatics - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "AQU2015",
+        "sportName": "Aquatics - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "AQU2016",
+        "sportName": "Aquatics - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "AQU2017",
+        "sportName": "Aquatics - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "AQU2018",
+        "sportName": "Aquatics - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "AQU2019",
+        "sportName": "Aquatics - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "AQU2021",
+        "sportName": "Aquatics - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "AQU2022",
+        "sportName": "Aquatics - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "AQU2023",
+        "sportName": "Aquatics - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "AQU2024",
+        "sportName": "Aquatics - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "AQU2025",
+        "sportName": "Aquatics - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "AQU2011",
+        "sportName": "Aquatics Beginner - 2011",
+        "season": "Spring",
+        "startDate": "03/01/2011",
+        "endDate": "03/02/2011"
+    },
+    {
+        "sportId": "AQU2012",
+        "sportName": "Aquatics Beginner - 2012",
+        "season": "Spring",
+        "startDate": "03/01/2012",
+        "endDate": "03/02/2012"
+    },
+    {
+        "sportId": "AQU2013",
+        "sportName": "Aquatics Beginner - 2013",
+        "season": "Spring",
+        "startDate": "03/01/2013",
+        "endDate": "03/02/2013"
+    },
+    {
+        "sportId": "AQU2016",
+        "sportName": "Aquatics Beginner - 2016",
+        "season": "Spring",
+        "startDate": "03/01/2016",
+        "endDate": "03/02/2016"
+    },
+    {
+        "sportId": "AQU2018",
+        "sportName": "Aquatics Beginner - 2018",
+        "season": "Spring",
+        "startDate": "03/01/2018",
+        "endDate": "03/02/2018"
+    },
+    {
+        "sportId": "AQU2019",
+        "sportName": "Aquatics Beginner - 2019",
+        "season": "Spring",
+        "startDate": "03/01/2019",
+        "endDate": "03/02/2019"
+    },
+    {
+        "sportId": "AQU2023",
+        "sportName": "Aquatics Beginner - 2023",
+        "season": "Spring",
+        "startDate": "03/01/2023",
+        "endDate": "03/02/2023"
+    },
+    {
+        "sportId": "ATH1999",
+        "sportName": "Athletics - 1999",
+        "season": "Spring",
+        "startDate": "04/01/1999",
+        "endDate": "04/02/1999"
+    },
+    {
+        "sportId": "ATH2000",
+        "sportName": "Athletics - 2000",
+        "season": "Spring",
+        "startDate": "04/01/2000",
+        "endDate": "04/02/2000"
+    },
+    {
+        "sportId": "ATH2001",
+        "sportName": "Athletics - 2001",
+        "season": "Spring",
+        "startDate": "04/01/2001",
+        "endDate": "04/02/2001"
+    },
+    {
+        "sportId": "ATH2002",
+        "sportName": "Athletics - 2002",
+        "season": "Spring",
+        "startDate": "04/01/2002",
+        "endDate": "04/02/2002"
+    },
+    {
+        "sportId": "ATH2003",
+        "sportName": "Athletics - 2003",
+        "season": "Spring",
+        "startDate": "04/01/2003",
+        "endDate": "04/02/2003"
+    },
+    {
+        "sportId": "ATH2004",
+        "sportName": "Athletics - 2004",
+        "season": "Spring",
+        "startDate": "04/01/2004",
+        "endDate": "04/02/2004"
+    },
+    {
+        "sportId": "ATH2005",
+        "sportName": "Athletics - 2005",
+        "season": "Spring",
+        "startDate": "04/01/2005",
+        "endDate": "04/02/2005"
+    },
+    {
+        "sportId": "ATH2006",
+        "sportName": "Athletics - 2006",
+        "season": "Spring",
+        "startDate": "04/01/2006",
+        "endDate": "04/02/2006"
+    },
+    {
+        "sportId": "ATH2007",
+        "sportName": "Athletics - 2007",
+        "season": "Spring",
+        "startDate": "04/01/2007",
+        "endDate": "04/02/2007"
+    },
+    {
+        "sportId": "ATH2008",
+        "sportName": "Athletics - 2008",
+        "season": "Spring",
+        "startDate": "04/01/2008",
+        "endDate": "04/02/2008"
+    },
+    {
+        "sportId": "ATH2009",
+        "sportName": "Athletics - 2009",
+        "season": "Spring",
+        "startDate": "04/01/2009",
+        "endDate": "04/02/2009"
+    },
+    {
+        "sportId": "ATH2010",
+        "sportName": "Athletics - 2010",
+        "season": "Spring",
+        "startDate": "04/01/2010",
+        "endDate": "04/02/2010"
+    },
+    {
+        "sportId": "ATH2011",
+        "sportName": "Athletics - 2011",
+        "season": "Spring",
+        "startDate": "04/01/2011",
+        "endDate": "04/02/2011"
+    },
+    {
+        "sportId": "ATH2012",
+        "sportName": "Athletics - 2012",
+        "season": "Spring",
+        "startDate": "04/01/2012",
+        "endDate": "04/02/2012"
+    },
+    {
+        "sportId": "ATH2013",
+        "sportName": "Athletics - 2013",
+        "season": "Spring",
+        "startDate": "04/01/2013",
+        "endDate": "04/02/2013"
+    },
+    {
+        "sportId": "ATH2014",
+        "sportName": "Athletics - 2014",
+        "season": "Spring",
+        "startDate": "04/01/2014",
+        "endDate": "04/02/2014"
+    },
+    {
+        "sportId": "ATH2015",
+        "sportName": "Athletics - 2015",
+        "season": "Spring",
+        "startDate": "04/01/2015",
+        "endDate": "04/02/2015"
+    },
+    {
+        "sportId": "ATH2016",
+        "sportName": "Athletics - 2016",
+        "season": "Spring",
+        "startDate": "04/01/2016",
+        "endDate": "04/02/2016"
+    },
+    {
+        "sportId": "ATH2017",
+        "sportName": "Athletics - 2017",
+        "season": "Spring",
+        "startDate": "04/01/2017",
+        "endDate": "04/02/2017"
+    },
+    {
+        "sportId": "ATH2018",
+        "sportName": "Athletics - 2018",
+        "season": "Spring",
+        "startDate": "04/01/2018",
+        "endDate": "04/02/2018"
+    },
+    {
+        "sportId": "ATH2019",
+        "sportName": "Athletics - 2019",
+        "season": "Spring",
+        "startDate": "04/01/2019",
+        "endDate": "04/02/2019"
+    },
+    {
+        "sportId": "ATH2021",
+        "sportName": "Athletics - 2021",
+        "season": "Spring",
+        "startDate": "04/01/2021",
+        "endDate": "04/02/2021"
+    },
+    {
+        "sportId": "ATH2022",
+        "sportName": "Athletics - 2022",
+        "season": "Spring",
+        "startDate": "04/01/2022",
+        "endDate": "04/02/2022"
+    },
+    {
+        "sportId": "ATH2023",
+        "sportName": "Athletics - 2023",
+        "season": "Spring",
+        "startDate": "04/01/2023",
+        "endDate": "04/02/2023"
+    },
+    {
+        "sportId": "ATH2024",
+        "sportName": "Athletics - 2024",
+        "season": "Spring",
+        "startDate": "04/01/2024",
+        "endDate": "04/02/2024"
+    },
+    {
+        "sportId": "ATH2025",
+        "sportName": "Athletics - 2025",
+        "season": "Spring",
+        "startDate": "04/01/2025",
+        "endDate": "04/02/2025"
+    },
+    {
+        "sportId": "BAS2000",
+        "sportName": "Basketball - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "BAS2001",
+        "sportName": "Basketball - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "BAS2001",
+        "sportName": "basketball - 2001",
+        "season": "Winter",
+        "startDate": "01/01/2001",
+        "endDate": "01/02/2001"
+    },
+    {
+        "sportId": "BAS2003",
+        "sportName": "Basketball - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "BAS2003",
+        "sportName": "basketball - 2003",
+        "season": "Winter",
+        "startDate": "01/01/2003",
+        "endDate": "01/02/2003"
+    },
+    {
+        "sportId": "BAS2005",
+        "sportName": "Basketball - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "BAS2006",
+        "sportName": "Basketball - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "BAS2008",
+        "sportName": "Basketball - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "BAS2009",
+        "sportName": "Basketball - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "BAS2009",
+        "sportName": "basketball - 2009",
+        "season": "Winter",
+        "startDate": "01/01/2009",
+        "endDate": "01/02/2009"
+    },
+    {
+        "sportId": "BAS2010",
+        "sportName": "Basketball - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "BAS2010",
+        "sportName": "basketball - 2010",
+        "season": "Winter",
+        "startDate": "01/01/2010",
+        "endDate": "01/02/2010"
+    },
+    {
+        "sportId": "BAS2011",
+        "sportName": "Basketball - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "BAS2012",
+        "sportName": "Basketball - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "BAS2012",
+        "sportName": "basketball - 2012",
+        "season": "Winter",
+        "startDate": "01/01/2012",
+        "endDate": "01/02/2012"
+    },
+    {
+        "sportId": "BAS2013",
+        "sportName": "Basketball - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "BAS2013",
+        "sportName": "basketball - 2013",
+        "season": "Winter",
+        "startDate": "01/01/2013",
+        "endDate": "01/02/2013"
+    },
+    {
+        "sportId": "BAS2014",
+        "sportName": "basketball - 2014",
+        "season": "Winter",
+        "startDate": "01/01/2014",
+        "endDate": "01/02/2014"
+    },
+    {
+        "sportId": "BAS2014",
+        "sportName": "Basketball - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "BAS2015",
+        "sportName": "Basketball - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "BAS2015",
+        "sportName": "basketball - 2015",
+        "season": "Winter",
+        "startDate": "01/01/2015",
+        "endDate": "01/02/2015"
+    },
+    {
+        "sportId": "BAS2016",
+        "sportName": "Basketball - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "BAS2017",
+        "sportName": "Basketball - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "BAS2018",
+        "sportName": "Basketball - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "BAS2019",
+        "sportName": "Basketball - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "BAS2020",
+        "sportName": "Basketball - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "BAS2021",
+        "sportName": "Basketball - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "BAS2022",
+        "sportName": "Basketball - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "BAS2023",
+        "sportName": "Basketball - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "BAS2023",
+        "sportName": "basketball - 2023",
+        "season": "Winter",
+        "startDate": "01/01/2023",
+        "endDate": "01/02/2023"
+    },
+    {
+        "sportId": "BAS2024",
+        "sportName": "Basketball - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "BAS2025",
+        "sportName": "Basketball - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "BAS2025",
+        "sportName": "basketball - 2025",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025"
+    },
+    {
+        "sportId": "BAS201",
+        "sportName": "Basketball PD - 201",
+        "season": "Fall",
+        "startDate": "08/01/0201",
+        "endDate": "08/02/0201"
+    },
+    {
+        "sportId": "BAS2010",
+        "sportName": "Basketball PD - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "BAS2011",
+        "sportName": "Basketball PD - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "BAS2012",
+        "sportName": "Basketball PD - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "BAS2013",
+        "sportName": "Basketball PD - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "BAS2014",
+        "sportName": "Basketball PD - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "BAS2015",
+        "sportName": "Basketball PD - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "BAS2016",
+        "sportName": "Basketball PD - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "BAS2017",
+        "sportName": "Basketball PD - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "BAS2018",
+        "sportName": "Basketball PD - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "BAS2019",
+        "sportName": "Basketball PD - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "BAS2020",
+        "sportName": "Basketball PD - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "BAS2021",
+        "sportName": "Basketball PD - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "BAS2022",
+        "sportName": "Basketball PD - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "BAS2023",
+        "sportName": "Basketball PD - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "BAS2024",
+        "sportName": "Basketball PD - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "BAS2025",
+        "sportName": "Basketball PD - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "BAS2001",
+        "sportName": "Basketball Skills - 2001",
+        "season": "Winter",
+        "startDate": "01/01/2001",
+        "endDate": "01/02/2001"
+    },
+    {
+        "sportId": "BAS2002",
+        "sportName": "Basketball Skills - 2002",
+        "season": "Winter",
+        "startDate": "01/01/2002",
+        "endDate": "01/02/2002"
+    },
+    {
+        "sportId": "BAS2003",
+        "sportName": "Basketball Skills - 2003",
+        "season": "Winter",
+        "startDate": "01/01/2003",
+        "endDate": "01/02/2003"
+    },
+    {
+        "sportId": "BAS2004",
+        "sportName": "Basketball Skills - 2004",
+        "season": "Winter",
+        "startDate": "01/01/2004",
+        "endDate": "01/02/2004"
+    },
+    {
+        "sportId": "BAS2005",
+        "sportName": "Basketball Skills - 2005",
+        "season": "Winter",
+        "startDate": "01/01/2005",
+        "endDate": "01/02/2005"
+    },
+    {
+        "sportId": "BAS2007",
+        "sportName": "Basketball Skills - 2007",
+        "season": "Winter",
+        "startDate": "01/01/2007",
+        "endDate": "01/02/2007"
+    },
+    {
+        "sportId": "BAS2008",
+        "sportName": "Basketball Skills - 2008",
+        "season": "Winter",
+        "startDate": "01/01/2008",
+        "endDate": "01/02/2008"
+    },
+    {
+        "sportId": "BAS2009",
+        "sportName": "Basketball Skills - 2009",
+        "season": "Winter",
+        "startDate": "01/01/2009",
+        "endDate": "01/02/2009"
+    },
+    {
+        "sportId": "BAS2010",
+        "sportName": "Basketball Skills - 2010",
+        "season": "Winter",
+        "startDate": "01/01/2010",
+        "endDate": "01/02/2010"
+    },
+    {
+        "sportId": "BAS2011",
+        "sportName": "Basketball Skills - 2011",
+        "season": "Winter",
+        "startDate": "01/01/2011",
+        "endDate": "01/02/2011"
+    },
+    {
+        "sportId": "BAS2012",
+        "sportName": "Basketball Skills - 2012",
+        "season": "Winter",
+        "startDate": "01/01/2012",
+        "endDate": "01/02/2012"
+    },
+    {
+        "sportId": "BAS2013",
+        "sportName": "Basketball Skills - 2013",
+        "season": "Winter",
+        "startDate": "01/01/2013",
+        "endDate": "01/02/2013"
+    },
+    {
+        "sportId": "BAS2014",
+        "sportName": "Basketball Skills - 2014",
+        "season": "Winter",
+        "startDate": "01/01/2014",
+        "endDate": "01/02/2014"
+    },
+    {
+        "sportId": "BAS2015",
+        "sportName": "Basketball Skills - 2015",
+        "season": "Winter",
+        "startDate": "01/01/2015",
+        "endDate": "01/02/2015"
+    },
+    {
+        "sportId": "BAS2016",
+        "sportName": "Basketball Skills - 2016",
+        "season": "Winter",
+        "startDate": "01/01/2016",
+        "endDate": "01/02/2016"
+    },
+    {
+        "sportId": "BAS2017",
+        "sportName": "Basketball Skills - 2017",
+        "season": "Winter",
+        "startDate": "01/01/2017",
+        "endDate": "01/02/2017"
+    },
+    {
+        "sportId": "BAS2018",
+        "sportName": "Basketball Skills - 2018",
+        "season": "Winter",
+        "startDate": "01/01/2018",
+        "endDate": "01/02/2018"
+    },
+    {
+        "sportId": "BAS2019",
+        "sportName": "Basketball Skills - 2019",
+        "season": "Winter",
+        "startDate": "01/01/2019",
+        "endDate": "01/02/2019"
+    },
+    {
+        "sportId": "BAS2020",
+        "sportName": "Basketball Skills - 2020",
+        "season": "Winter",
+        "startDate": "01/01/2020",
+        "endDate": "01/02/2020"
+    },
+    {
+        "sportId": "BAS2022",
+        "sportName": "Basketball Skills - 2022",
+        "season": "Winter",
+        "startDate": "01/01/2022",
+        "endDate": "01/02/2022"
+    },
+    {
+        "sportId": "BAS2023",
+        "sportName": "Basketball Skills - 2023",
+        "season": "Winter",
+        "startDate": "01/01/2023",
+        "endDate": "01/02/2023"
+    },
+    {
+        "sportId": "BAS2024",
+        "sportName": "Basketball Skills - 2024",
+        "season": "Winter",
+        "startDate": "01/01/2024",
+        "endDate": "01/02/2024"
+    },
+    {
+        "sportId": "BAS2025",
+        "sportName": "Basketball Skills - 2025",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025"
+    },
+    {
+        "sportId": "BOC2002",
+        "sportName": "Bocce - 2002",
+        "season": "Spring",
+        "startDate": "04/01/2002",
+        "endDate": "04/02/2002"
+    },
+    {
+        "sportId": "BOC2003",
+        "sportName": "Bocce - 2003",
+        "season": "Spring",
+        "startDate": "04/01/2003",
+        "endDate": "04/02/2003"
+    },
+    {
+        "sportId": "BOC2004",
+        "sportName": "Bocce - 2004",
+        "season": "Spring",
+        "startDate": "04/01/2004",
+        "endDate": "04/02/2004"
+    },
+    {
+        "sportId": "BOC2005",
+        "sportName": "Bocce - 2005",
+        "season": "Spring",
+        "startDate": "04/01/2005",
+        "endDate": "04/02/2005"
+    },
+    {
+        "sportId": "BOC2007",
+        "sportName": "Bocce - 2007",
+        "season": "Spring",
+        "startDate": "04/01/2007",
+        "endDate": "04/02/2007"
+    },
+    {
+        "sportId": "BOC2008",
+        "sportName": "Bocce - 2008",
+        "season": "Spring",
+        "startDate": "04/01/2008",
+        "endDate": "04/02/2008"
+    },
+    {
+        "sportId": "BOC2009",
+        "sportName": "Bocce - 2009",
+        "season": "Spring",
+        "startDate": "04/01/2009",
+        "endDate": "04/02/2009"
+    },
+    {
+        "sportId": "BOC2010",
+        "sportName": "Bocce - 2010",
+        "season": "Spring",
+        "startDate": "04/01/2010",
+        "endDate": "04/02/2010"
+    },
+    {
+        "sportId": "BOC2011",
+        "sportName": "Bocce - 2011",
+        "season": "Spring",
+        "startDate": "04/01/2011",
+        "endDate": "04/02/2011"
+    },
+    {
+        "sportId": "BOC2012",
+        "sportName": "Bocce - 2012",
+        "season": "Spring",
+        "startDate": "04/01/2012",
+        "endDate": "04/02/2012"
+    },
+    {
+        "sportId": "BOC2013",
+        "sportName": "Bocce - 2013",
+        "season": "Spring",
+        "startDate": "04/01/2013",
+        "endDate": "04/02/2013"
+    },
+    {
+        "sportId": "BOC2014",
+        "sportName": "Bocce - 2014",
+        "season": "Spring",
+        "startDate": "04/01/2014",
+        "endDate": "04/02/2014"
+    },
+    {
+        "sportId": "BOC2015",
+        "sportName": "Bocce - 2015",
+        "season": "Spring",
+        "startDate": "04/01/2015",
+        "endDate": "04/02/2015"
+    },
+    {
+        "sportId": "BOC2016",
+        "sportName": "Bocce - 2016",
+        "season": "Spring",
+        "startDate": "04/01/2016",
+        "endDate": "04/02/2016"
+    },
+    {
+        "sportId": "BOC2017",
+        "sportName": "Bocce - 2017",
+        "season": "Spring",
+        "startDate": "04/01/2017",
+        "endDate": "04/02/2017"
+    },
+    {
+        "sportId": "BOC2018",
+        "sportName": "Bocce - 2018",
+        "season": "Spring",
+        "startDate": "04/01/2018",
+        "endDate": "04/02/2018"
+    },
+    {
+        "sportId": "BOC2019",
+        "sportName": "Bocce - 2019",
+        "season": "Spring",
+        "startDate": "04/01/2019",
+        "endDate": "04/02/2019"
+    },
+    {
+        "sportId": "BOC2021",
+        "sportName": "Bocce - 2021",
+        "season": "Spring",
+        "startDate": "04/01/2021",
+        "endDate": "04/02/2021"
+    },
+    {
+        "sportId": "BOC2022",
+        "sportName": "Bocce - 2022",
+        "season": "Spring",
+        "startDate": "04/01/2022",
+        "endDate": "04/02/2022"
+    },
+    {
+        "sportId": "BOC2023",
+        "sportName": "Bocce - 2023",
+        "season": "Spring",
+        "startDate": "04/01/2023",
+        "endDate": "04/02/2023"
+    },
+    {
+        "sportId": "BOC2024",
+        "sportName": "Bocce - 2024",
+        "season": "Spring",
+        "startDate": "04/01/2024",
+        "endDate": "04/02/2024"
+    },
+    {
+        "sportId": "BOC2025",
+        "sportName": "Bocce - 2025",
+        "season": "Spring",
+        "startDate": "04/01/2025",
+        "endDate": "04/02/2025"
+    },
+    {
+        "sportId": "BOW2000",
+        "sportName": "Bowling - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "BOW2001",
+        "sportName": "Bowling - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "BOW2002",
+        "sportName": "Bowling - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "BOW2003",
+        "sportName": "Bowling - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "BOW2004",
+        "sportName": "Bowling - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "BOW2005",
+        "sportName": "Bowling - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "BOW2006",
+        "sportName": "Bowling - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "BOW2007",
+        "sportName": "Bowling - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "BOW2008",
+        "sportName": "Bowling - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "BOW2009",
+        "sportName": "Bowling - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "BOW2010",
+        "sportName": "Bowling - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "BOW2011",
+        "sportName": "Bowling - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "BOW2012",
+        "sportName": "Bowling - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "BOW2013",
+        "sportName": "Bowling - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "BOW2014",
+        "sportName": "Bowling - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "BOW2015",
+        "sportName": "Bowling - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "BOW2016",
+        "sportName": "Bowling - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "BOW2017",
+        "sportName": "Bowling - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "BOW2018",
+        "sportName": "Bowling - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "BOW2019",
+        "sportName": "Bowling - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "BOW2020",
+        "sportName": "Bowling - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "BOW2021",
+        "sportName": "Bowling - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "BOW2022",
+        "sportName": "Bowling - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "BOW2023",
+        "sportName": "Bowling - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "BOW2024",
+        "sportName": "Bowling - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "BOW2025",
+        "sportName": "Bowling - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "CHE2009",
+        "sportName": "Cheerleading - 2009",
+        "season": "Spring",
+        "startDate": "03/01/2009",
+        "endDate": "03/02/2009"
+    },
+    {
+        "sportId": "CHE2010",
+        "sportName": "Cheerleading - 2010",
+        "season": "Spring",
+        "startDate": "03/01/2010",
+        "endDate": "03/02/2010"
+    },
+    {
+        "sportId": "CHE2011",
+        "sportName": "Cheerleading - 2011",
+        "season": "Spring",
+        "startDate": "03/01/2011",
+        "endDate": "03/02/2011"
+    },
+    {
+        "sportId": "CHE2012",
+        "sportName": "Cheerleading - 2012",
+        "season": "Spring",
+        "startDate": "03/01/2012",
+        "endDate": "03/02/2012"
+    },
+    {
+        "sportId": "CHE2013",
+        "sportName": "Cheerleading - 2013",
+        "season": "Spring",
+        "startDate": "03/01/2013",
+        "endDate": "03/02/2013"
+    },
+    {
+        "sportId": "CHE2014",
+        "sportName": "Cheerleading - 2014",
+        "season": "Spring",
+        "startDate": "03/01/2014",
+        "endDate": "03/02/2014"
+    },
+    {
+        "sportId": "CHE2015",
+        "sportName": "Cheerleading - 2015",
+        "season": "Spring",
+        "startDate": "03/01/2015",
+        "endDate": "03/02/2015"
+    },
+    {
+        "sportId": "CHE2016",
+        "sportName": "Cheerleading - 2016",
+        "season": "Spring",
+        "startDate": "03/01/2016",
+        "endDate": "03/02/2016"
+    },
+    {
+        "sportId": "CHE2017",
+        "sportName": "Cheerleading - 2017",
+        "season": "Spring",
+        "startDate": "03/01/2017",
+        "endDate": "03/02/2017"
+    },
+    {
+        "sportId": "CHE2018",
+        "sportName": "Cheerleading - 2018",
+        "season": "Spring",
+        "startDate": "03/01/2018",
+        "endDate": "03/02/2018"
+    },
+    {
+        "sportId": "CHE2019",
+        "sportName": "Cheerleading - 2019",
+        "season": "Spring",
+        "startDate": "03/01/2019",
+        "endDate": "03/02/2019"
+    },
+    {
+        "sportId": "CHE2021",
+        "sportName": "Cheerleading - 2021",
+        "season": "Spring",
+        "startDate": "03/01/2021",
+        "endDate": "03/02/2021"
+    },
+    {
+        "sportId": "CHE2022",
+        "sportName": "Cheerleading - 2022",
+        "season": "Spring",
+        "startDate": "03/01/2022",
+        "endDate": "03/02/2022"
+    },
+    {
+        "sportId": "CHE2023",
+        "sportName": "Cheerleading - 2023",
+        "season": "Spring",
+        "startDate": "03/01/2023",
+        "endDate": "03/02/2023"
+    },
+    {
+        "sportId": "CHE2024",
+        "sportName": "Cheerleading - 2024",
+        "season": "Spring",
+        "startDate": "03/01/2024",
+        "endDate": "03/02/2024"
+    },
+    {
+        "sportId": "CHE2025",
+        "sportName": "Cheerleading - 2025",
+        "season": "Spring",
+        "startDate": "03/01/2025",
+        "endDate": "03/02/2025"
+    },
+    {
+        "sportId": "COA2025",
+        "sportName": "Coaching unified Sports - 2025",
+        "season": "DELETE",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "CSO2025",
+        "sportName": "CSOA - 2025",
+        "season": "DELETE",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "CSO2028",
+        "sportName": "CSOA - 2028",
+        "season": "DELETE",
+        "startDate": "08/01/2028",
+        "endDate": "08/02/2028"
+    },
+    {
+        "sportId": "CYC1999",
+        "sportName": "Cycling - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "CYC2000",
+        "sportName": "Cycling - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "CYC2001",
+        "sportName": "Cycling - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "CYC2002",
+        "sportName": "Cycling - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "CYC2003",
+        "sportName": "Cycling - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "CYC2004",
+        "sportName": "Cycling - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "CYC2005",
+        "sportName": "Cycling - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "CYC2006",
+        "sportName": "Cycling - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "CYC2007",
+        "sportName": "Cycling - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "CYC2008",
+        "sportName": "Cycling - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "CYC2009",
+        "sportName": "Cycling - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "CYC2010",
+        "sportName": "Cycling - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "CYC2011",
+        "sportName": "Cycling - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "CYC2012",
+        "sportName": "Cycling - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "CYC2013",
+        "sportName": "Cycling - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "CYC2014",
+        "sportName": "Cycling - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "CYC2015",
+        "sportName": "Cycling - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "CYC2016",
+        "sportName": "Cycling - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "CYC2017",
+        "sportName": "Cycling - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "CYC2018",
+        "sportName": "Cycling - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "CYC2019",
+        "sportName": "Cycling - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "CYC2020",
+        "sportName": "Cycling - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "CYC2021",
+        "sportName": "Cycling - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "CYC2022",
+        "sportName": "Cycling - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "CYC2023",
+        "sportName": "Cycling - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "CYC2024",
+        "sportName": "Cycling - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "CYC2025",
+        "sportName": "Cycling - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "DAN2019",
+        "sportName": "Dance - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "DAN2022",
+        "sportName": "Dance - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "DAN2023",
+        "sportName": "Dance - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "DAN2024",
+        "sportName": "Dance - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "DIS2006",
+        "sportName": "Distance Running - 2006",
+        "season": "Fall",
+        "startDate": "09/01/2006",
+        "endDate": "09/02/2006"
+    },
+    {
+        "sportId": "DIS2009",
+        "sportName": "Distance Running - 2009",
+        "season": "Fall",
+        "startDate": "09/01/2009",
+        "endDate": "09/02/2009"
+    },
+    {
+        "sportId": "DIS2010",
+        "sportName": "Distance Running - 2010",
+        "season": "Fall",
+        "startDate": "09/01/2010",
+        "endDate": "09/02/2010"
+    },
+    {
+        "sportId": "DIS2011",
+        "sportName": "Distance Running - 2011",
+        "season": "Fall",
+        "startDate": "09/01/2011",
+        "endDate": "09/02/2011"
+    },
+    {
+        "sportId": "DIS2012",
+        "sportName": "Distance Running - 2012",
+        "season": "Fall",
+        "startDate": "09/01/2012",
+        "endDate": "09/02/2012"
+    },
+    {
+        "sportId": "DIS2013",
+        "sportName": "Distance Running - 2013",
+        "season": "Fall",
+        "startDate": "09/01/2013",
+        "endDate": "09/02/2013"
+    },
+    {
+        "sportId": "DIS2015",
+        "sportName": "Distance Running - 2015",
+        "season": "Fall",
+        "startDate": "09/01/2015",
+        "endDate": "09/02/2015"
+    },
+    {
+        "sportId": "DIS2016",
+        "sportName": "Distance Running - 2016",
+        "season": "Fall",
+        "startDate": "09/01/2016",
+        "endDate": "09/02/2016"
+    },
+    {
+        "sportId": "DIS2017",
+        "sportName": "Distance Running - 2017",
+        "season": "Fall",
+        "startDate": "09/01/2017",
+        "endDate": "09/02/2017"
+    },
+    {
+        "sportId": "DIS2018",
+        "sportName": "Distance Running - 2018",
+        "season": "Fall",
+        "startDate": "09/01/2018",
+        "endDate": "09/02/2018"
+    },
+    {
+        "sportId": "DIS2019",
+        "sportName": "Distance Running - 2019",
+        "season": "Fall",
+        "startDate": "09/01/2019",
+        "endDate": "09/02/2019"
+    },
+    {
+        "sportId": "DIS2020",
+        "sportName": "Distance Running - 2020",
+        "season": "Fall",
+        "startDate": "09/01/2020",
+        "endDate": "09/02/2020"
+    },
+    {
+        "sportId": "DIS2021",
+        "sportName": "Distance Running - 2021",
+        "season": "Fall",
+        "startDate": "09/01/2021",
+        "endDate": "09/02/2021"
+    },
+    {
+        "sportId": "DIS2022",
+        "sportName": "Distance Running - 2022",
+        "season": "Fall",
+        "startDate": "09/01/2022",
+        "endDate": "09/02/2022"
+    },
+    {
+        "sportId": "DIS2023",
+        "sportName": "Distance Running - 2023",
+        "season": "Fall",
+        "startDate": "09/01/2023",
+        "endDate": "09/02/2023"
+    },
+    {
+        "sportId": "DIS2024",
+        "sportName": "Distance Running - 2024",
+        "season": "Fall",
+        "startDate": "09/01/2024",
+        "endDate": "09/02/2024"
+    },
+    {
+        "sportId": "DIS2025",
+        "sportName": "Distance Running - 2025",
+        "season": "Fall",
+        "startDate": "09/01/2025",
+        "endDate": "09/02/2025"
+    },
+    {
+        "sportId": "EQU1996",
+        "sportName": "Equestrian - 1996",
+        "season": "Spring",
+        "startDate": "04/01/1996",
+        "endDate": "04/02/1996"
+    },
+    {
+        "sportId": "EQU1999",
+        "sportName": "Equestrian - 1999",
+        "season": "Spring",
+        "startDate": "04/01/1999",
+        "endDate": "04/02/1999"
+    },
+    {
+        "sportId": "EQU2000",
+        "sportName": "Equestrian - 2000",
+        "season": "Spring",
+        "startDate": "04/01/2000",
+        "endDate": "04/02/2000"
+    },
+    {
+        "sportId": "EQU2002",
+        "sportName": "Equestrian - 2002",
+        "season": "Spring",
+        "startDate": "04/01/2002",
+        "endDate": "04/02/2002"
+    },
+    {
+        "sportId": "EQU2003",
+        "sportName": "Equestrian - 2003",
+        "season": "Spring",
+        "startDate": "04/01/2003",
+        "endDate": "04/02/2003"
+    },
+    {
+        "sportId": "EQU2004",
+        "sportName": "Equestrian - 2004",
+        "season": "Spring",
+        "startDate": "04/01/2004",
+        "endDate": "04/02/2004"
+    },
+    {
+        "sportId": "EQU2005",
+        "sportName": "Equestrian - 2005",
+        "season": "Spring",
+        "startDate": "04/01/2005",
+        "endDate": "04/02/2005"
+    },
+    {
+        "sportId": "EQU2006",
+        "sportName": "Equestrian - 2006",
+        "season": "Spring",
+        "startDate": "04/01/2006",
+        "endDate": "04/02/2006"
+    },
+    {
+        "sportId": "EQU2007",
+        "sportName": "Equestrian - 2007",
+        "season": "Spring",
+        "startDate": "04/01/2007",
+        "endDate": "04/02/2007"
+    },
+    {
+        "sportId": "EQU2009",
+        "sportName": "Equestrian - 2009",
+        "season": "Spring",
+        "startDate": "04/01/2009",
+        "endDate": "04/02/2009"
+    },
+    {
+        "sportId": "EQU2010",
+        "sportName": "Equestrian - 2010",
+        "season": "Spring",
+        "startDate": "04/01/2010",
+        "endDate": "04/02/2010"
+    },
+    {
+        "sportId": "EQU2011",
+        "sportName": "Equestrian - 2011",
+        "season": "Spring",
+        "startDate": "04/01/2011",
+        "endDate": "04/02/2011"
+    },
+    {
+        "sportId": "EQU2012",
+        "sportName": "Equestrian - 2012",
+        "season": "Spring",
+        "startDate": "04/01/2012",
+        "endDate": "04/02/2012"
+    },
+    {
+        "sportId": "EQU2013",
+        "sportName": "Equestrian - 2013",
+        "season": "Spring",
+        "startDate": "04/01/2013",
+        "endDate": "04/02/2013"
+    },
+    {
+        "sportId": "EQU2014",
+        "sportName": "Equestrian - 2014",
+        "season": "Spring",
+        "startDate": "04/01/2014",
+        "endDate": "04/02/2014"
+    },
+    {
+        "sportId": "EQU2015",
+        "sportName": "Equestrian - 2015",
+        "season": "Spring",
+        "startDate": "04/01/2015",
+        "endDate": "04/02/2015"
+    },
+    {
+        "sportId": "EQU2016",
+        "sportName": "Equestrian - 2016",
+        "season": "Spring",
+        "startDate": "04/01/2016",
+        "endDate": "04/02/2016"
+    },
+    {
+        "sportId": "EQU2017",
+        "sportName": "Equestrian - 2017",
+        "season": "Spring",
+        "startDate": "04/01/2017",
+        "endDate": "04/02/2017"
+    },
+    {
+        "sportId": "EQU2018",
+        "sportName": "Equestrian - 2018",
+        "season": "Spring",
+        "startDate": "04/01/2018",
+        "endDate": "04/02/2018"
+    },
+    {
+        "sportId": "EQU2019",
+        "sportName": "Equestrian - 2019",
+        "season": "Spring",
+        "startDate": "04/01/2019",
+        "endDate": "04/02/2019"
+    },
+    {
+        "sportId": "EQU2021",
+        "sportName": "Equestrian - 2021",
+        "season": "Spring",
+        "startDate": "04/01/2021",
+        "endDate": "04/02/2021"
+    },
+    {
+        "sportId": "EQU2022",
+        "sportName": "Equestrian - 2022",
+        "season": "Spring",
+        "startDate": "04/01/2022",
+        "endDate": "04/02/2022"
+    },
+    {
+        "sportId": "EQU2025",
+        "sportName": "Equestrian - 2025",
+        "season": "Spring",
+        "startDate": "04/01/2025",
+        "endDate": "04/02/2025"
+    },
+    {
+        "sportId": "FIG2002",
+        "sportName": "FigureSkating - 2002",
+        "season": "Winter",
+        "startDate": "01/01/2002",
+        "endDate": "01/02/2002"
+    },
+    {
+        "sportId": "FIG2003",
+        "sportName": "FigureSkating - 2003",
+        "season": "Winter",
+        "startDate": "01/01/2003",
+        "endDate": "01/02/2003"
+    },
+    {
+        "sportId": "FIG2004",
+        "sportName": "FigureSkating - 2004",
+        "season": "Winter",
+        "startDate": "01/01/2004",
+        "endDate": "01/02/2004"
+    },
+    {
+        "sportId": "FIG2005",
+        "sportName": "FigureSkating - 2005",
+        "season": "Winter",
+        "startDate": "01/01/2005",
+        "endDate": "01/02/2005"
+    },
+    {
+        "sportId": "FIG2006",
+        "sportName": "FigureSkating - 2006",
+        "season": "Winter",
+        "startDate": "01/01/2006",
+        "endDate": "01/02/2006"
+    },
+    {
+        "sportId": "FIG2007",
+        "sportName": "FigureSkating - 2007",
+        "season": "Winter",
+        "startDate": "01/01/2007",
+        "endDate": "01/02/2007"
+    },
+    {
+        "sportId": "FIG2008",
+        "sportName": "FigureSkating - 2008",
+        "season": "Winter",
+        "startDate": "01/01/2008",
+        "endDate": "01/02/2008"
+    },
+    {
+        "sportId": "FIG2009",
+        "sportName": "FigureSkating - 2009",
+        "season": "Winter",
+        "startDate": "01/01/2009",
+        "endDate": "01/02/2009"
+    },
+    {
+        "sportId": "FIG2011",
+        "sportName": "FigureSkating - 2011",
+        "season": "Winter",
+        "startDate": "01/01/2011",
+        "endDate": "01/02/2011"
+    },
+    {
+        "sportId": "FIG2014",
+        "sportName": "FigureSkating - 2014",
+        "season": "Winter",
+        "startDate": "01/01/2014",
+        "endDate": "01/02/2014"
+    },
+    {
+        "sportId": "FIG2020",
+        "sportName": "FigureSkating - 2020",
+        "season": "Winter",
+        "startDate": "01/01/2020",
+        "endDate": "01/02/2020"
+    },
+    {
+        "sportId": "FIG2025",
+        "sportName": "FigureSkating - 2025",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025"
+    },
+    {
+        "sportId": "FLA2009",
+        "sportName": "Flag Football - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "FLA2010",
+        "sportName": "Flag Football - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "FLA2011",
+        "sportName": "Flag Football - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "FLA2012",
+        "sportName": "Flag Football - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "FLA2013",
+        "sportName": "Flag Football - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "FLA2014",
+        "sportName": "Flag Football - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "FLA2015",
+        "sportName": "Flag Football - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "FLA2016",
+        "sportName": "Flag Football - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "FLA2017",
+        "sportName": "Flag Football - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "FLA2018",
+        "sportName": "Flag Football - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "FLA2019",
+        "sportName": "Flag Football - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "FLA2021",
+        "sportName": "Flag Football - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "FLA2022",
+        "sportName": "Flag Football - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "FLA2023",
+        "sportName": "Flag Football - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "FLA2024",
+        "sportName": "Flag Football - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "FLA2025",
+        "sportName": "Flag Football - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "GOL1997",
+        "sportName": "Golf - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "GOL1998",
+        "sportName": "Golf - 1998",
+        "season": "Fall",
+        "startDate": "08/01/1998",
+        "endDate": "08/02/1998"
+    },
+    {
+        "sportId": "GOL1999",
+        "sportName": "Golf - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "GOL2000",
+        "sportName": "Golf - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "GOL2001",
+        "sportName": "Golf - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "GOL2002",
+        "sportName": "Golf - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "GOL2003",
+        "sportName": "Golf - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "GOL2004",
+        "sportName": "Golf - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "GOL2005",
+        "sportName": "Golf - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "GOL2006",
+        "sportName": "Golf - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "GOL2007",
+        "sportName": "Golf - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "GOL2008",
+        "sportName": "Golf - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "GOL2009",
+        "sportName": "Golf - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "GOL2010",
+        "sportName": "Golf - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "GOL2011",
+        "sportName": "Golf - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "GOL2012",
+        "sportName": "Golf - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "GOL2013",
+        "sportName": "Golf - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "GOL2014",
+        "sportName": "Golf - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "GOL2015",
+        "sportName": "Golf - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "GOL2016",
+        "sportName": "Golf - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "GOL2017",
+        "sportName": "Golf - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "GOL2018",
+        "sportName": "Golf - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "GOL2019",
+        "sportName": "Golf - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "GOL2020",
+        "sportName": "Golf - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "GOL2021",
+        "sportName": "Golf - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "GOL2022",
+        "sportName": "Golf - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "GOL2023",
+        "sportName": "Golf - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "GOL2024",
+        "sportName": "Golf - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "GOL2025",
+        "sportName": "Golf - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "GOL1997",
+        "sportName": "Golf Level 1 - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "GOL2006",
+        "sportName": "Golf Level 1 - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "GOL2008",
+        "sportName": "Golf Level 1 - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "GOL2009",
+        "sportName": "Golf Level 1 - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "GOL2010",
+        "sportName": "Golf Level 1 - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "GOL2011",
+        "sportName": "Golf Level 1 - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "GOL2012",
+        "sportName": "Golf Level 1 - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "GOL2013",
+        "sportName": "Golf Level 1 - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "GOL2014",
+        "sportName": "Golf Level 1 - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "GOL2015",
+        "sportName": "Golf Level 1 - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "GOL2016",
+        "sportName": "Golf Level 1 - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "GOL2017",
+        "sportName": "Golf Level 1 - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "GOL2018",
+        "sportName": "Golf Level 1 - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "GOL2019",
+        "sportName": "Golf Level 1 - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "GOL2021",
+        "sportName": "Golf Level 1 - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "GOL2022",
+        "sportName": "Golf Level 1 - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "GOL2023",
+        "sportName": "Golf Level 1 - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "GOL2024",
+        "sportName": "Golf Level 1 - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "GOL2025",
+        "sportName": "Golf Level 1 - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "GOL2008",
+        "sportName": "Golf Level 5 - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "GOL2012",
+        "sportName": "Golf Level 5 - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "GOL2024",
+        "sportName": "Golf Level 5 - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "KAY2017",
+        "sportName": "Kayaking - 2017",
+        "season": "Summer",
+        "startDate": "06/01/2017",
+        "endDate": "06/02/2017"
+    },
+    {
+        "sportId": "KAY2018",
+        "sportName": "Kayaking - 2018",
+        "season": "Summer",
+        "startDate": "06/01/2018",
+        "endDate": "06/02/2018"
+    },
+    {
+        "sportId": "KAY2019",
+        "sportName": "Kayaking - 2019",
+        "season": "Summer",
+        "startDate": "06/01/2019",
+        "endDate": "06/02/2019"
+    },
+    {
+        "sportId": "KAY2022",
+        "sportName": "Kayaking - 2022",
+        "season": "Summer",
+        "startDate": "06/01/2022",
+        "endDate": "06/02/2022"
+    },
+    {
+        "sportId": "NO 1997",
+        "sportName": "no name - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "NO 1998",
+        "sportName": "no name - 1998",
+        "season": "Fall",
+        "startDate": "08/01/1998",
+        "endDate": "08/02/1998"
+    },
+    {
+        "sportId": "NO 1999",
+        "sportName": "no name - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "NO 2000",
+        "sportName": "no name - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "NO 2001",
+        "sportName": "no name - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "NO 2003",
+        "sportName": "no name - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "NO 2004",
+        "sportName": "no name - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "NO 2005",
+        "sportName": "no name - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "NO 2006",
+        "sportName": "no name - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "NO 2007",
+        "sportName": "no name - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "NO 2008",
+        "sportName": "no name - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "NO 2009",
+        "sportName": "no name - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "NO 2010",
+        "sportName": "no name - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "NO 2011",
+        "sportName": "no name - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "NO 2012",
+        "sportName": "no name - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "NO 2013",
+        "sportName": "no name - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "NO 2014",
+        "sportName": "no name - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "NO 2015",
+        "sportName": "no name - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "NO 2016",
+        "sportName": "no name - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "NO 2017",
+        "sportName": "no name - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "NO 2018",
+        "sportName": "no name - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "NO 2019",
+        "sportName": "no name - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "NO 2020",
+        "sportName": "no name - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "NO 2022",
+        "sportName": "no name - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "NO 2023",
+        "sportName": "no name - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "NO 2025",
+        "sportName": "no name - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "PIC2022",
+        "sportName": "Pickleball - 2022",
+        "season": "Spring",
+        "startDate": "03/01/2022",
+        "endDate": "03/02/2022"
+    },
+    {
+        "sportId": "PIC2023",
+        "sportName": "Pickleball - 2023",
+        "season": "Spring",
+        "startDate": "03/01/2023",
+        "endDate": "03/02/2023"
+    },
+    {
+        "sportId": "PIC2024",
+        "sportName": "Pickleball - 2024",
+        "season": "Spring",
+        "startDate": "03/01/2024",
+        "endDate": "03/02/2024"
+    },
+    {
+        "sportId": "PIC2024",
+        "sportName": "Pickleball - 2024",
+        "season": "Spring",
+        "startDate": "03/01/2024",
+        "endDate": "03/02/2024"
+    },
+    {
+        "sportId": "POM2019",
+        "sportName": "Poms - 2019",
+        "season": "Spring",
+        "startDate": "04/01/2019",
+        "endDate": "04/02/2019"
+    },
+    {
+        "sportId": "POM2023",
+        "sportName": "Poms - 2023",
+        "season": "Spring",
+        "startDate": "04/01/2023",
+        "endDate": "04/02/2023"
+    },
+    {
+        "sportId": "POM2024",
+        "sportName": "Poms - 2024",
+        "season": "Spring",
+        "startDate": "04/01/2024",
+        "endDate": "04/02/2024"
+    },
+    {
+        "sportId": "POW1999",
+        "sportName": "Powerlifting - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "POW2000",
+        "sportName": "Powerlifting - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "POW2002",
+        "sportName": "Powerlifting - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "POW2003",
+        "sportName": "Powerlifting - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "POW2004",
+        "sportName": "Powerlifting - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "POW2005",
+        "sportName": "Powerlifting - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "POW2006",
+        "sportName": "Powerlifting - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "POW2007",
+        "sportName": "Powerlifting - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "POW2008",
+        "sportName": "Powerlifting - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "POW2009",
+        "sportName": "Powerlifting - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "POW2010",
+        "sportName": "Powerlifting - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "POW2011",
+        "sportName": "Powerlifting - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "POW2012",
+        "sportName": "Powerlifting - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "POW2013",
+        "sportName": "Powerlifting - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "POW2014",
+        "sportName": "Powerlifting - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "POW2015",
+        "sportName": "Powerlifting - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "POW2016",
+        "sportName": "Powerlifting - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "POW2017",
+        "sportName": "Powerlifting - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "POW2018",
+        "sportName": "Powerlifting - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "POW2019",
+        "sportName": "Powerlifting - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "POW2020",
+        "sportName": "Powerlifting - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "POW2021",
+        "sportName": "Powerlifting - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "POW2022",
+        "sportName": "Powerlifting - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "POW2023",
+        "sportName": "Powerlifting - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "POW2024",
+        "sportName": "Powerlifting - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "POW2025",
+        "sportName": "Powerlifting - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "SKI1996",
+        "sportName": "SkiingAlpine - 1996",
+        "season": "Fall",
+        "startDate": "08/01/1996",
+        "endDate": "08/02/1996"
+    },
+    {
+        "sportId": "SKI1997",
+        "sportName": "SkiingAlpine - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "SKI1998",
+        "sportName": "SkiingAlpine - 1998",
+        "season": "Fall",
+        "startDate": "08/01/1998",
+        "endDate": "08/02/1998"
+    },
+    {
+        "sportId": "SKI1999",
+        "sportName": "SkiingAlpine - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "SKI2001",
+        "sportName": "SkiingAlpine - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "SKI2002",
+        "sportName": "SkiingAlpine - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "SKI2003",
+        "sportName": "SkiingAlpine - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "SKI2004",
+        "sportName": "SkiingAlpine - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "SKI2005",
+        "sportName": "SkiingAlpine - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "SKI2006",
+        "sportName": "SkiingAlpine - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "SKI2007",
+        "sportName": "SkiingAlpine - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "SKI2008",
+        "sportName": "SkiingAlpine - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "SKI2009",
+        "sportName": "SkiingAlpine - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "SKI2010",
+        "sportName": "SkiingAlpine - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "SKI2011",
+        "sportName": "SkiingAlpine - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "SKI2012",
+        "sportName": "SkiingAlpine - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "SKI2013",
+        "sportName": "SkiingAlpine - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "SKI2014",
+        "sportName": "SkiingAlpine - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "SKI2015",
+        "sportName": "SkiingAlpine - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "SKI2016",
+        "sportName": "SkiingAlpine - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "SKI2017",
+        "sportName": "SkiingAlpine - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "SKI2018",
+        "sportName": "SkiingAlpine - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "SKI2020",
+        "sportName": "SkiingAlpine - 2020",
+        "season": "Fall",
+        "startDate": "08/01/2020",
+        "endDate": "08/02/2020"
+    },
+    {
+        "sportId": "SKI2021",
+        "sportName": "SkiingAlpine - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "SKI2022",
+        "sportName": "SkiingAlpine - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "SKI2023",
+        "sportName": "SkiingAlpine - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "SKI2024",
+        "sportName": "SkiingAlpine - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "SKI2025",
+        "sportName": "SkiingAlpine - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "SKI1997",
+        "sportName": "SkiingNordic - 1997",
+        "season": "Winter",
+        "startDate": "01/01/1997",
+        "endDate": "01/02/1997"
+    },
+    {
+        "sportId": "SKI1999",
+        "sportName": "SkiingNordic - 1999",
+        "season": "Winter",
+        "startDate": "01/01/1999",
+        "endDate": "01/02/1999"
+    },
+    {
+        "sportId": "SKI2003",
+        "sportName": "SkiingNordic - 2003",
+        "season": "Winter",
+        "startDate": "01/01/2003",
+        "endDate": "01/02/2003"
+    },
+    {
+        "sportId": "SKI2005",
+        "sportName": "SkiingNordic - 2005",
+        "season": "Winter",
+        "startDate": "01/01/2005",
+        "endDate": "01/02/2005"
+    },
+    {
+        "sportId": "SKI2006",
+        "sportName": "SkiingNordic - 2006",
+        "season": "Winter",
+        "startDate": "01/01/2006",
+        "endDate": "01/02/2006"
+    },
+    {
+        "sportId": "SKI2007",
+        "sportName": "SkiingNordic - 2007",
+        "season": "Winter",
+        "startDate": "01/01/2007",
+        "endDate": "01/02/2007"
+    },
+    {
+        "sportId": "SKI2008",
+        "sportName": "SkiingNordic - 2008",
+        "season": "Winter",
+        "startDate": "01/01/2008",
+        "endDate": "01/02/2008"
+    },
+    {
+        "sportId": "SKI2009",
+        "sportName": "SkiingNordic - 2009",
+        "season": "Winter",
+        "startDate": "01/01/2009",
+        "endDate": "01/02/2009"
+    },
+    {
+        "sportId": "SKI2010",
+        "sportName": "SkiingNordic - 2010",
+        "season": "Winter",
+        "startDate": "01/01/2010",
+        "endDate": "01/02/2010"
+    },
+    {
+        "sportId": "SKI2011",
+        "sportName": "SkiingNordic - 2011",
+        "season": "Winter",
+        "startDate": "01/01/2011",
+        "endDate": "01/02/2011"
+    },
+    {
+        "sportId": "SKI2025",
+        "sportName": "SkiingNordic - 2025",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025"
+    },
+    {
+        "sportId": "SNO2005",
+        "sportName": "Snowshoeing - 2005",
+        "season": "Winter",
+        "startDate": "01/01/2005",
+        "endDate": "01/02/2005"
+    },
+    {
+        "sportId": "SNO2006",
+        "sportName": "Snowshoeing - 2006",
+        "season": "Winter",
+        "startDate": "01/01/2006",
+        "endDate": "01/02/2006"
+    },
+    {
+        "sportId": "SNO2007",
+        "sportName": "Snowshoeing - 2007",
+        "season": "Winter",
+        "startDate": "01/01/2007",
+        "endDate": "01/02/2007"
+    },
+    {
+        "sportId": "SNO2008",
+        "sportName": "Snowshoeing - 2008",
+        "season": "Winter",
+        "startDate": "01/01/2008",
+        "endDate": "01/02/2008"
+    },
+    {
+        "sportId": "SNO2009",
+        "sportName": "Snowshoeing - 2009",
+        "season": "Winter",
+        "startDate": "01/01/2009",
+        "endDate": "01/02/2009"
+    },
+    {
+        "sportId": "SNO2010",
+        "sportName": "Snowshoeing - 2010",
+        "season": "Winter",
+        "startDate": "01/01/2010",
+        "endDate": "01/02/2010"
+    },
+    {
+        "sportId": "SNO2011",
+        "sportName": "Snowshoeing - 2011",
+        "season": "Winter",
+        "startDate": "01/01/2011",
+        "endDate": "01/02/2011"
+    },
+    {
+        "sportId": "SNO2012",
+        "sportName": "Snowshoeing - 2012",
+        "season": "Winter",
+        "startDate": "01/01/2012",
+        "endDate": "01/02/2012"
+    },
+    {
+        "sportId": "SNO2013",
+        "sportName": "Snowshoeing - 2013",
+        "season": "Winter",
+        "startDate": "01/01/2013",
+        "endDate": "01/02/2013"
+    },
+    {
+        "sportId": "SNO2014",
+        "sportName": "Snowshoeing - 2014",
+        "season": "Winter",
+        "startDate": "01/01/2014",
+        "endDate": "01/02/2014"
+    },
+    {
+        "sportId": "SNO2015",
+        "sportName": "Snowshoeing - 2015",
+        "season": "Winter",
+        "startDate": "01/01/2015",
+        "endDate": "01/02/2015"
+    },
+    {
+        "sportId": "SNO2016",
+        "sportName": "Snowshoeing - 2016",
+        "season": "Winter",
+        "startDate": "01/01/2016",
+        "endDate": "01/02/2016"
+    },
+    {
+        "sportId": "SNO2017",
+        "sportName": "Snowshoeing - 2017",
+        "season": "Winter",
+        "startDate": "01/01/2017",
+        "endDate": "01/02/2017"
+    },
+    {
+        "sportId": "SNO2018",
+        "sportName": "Snowshoeing - 2018",
+        "season": "Winter",
+        "startDate": "01/01/2018",
+        "endDate": "01/02/2018"
+    },
+    {
+        "sportId": "SNO2019",
+        "sportName": "Snowshoeing - 2019",
+        "season": "Winter",
+        "startDate": "01/01/2019",
+        "endDate": "01/02/2019"
+    },
+    {
+        "sportId": "SNO2020",
+        "sportName": "Snowshoeing - 2020",
+        "season": "Winter",
+        "startDate": "01/01/2020",
+        "endDate": "01/02/2020"
+    },
+    {
+        "sportId": "SNO2021",
+        "sportName": "Snowshoeing - 2021",
+        "season": "Winter",
+        "startDate": "01/01/2021",
+        "endDate": "01/02/2021"
+    },
+    {
+        "sportId": "SNO2022",
+        "sportName": "Snowshoeing - 2022",
+        "season": "Winter",
+        "startDate": "01/01/2022",
+        "endDate": "01/02/2022"
+    },
+    {
+        "sportId": "SNO2023",
+        "sportName": "Snowshoeing - 2023",
+        "season": "Winter",
+        "startDate": "01/01/2023",
+        "endDate": "01/02/2023"
+    },
+    {
+        "sportId": "SNO2024",
+        "sportName": "Snowshoeing - 2024",
+        "season": "Winter",
+        "startDate": "01/01/2024",
+        "endDate": "01/02/2024"
+    },
+    {
+        "sportId": "SNO2025",
+        "sportName": "Snowshoeing - 2025",
+        "season": "Winter",
+        "startDate": "01/01/2025",
+        "endDate": "01/02/2025"
+    },
+    {
+        "sportId": "SNO2076",
+        "sportName": "Snowshoeing - 2076",
+        "season": "Winter",
+        "startDate": "01/01/2076",
+        "endDate": "01/02/2076"
+    },
+    {
+        "sportId": "SOC1997",
+        "sportName": "Soccer - 1997",
+        "season": "Fall",
+        "startDate": "08/01/1997",
+        "endDate": "08/02/1997"
+    },
+    {
+        "sportId": "SOC1998",
+        "sportName": "Soccer - 1998",
+        "season": "Fall",
+        "startDate": "08/01/1998",
+        "endDate": "08/02/1998"
+    },
+    {
+        "sportId": "SOC1999",
+        "sportName": "Soccer - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "SOC2000",
+        "sportName": "Soccer - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "SOC2001",
+        "sportName": "Soccer - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "SOC2002",
+        "sportName": "Soccer - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "SOC2003",
+        "sportName": "Soccer - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "SOC2004",
+        "sportName": "Soccer - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "SOC2005",
+        "sportName": "Soccer - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "SOC2006",
+        "sportName": "Soccer - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "SOC2007",
+        "sportName": "Soccer - 2007",
+        "season": "Fall",
+        "startDate": "08/01/2007",
+        "endDate": "08/02/2007"
+    },
+    {
+        "sportId": "SOC2008",
+        "sportName": "Soccer - 2008",
+        "season": "Fall",
+        "startDate": "08/01/2008",
+        "endDate": "08/02/2008"
+    },
+    {
+        "sportId": "SOC2009",
+        "sportName": "Soccer - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "SOC2010",
+        "sportName": "Soccer - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "SOC2011",
+        "sportName": "Soccer - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "SOC2012",
+        "sportName": "Soccer - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "SOC2013",
+        "sportName": "Soccer - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "SOC2014",
+        "sportName": "Soccer - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "SOC2015",
+        "sportName": "Soccer - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "SOC2016",
+        "sportName": "Soccer - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "SOC2017",
+        "sportName": "Soccer - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "SOC2018",
+        "sportName": "Soccer - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "SOC2019",
+        "sportName": "Soccer - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "SOC2021",
+        "sportName": "Soccer - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "SOC2023",
+        "sportName": "Soccer - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "SOC2024",
+        "sportName": "Soccer - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "SOC2025",
+        "sportName": "Soccer - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "SOC2009",
+        "sportName": "Soccer PD - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "SOC2012",
+        "sportName": "Soccer PD - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "SOC2013",
+        "sportName": "Soccer PD - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "SOC2014",
+        "sportName": "Soccer PD - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "SOC2015",
+        "sportName": "Soccer PD - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "SOC2016",
+        "sportName": "Soccer PD - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "SOC2017",
+        "sportName": "Soccer PD - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "SOC2018",
+        "sportName": "Soccer PD - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "SOC2019",
+        "sportName": "Soccer PD - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "SOC2021",
+        "sportName": "Soccer PD - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "SOC2022",
+        "sportName": "Soccer PD - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "SOC2023",
+        "sportName": "Soccer PD - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "SOC2024",
+        "sportName": "Soccer PD - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "SOC1996",
+        "sportName": "Soccer Skills - 1996",
+        "season": "Fall",
+        "startDate": "08/01/1996",
+        "endDate": "08/02/1996"
+    },
+    {
+        "sportId": "SOC2006",
+        "sportName": "Soccer Skills - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "SOC2009",
+        "sportName": "Soccer Skills - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "SOC2010",
+        "sportName": "Soccer Skills - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "SOC2011",
+        "sportName": "Soccer Skills - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "SOC2012",
+        "sportName": "Soccer Skills - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "SOC2014",
+        "sportName": "Soccer Skills - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "SOC2015",
+        "sportName": "Soccer Skills - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "SOC2016",
+        "sportName": "Soccer Skills - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "SOC2017",
+        "sportName": "Soccer Skills - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "SOC2018",
+        "sportName": "Soccer Skills - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "SOC2019",
+        "sportName": "Soccer Skills - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "SOC2021",
+        "sportName": "Soccer Skills - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "SOC2022",
+        "sportName": "Soccer Skills - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "SOC2022",
+        "sportName": "Soccer Skills - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "SOC2023",
+        "sportName": "Soccer Skills - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "SOC2024",
+        "sportName": "Soccer Skills - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "SOC2000",
+        "sportName": "Soccer Unified - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "SOC2004",
+        "sportName": "Soccer Unified - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "SOC2009",
+        "sportName": "Soccer Unified - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "SOC2012",
+        "sportName": "Soccer Unified - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "SOC2013",
+        "sportName": "Soccer Unified - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "SOC2017",
+        "sportName": "Soccer Unified - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "SOC2018",
+        "sportName": "Soccer Unified - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "SOF2000",
+        "sportName": "Softball - 2000",
+        "season": "Spring",
+        "startDate": "04/01/2000",
+        "endDate": "04/02/2000"
+    },
+    {
+        "sportId": "SOF2003",
+        "sportName": "Softball - 2003",
+        "season": "Spring",
+        "startDate": "04/01/2003",
+        "endDate": "04/02/2003"
+    },
+    {
+        "sportId": "SOF2005",
+        "sportName": "Softball - 2005",
+        "season": "Spring",
+        "startDate": "04/01/2005",
+        "endDate": "04/02/2005"
+    },
+    {
+        "sportId": "SOF2006",
+        "sportName": "Softball - 2006",
+        "season": "Spring",
+        "startDate": "04/01/2006",
+        "endDate": "04/02/2006"
+    },
+    {
+        "sportId": "SOF2007",
+        "sportName": "Softball - 2007",
+        "season": "Spring",
+        "startDate": "04/01/2007",
+        "endDate": "04/02/2007"
+    },
+    {
+        "sportId": "SOF2008",
+        "sportName": "Softball - 2008",
+        "season": "Spring",
+        "startDate": "04/01/2008",
+        "endDate": "04/02/2008"
+    },
+    {
+        "sportId": "SOF2009",
+        "sportName": "Softball - 2009",
+        "season": "Spring",
+        "startDate": "04/01/2009",
+        "endDate": "04/02/2009"
+    },
+    {
+        "sportId": "SOF2010",
+        "sportName": "Softball - 2010",
+        "season": "Spring",
+        "startDate": "04/01/2010",
+        "endDate": "04/02/2010"
+    },
+    {
+        "sportId": "SOF2011",
+        "sportName": "Softball - 2011",
+        "season": "Spring",
+        "startDate": "04/01/2011",
+        "endDate": "04/02/2011"
+    },
+    {
+        "sportId": "SOF2013",
+        "sportName": "Softball - 2013",
+        "season": "Spring",
+        "startDate": "04/01/2013",
+        "endDate": "04/02/2013"
+    },
+    {
+        "sportId": "SOF2014",
+        "sportName": "Softball - 2014",
+        "season": "Spring",
+        "startDate": "04/01/2014",
+        "endDate": "04/02/2014"
+    },
+    {
+        "sportId": "SOF2015",
+        "sportName": "Softball - 2015",
+        "season": "Spring",
+        "startDate": "04/01/2015",
+        "endDate": "04/02/2015"
+    },
+    {
+        "sportId": "SOF2016",
+        "sportName": "Softball - 2016",
+        "season": "Spring",
+        "startDate": "04/01/2016",
+        "endDate": "04/02/2016"
+    },
+    {
+        "sportId": "SOF2017",
+        "sportName": "Softball - 2017",
+        "season": "Spring",
+        "startDate": "04/01/2017",
+        "endDate": "04/02/2017"
+    },
+    {
+        "sportId": "SOF2018",
+        "sportName": "Softball - 2018",
+        "season": "Spring",
+        "startDate": "04/01/2018",
+        "endDate": "04/02/2018"
+    },
+    {
+        "sportId": "SOF2019",
+        "sportName": "Softball - 2019",
+        "season": "Spring",
+        "startDate": "04/01/2019",
+        "endDate": "04/02/2019"
+    },
+    {
+        "sportId": "SOF2021",
+        "sportName": "Softball - 2021",
+        "season": "Spring",
+        "startDate": "04/01/2021",
+        "endDate": "04/02/2021"
+    },
+    {
+        "sportId": "SOF2022",
+        "sportName": "Softball - 2022",
+        "season": "Spring",
+        "startDate": "04/01/2022",
+        "endDate": "04/02/2022"
+    },
+    {
+        "sportId": "SOF2023",
+        "sportName": "Softball - 2023",
+        "season": "Spring",
+        "startDate": "04/01/2023",
+        "endDate": "04/02/2023"
+    },
+    {
+        "sportId": "SOF2024",
+        "sportName": "Softball - 2024",
+        "season": "Spring",
+        "startDate": "04/01/2024",
+        "endDate": "04/02/2024"
+    },
+    {
+        "sportId": "SPI2022",
+        "sportName": "Spirit Fitness - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "SPI2023",
+        "sportName": "Spirit Fitness - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "SPI2024",
+        "sportName": "Spirit Fitness - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "TEN1999",
+        "sportName": "Tennis - 1999",
+        "season": "Fall",
+        "startDate": "08/01/1999",
+        "endDate": "08/02/1999"
+    },
+    {
+        "sportId": "TEN2000",
+        "sportName": "Tennis - 2000",
+        "season": "Fall",
+        "startDate": "08/01/2000",
+        "endDate": "08/02/2000"
+    },
+    {
+        "sportId": "TEN2001",
+        "sportName": "Tennis - 2001",
+        "season": "Fall",
+        "startDate": "08/01/2001",
+        "endDate": "08/02/2001"
+    },
+    {
+        "sportId": "TEN2002",
+        "sportName": "Tennis - 2002",
+        "season": "Fall",
+        "startDate": "08/01/2002",
+        "endDate": "08/02/2002"
+    },
+    {
+        "sportId": "TEN2003",
+        "sportName": "Tennis - 2003",
+        "season": "Fall",
+        "startDate": "08/01/2003",
+        "endDate": "08/02/2003"
+    },
+    {
+        "sportId": "TEN2004",
+        "sportName": "Tennis - 2004",
+        "season": "Fall",
+        "startDate": "08/01/2004",
+        "endDate": "08/02/2004"
+    },
+    {
+        "sportId": "TEN2005",
+        "sportName": "Tennis - 2005",
+        "season": "Fall",
+        "startDate": "08/01/2005",
+        "endDate": "08/02/2005"
+    },
+    {
+        "sportId": "TEN2006",
+        "sportName": "Tennis - 2006",
+        "season": "Fall",
+        "startDate": "08/01/2006",
+        "endDate": "08/02/2006"
+    },
+    {
+        "sportId": "TEN2009",
+        "sportName": "Tennis - 2009",
+        "season": "Fall",
+        "startDate": "08/01/2009",
+        "endDate": "08/02/2009"
+    },
+    {
+        "sportId": "TEN2010",
+        "sportName": "Tennis - 2010",
+        "season": "Fall",
+        "startDate": "08/01/2010",
+        "endDate": "08/02/2010"
+    },
+    {
+        "sportId": "TEN2011",
+        "sportName": "Tennis - 2011",
+        "season": "Fall",
+        "startDate": "08/01/2011",
+        "endDate": "08/02/2011"
+    },
+    {
+        "sportId": "TEN2012",
+        "sportName": "Tennis - 2012",
+        "season": "Fall",
+        "startDate": "08/01/2012",
+        "endDate": "08/02/2012"
+    },
+    {
+        "sportId": "TEN2013",
+        "sportName": "Tennis - 2013",
+        "season": "Fall",
+        "startDate": "08/01/2013",
+        "endDate": "08/02/2013"
+    },
+    {
+        "sportId": "TEN2014",
+        "sportName": "Tennis - 2014",
+        "season": "Fall",
+        "startDate": "08/01/2014",
+        "endDate": "08/02/2014"
+    },
+    {
+        "sportId": "TEN2015",
+        "sportName": "Tennis - 2015",
+        "season": "Fall",
+        "startDate": "08/01/2015",
+        "endDate": "08/02/2015"
+    },
+    {
+        "sportId": "TEN2016",
+        "sportName": "Tennis - 2016",
+        "season": "Fall",
+        "startDate": "08/01/2016",
+        "endDate": "08/02/2016"
+    },
+    {
+        "sportId": "TEN2017",
+        "sportName": "Tennis - 2017",
+        "season": "Fall",
+        "startDate": "08/01/2017",
+        "endDate": "08/02/2017"
+    },
+    {
+        "sportId": "TEN2018",
+        "sportName": "Tennis - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "TEN2019",
+        "sportName": "Tennis - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "TEN2021",
+        "sportName": "Tennis - 2021",
+        "season": "Fall",
+        "startDate": "08/01/2021",
+        "endDate": "08/02/2021"
+    },
+    {
+        "sportId": "TEN2022",
+        "sportName": "Tennis - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "TEN2023",
+        "sportName": "Tennis - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "TEN2024",
+        "sportName": "Tennis - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "TEN2025",
+        "sportName": "Tennis - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "TEN2022",
+        "sportName": "Tennis Skills - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "TEN2023",
+        "sportName": "Tennis Skills - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "TEN2024",
+        "sportName": "Tennis Skills - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    },
+    {
+        "sportId": "TEN2025",
+        "sportName": "Tennis Skills - 2025",
+        "season": "Fall",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "VOL2000",
+        "sportName": "VolleyBall - 2000",
+        "season": "Fall",
+        "startDate": "09/01/2000",
+        "endDate": "09/02/2000"
+    },
+    {
+        "sportId": "VOL2002",
+        "sportName": "VolleyBall - 2002",
+        "season": "Fall",
+        "startDate": "09/01/2002",
+        "endDate": "09/02/2002"
+    },
+    {
+        "sportId": "VOL2003",
+        "sportName": "VolleyBall - 2003",
+        "season": "Fall",
+        "startDate": "09/01/2003",
+        "endDate": "09/02/2003"
+    },
+    {
+        "sportId": "VOL2004",
+        "sportName": "VolleyBall - 2004",
+        "season": "Fall",
+        "startDate": "09/01/2004",
+        "endDate": "09/02/2004"
+    },
+    {
+        "sportId": "VOL2005",
+        "sportName": "VolleyBall - 2005",
+        "season": "Fall",
+        "startDate": "09/01/2005",
+        "endDate": "09/02/2005"
+    },
+    {
+        "sportId": "VOL2007",
+        "sportName": "VolleyBall - 2007",
+        "season": "Fall",
+        "startDate": "09/01/2007",
+        "endDate": "09/02/2007"
+    },
+    {
+        "sportId": "VOL2008",
+        "sportName": "VolleyBall - 2008",
+        "season": "Fall",
+        "startDate": "09/01/2008",
+        "endDate": "09/02/2008"
+    },
+    {
+        "sportId": "VOL2009",
+        "sportName": "VolleyBall - 2009",
+        "season": "Fall",
+        "startDate": "09/01/2009",
+        "endDate": "09/02/2009"
+    },
+    {
+        "sportId": "VOL2010",
+        "sportName": "VolleyBall - 2010",
+        "season": "Fall",
+        "startDate": "09/01/2010",
+        "endDate": "09/02/2010"
+    },
+    {
+        "sportId": "VOL2011",
+        "sportName": "VolleyBall - 2011",
+        "season": "Fall",
+        "startDate": "09/01/2011",
+        "endDate": "09/02/2011"
+    },
+    {
+        "sportId": "VOL2012",
+        "sportName": "VolleyBall - 2012",
+        "season": "Fall",
+        "startDate": "09/01/2012",
+        "endDate": "09/02/2012"
+    },
+    {
+        "sportId": "VOL2013",
+        "sportName": "VolleyBall - 2013",
+        "season": "Fall",
+        "startDate": "09/01/2013",
+        "endDate": "09/02/2013"
+    },
+    {
+        "sportId": "VOL2014",
+        "sportName": "VolleyBall - 2014",
+        "season": "Fall",
+        "startDate": "09/01/2014",
+        "endDate": "09/02/2014"
+    },
+    {
+        "sportId": "VOL2015",
+        "sportName": "VolleyBall - 2015",
+        "season": "Fall",
+        "startDate": "09/01/2015",
+        "endDate": "09/02/2015"
+    },
+    {
+        "sportId": "VOL2016",
+        "sportName": "VolleyBall - 2016",
+        "season": "Fall",
+        "startDate": "09/01/2016",
+        "endDate": "09/02/2016"
+    },
+    {
+        "sportId": "VOL2017",
+        "sportName": "VolleyBall - 2017",
+        "season": "Fall",
+        "startDate": "09/01/2017",
+        "endDate": "09/02/2017"
+    },
+    {
+        "sportId": "VOL2018",
+        "sportName": "VolleyBall - 2018",
+        "season": "Fall",
+        "startDate": "09/01/2018",
+        "endDate": "09/02/2018"
+    },
+    {
+        "sportId": "VOL2019",
+        "sportName": "VolleyBall - 2019",
+        "season": "Fall",
+        "startDate": "09/01/2019",
+        "endDate": "09/02/2019"
+    },
+    {
+        "sportId": "VOL2021",
+        "sportName": "VolleyBall - 2021",
+        "season": "Fall",
+        "startDate": "09/01/2021",
+        "endDate": "09/02/2021"
+    },
+    {
+        "sportId": "VOL2022",
+        "sportName": "VolleyBall - 2022",
+        "season": "Fall",
+        "startDate": "09/01/2022",
+        "endDate": "09/02/2022"
+    },
+    {
+        "sportId": "VOL2023",
+        "sportName": "VolleyBall - 2023",
+        "season": "Fall",
+        "startDate": "09/01/2023",
+        "endDate": "09/02/2023"
+    },
+    {
+        "sportId": "VOL2024",
+        "sportName": "VolleyBall - 2024",
+        "season": "Fall",
+        "startDate": "09/01/2024",
+        "endDate": "09/02/2024"
+    },
+    {
+        "sportId": "VOL2025",
+        "sportName": "VolleyBall - 2025",
+        "season": "Fall",
+        "startDate": "09/01/2025",
+        "endDate": "09/02/2025"
+    },
+    {
+        "sportId": "YAC2025",
+        "sportName": "YAC - 2025",
+        "season": "DELETE",
+        "startDate": "08/01/2025",
+        "endDate": "08/02/2025"
+    },
+    {
+        "sportId": "YAP2018",
+        "sportName": "YAP - 2018",
+        "season": "Fall",
+        "startDate": "08/01/2018",
+        "endDate": "08/02/2018"
+    },
+    {
+        "sportId": "YAP2019",
+        "sportName": "YAP - 2019",
+        "season": "Fall",
+        "startDate": "08/01/2019",
+        "endDate": "08/02/2019"
+    },
+    {
+        "sportId": "YAP2022",
+        "sportName": "YAP - 2022",
+        "season": "Fall",
+        "startDate": "08/01/2022",
+        "endDate": "08/02/2022"
+    },
+    {
+        "sportId": "YAP2023",
+        "sportName": "YAP - 2023",
+        "season": "Fall",
+        "startDate": "08/01/2023",
+        "endDate": "08/02/2023"
+    },
+    {
+        "sportId": "YAP2024",
+        "sportName": "YAP - 2024",
+        "season": "Fall",
+        "startDate": "08/01/2024",
+        "endDate": "08/02/2024"
+    }
+]

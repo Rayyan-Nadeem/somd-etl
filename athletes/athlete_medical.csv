@@ -1,18 +1,18 @@
-id,doctor_name,doctor_phone,Allgeries,Medication
-1445,Dr. Michelle Mcwan,4434511600,,"Zoloft, 75mg, qd
+id,doctor_firstName,doctor_lastName,doctor_phone,Allgeries,Medication
+1445,Dr.,Michelle Mcwan,4434511600,,"Zoloft, 75mg, qd
 Clanidine, 2mg, qhs
 Exlax, 1tablet, qd
 Miralas, 1 cap, qd"
-1320,,,,
-1477,Dr. L. Berger,4104657550,,
-1034,Dr. Hashimi,4109972770,,"insulin aspert, 3xday
+1320,N/A,N/A,,,
+1477,Dr.,L. Berger,4104657550,,
+1034,Dr.,Hashimi,4109972770,,"insulin aspert, 3xday
 dexem G7, every 10days
 Levomyroxine, 175mg, 1xday
 melatonin, 1xday
 fiber, 1xday
 multivitamin, 1xday
 super green, black see, curcumin, cinamin"
-18,Dr. Alice Lee,,"augmentin, gluten","clonazapam, 0.5mg, 2xday
+18,Dr.,Alice Lee,,"augmentin, gluten","clonazapam, 0.5mg, 2xday
 Levothyroxine, 50mcg, 1xday
 Estradiol 0.25mg 1xday
 Projesteron 25mg 1xday1320
@@ -20,26 +20,26 @@ Vitamin DC 5000 iu, 1xday
 Calcium/mag/zinc, 240mg, 1xday
 Probiotic, 2 tabs, xday
 Vitamin B12, 1000 mcg, 1xday"
-820,Dr. Paul Ambush,4105317566,,Keppra
-657,Dr. Kimberly Adkins,4107402900,,
-1527,,,,"Trazodone, 25mg, 1xday"
-937,Hamid Ehsani,4109924464,Latex,Miralax
-347,Harry Li,4103124700,"Valium,phenobarbital","Keppra, amlodipine"
-1001,Sujata Qasba,3017762700,,multivitamin
-874,Dr. Jacqueline Brown,4109971700,,"Levothyroxine, 88mcg, 1xday
+820,Dr.,Paul Ambush,4105317566,,Keppra
+657,Dr.,Kimberly Adkins,4107402900,,
+1527,N/A,N/A,,,"Trazodone, 25mg, 1xday"
+937,Hamid,Ehsani,4109924464,Latex,Miralax
+347,Harry,Li,4103124700,"Valium,phenobarbital","Keppra, amlodipine"
+1001,Sujata,Qasba,3017762700,,multivitamin
+874,Dr.,Jacqueline Brown,4109971700,,"Levothyroxine, 88mcg, 1xday
 Vitamiin D, C, E, 1xday"
-1387,,,,
-1436,Dr. Armarachi Uzusike,4103255700,,Vitamin C & D
-1112,Dr. Strahlman,4109646300,,"Norditropine, multivitamin"
-572,Sidney Nelson,4107302040,"Martizein,IB Protein","Vitamin C, D"
-19,David Leichtling,4109646200,,
-1290,Dr. Zeenat Hashmi,,,"Prozac, 30mg, 1xday"
-549,Dr. Diane Kepner,4109977660,minocycline,"methimazole, 1tab, 6xWeek"
-964,Angela Tamayo,4103094665,,methylphenidate ER
-1509,Dr. Youngblood,3014414555,,
-510,Eveit Gobrial,4107474272,,
-252,Strahlman,4109646300,Latex,
-1158,Dr. Sarayh Connor,4108372050,,"levothyroxine, 150mg, 1xday
+1387,N/A,N/A,,,
+1436,Dr.,Armarachi Uzusike,4103255700,,Vitamin C & D
+1112,Dr.,Strahlman,4109646300,,"Norditropine, multivitamin"
+572,Sidney,Nelson,4107302040,"Martizein,IB Protein","Vitamin C, D"
+19,David,Leichtling,4109646200,,
+1290,Dr.,Zeenat Hashmi,,,"Prozac, 30mg, 1xday"
+549,Dr.,Diane Kepner,4109977660,minocycline,"methimazole, 1tab, 6xWeek"
+964,Angela,Tamayo,4103094665,,methylphenidate ER
+1509,Dr.,Youngblood,3014414555,,
+510,Eveit,Gobrial,4107474272,,
+252,N/A,Strahlman,4109646300,Latex,
+1158,Dr.,Sarayh Connor,4108372050,,"levothyroxine, 150mg, 1xday
 atarvastin, 10mg, 1xday
 clomipramine, 25mg, 1xday
 lithium, 300mg, AM/PM
@@ -49,23 +49,23 @@ Omeprazole, 20mg, 1xday
 Prozac, 40mg, 1xday
 Hydroxyzine, 50MG, 1xday
 Trazadone, 75mg, 1xday"
-402,Judith Lorenz,3017768000,,"Dilantin,Tegretol,Lexapro,Geodon"
-892,Dr. Jackson,4105640000,,
-673,Jacob Cherian,4109645311,NKA,none
-1033,Amaka Undie,4104657337,,"quillivant xr, multivitamins"
-1111,Dr. Alkesh Patel,4109979751,,"Calm (magnesium powder), 2tsp., 1xday"
-20,Reha Pikhquel,4109645800,,"fluoxetine HCL, 60mg, 1xday
+402,Judith,Lorenz,3017768000,,"Dilantin,Tegretol,Lexapro,Geodon"
+892,Dr.,Jackson,4105640000,,
+673,Jacob,Cherian,4109645311,NKA,none
+1033,Amaka,Undie,4104657337,,"quillivant xr, multivitamins"
+1111,Dr.,Alkesh Patel,4109979751,,"Calm (magnesium powder), 2tsp., 1xday"
+20,Reha,Pikhquel,4109645800,,"fluoxetine HCL, 60mg, 1xday
 Buspirone HCL, 10mg, 2xday
 Vraylar, 1.5mg, 1xday
 Austedo, 6mg, 2xday
 Lorazepan, 1mg, 2xday
 Calm, 330mg, 1xday"
-1340,"Dr. Sheppard-Lewis, 1-800-777-7904",,hexicloridine,
-620,Dr. Shepart-Lewis,8007777904,Hexicloridine,
-1342,Henry Chang,4434511600,peanuts,"Vimpet, 20ml, 2xday"
-1396,Dr. Rosemary Powers,3017742995,,
-602,Janet Siddiqui,4108741400,Penicillin & derivat,Flovent Inhaler
-1460,Dr. Naomi Rios,4108741600,vancomycin,"""Keppra 900mg BID
+1340,Dr.,"Sheppard-Lewis, 1-800-777-7904",,hexicloridine,
+620,Dr.,Shepart-Lewis,8007777904,Hexicloridine,
+1342,Henry,Chang,4434511600,peanuts,"Vimpet, 20ml, 2xday"
+1396,Dr.,Rosemary Powers,3017742995,,
+602,Janet,Siddiqui,4108741400,Penicillin & derivat,Flovent Inhaler
+1460,Dr.,Naomi Rios,4108741600,vancomycin,"""Keppra 900mg BID
 Multivitamin 15mL am
 Vitamin B6 50mg am
 Adderall 5mg am; 5mg 12:30p
@@ -77,16 +77,16 @@ Vitamin D 1000iu pm
 Elderberry 10 drops pm
 Onfi 4mg pm
 Melatonin 3mg pm"""
-1134,Dr. Amy Wells,3012954000,,gummy multivitamen
-1382,Dr. Silber,4434511600,,"multivitamin, 1xday"
-721,Dr. Kapoor,4105640000,NKA,"Multi vitamin, 1xday"
-1314,Dr. Richard Strahlman,4109646300,,
-1257,Dr. Wendell McKay,4109929339,,"Vitamins, 1xday
+1134,Dr.,Amy Wells,3012954000,,gummy multivitamen
+1382,Dr.,Silber,4434511600,,"multivitamin, 1xday"
+721,Dr.,Kapoor,4105640000,NKA,"Multi vitamin, 1xday"
+1314,Dr.,Richard Strahlman,4109646300,,
+1257,Dr.,Wendell McKay,4109929339,,"Vitamins, 1xday
 Probiotics, 1xday"
-656,Smirnow,4105492000,NKA,"Depakote,Risperdal"
-1400,,,,
-1476,"Olivia Cook, CRNP",4107577600,,
-22,"Megan Cullen, NP",4109646200,"Ceclor,Bactrim,Biaxn","Levothyroxine,150mc,1xday
+656,N/A,Smirnow,4105492000,NKA,"Depakote,Risperdal"
+1400,N/A,N/A,,,
+1476,Olivia,"Cook, CRNP",4107577600,,
+22,Megan,"Cullen, NP",4109646200,"Ceclor,Bactrim,Biaxn","Levothyroxine,150mc,1xday
 JolessaBirthControl,0.15m,1xday
 Spironolactone,2tablets,50mg,1xday
 Calcium,600m,2xday
@@ -95,18 +95,18 @@ FluoxetineHCL,30mg,1xday
 Oxcarbazepine,300mg,2xday
 VitD3,2000iu,50mcg,1xday
 ClindamycinPhosphateLotion,1%,1xday"
-687,Gunasekaran,4108372050,NKA,"Paxil,Bupropian,Doxyclycine,acetaminophe"
-866,Dr. Kenneth Kiebanow,4109641056,,"melantemn, centrum"
-359,Christine Gardella,4438589401,,"Centrum, Tums"
-322,Dr. Depak Shah,4432593700,,"Iron Supplement, 45mg, 1xday
+687,N/A,Gunasekaran,4108372050,NKA,"Paxil,Bupropian,Doxyclycine,acetaminophe"
+866,Dr.,Kenneth Kiebanow,4109641056,,"melantemn, centrum"
+359,Christine,Gardella,4438589401,,"Centrum, Tums"
+322,Dr.,Depak Shah,4432593700,,"Iron Supplement, 45mg, 1xday
 Vitamin, 1xday"
-222,David Leichtling,4109978500,,Apri 0.15
-1305,Krita Apibunyopas,4102561221,"bactrim,milk&eggs","Zoloft, 150mg, 1xday
+222,David,Leichtling,4109978500,,Apri 0.15
+1305,Krita,Apibunyopas,4102561221,"bactrim,milk&eggs","Zoloft, 150mg, 1xday
 Singulair, 10mg, 1xday
 Allegra, 180mg, 1xday
 Vitamin D, 2000mg, 1xday
 Clonidine, 0.4mg, 1xday"
-488,Dr. Hayashi,4432593770,amoxicillin,"CO Q-10, 10, 100mg, 1xday
+488,Dr.,Hayashi,4432593770,amoxicillin,"CO Q-10, 10, 100mg, 1xday
 Thera-M Tab, 1xday
 Flonastor, 250mg, 1xday
 Atorvastatin, 10mg, 1xday
@@ -114,26 +114,26 @@ Fiber bummies, 2, 1xday
 Docussssale, 100mg, 2xday
 Acetaminophen(2), 50mg, PRN
 Tri amcimolone, 0.1%, PRN"
-1372,Dr. Klebanow,4109976400,,
-192,S. Buckley,3018295906,NKA,"Lithium, 300mg, 1xday
+1372,Dr.,Klebanow,4109976400,,
+192,S.,Buckley,3018295906,NKA,"Lithium, 300mg, 1xday
 Caplyta, 42mg, 1xday
 Carbamazapinie, 200mg, 1xday
 Atorvastatin, 40mg, 1xday
 Desmopressin, 0.2mg, 1xday
 Vitamin D3, 125mg, 1xday
 Vitamin B Complex, 1xday"
-746,,,,
-370,Judith Lorenz,3019890085,,"Prozac, Tegretol"
-716,Siobhan Yoshida,4107303399,,"Synthoid, 25mg,1xday
+746,N/A,N/A,,,
+370,Judith,Lorenz,3019890085,,"Prozac, Tegretol"
+716,Siobhan,Yoshida,4107303399,,"Synthoid, 25mg,1xday
 multivivitamin, 1xday
 Vitamin D, 1xdayI"
-1224,Dr. Thomas Hickey,4105490900,,"Kepra, 500mg, 2xday
+1224,Dr.,Thomas Hickey,4105490900,,"Kepra, 500mg, 2xday
 Fluvoxamine, 50mg, 1xday
 Luceverone, 10mg, 1xday"
-1362,Daun Jung,4109976410,,"Levothyroxine, 75mg, 1xday"
-539,Cantannial Medical Group,4107303399,NKA,
-1187,Dr. Spinner-Block,4105267993,,
-1500,,,"abilify, levaquin","Levetiracetam 1000mg 2xday
+1362,Daun,Jung,4109976410,,"Levothyroxine, 75mg, 1xday"
+539,Cantannial,Medical Group,4107303399,NKA,
+1187,Dr.,Spinner-Block,4105267993,,
+1500,N/A,N/A,,"abilify, levaquin","Levetiracetam 1000mg 2xday
 Lacsamide 100mg 2xday
 Olaniqune 10mg 2xday
 Esatalopram
@@ -145,38 +145,38 @@ Ventolin HFA 2 puffs
 Fluticasone 50mg
 Dioyclonine 10mg 1x3daily
 Diclofenal gel"
-360,William Rayfield,4109646300,Sulfur,
-1312,Dr. Aruna Khurana,4109978200,,"Adderall, 10mg, 1xday"
-1526,,,,"Methylphenidate HCL, 18mg, 1xday"
-747,Kauthi Wicks,4432593770,"Bees, Seasonal","Erythromycin, Mincren cream"
-1293,Dr. Janet Siddiqui,4108741600,,
-24,Kathleen York-Jordan,4104658119,"Eczema, azithromycin","Gentropin (mikniquick) injection, 1mg, 1xday
+360,William,Rayfield,4109646300,Sulfur,
+1312,Dr.,Aruna Khurana,4109978200,,"Adderall, 10mg, 1xday"
+1526,N/A,N/A,,,"Methylphenidate HCL, 18mg, 1xday"
+747,Kauthi,Wicks,4432593770,"Bees, Seasonal","Erythromycin, Mincren cream"
+1293,Dr.,Janet Siddiqui,4108741600,,
+24,Kathleen,York-Jordan,4104658119,"Eczema, azithromycin","Gentropin (mikniquick) injection, 1mg, 1xday
 Seasonale (Introvale), 1 tab, 1xday
 Caltrate (calcium & vitamin D), 600, 1xday
 Aripiprazole, 5mg, 1xday
 Omega 3, 1100mg, 1xday
 Betamethasone 0.1% ointment, PRN
 Muporocin 2%ointment, PRN"
-1395,Dr. Emille Cole,4109646300,Penicillian,"Methylphenidate CD, 30mg, 1xday
+1395,Dr.,Emille Cole,4109646300,Penicillian,"Methylphenidate CD, 30mg, 1xday
 Guanfacine, 2mg, 2xday
 Desmopressin, 0.2mg, 1xday"
-223,Randal Riesett,4109102300,NKA,
-632,Dr. Sara Mixtex,4109551018,NKA,none
-957,Duniya Lancaster,4104802803,,"focalin XR, 15mg, 1xday
+223,Randal,Riesett,4109102300,NKA,
+632,Dr.,Sara Mixtex,4109551018,NKA,none
+957,Duniya,Lancaster,4104802803,,"focalin XR, 15mg, 1xday
 focalin, 5mg, 3xday
 lexapro, 15mg, 1xday"
-1154,Joshua Madden,4107444849,,
-1031,Wendell McKay,4109929339,tree nuts,"Atoxioxetine HCL, 40mg, 2xday
+1154,Joshua,Madden,4107444849,,
+1031,Wendell,McKay,4109929339,tree nuts,"Atoxioxetine HCL, 40mg, 2xday
 L - Theanine, 100mg, 1xday
 Vitamin B-6, 25mg, 1xday
 Omega 3 Fish Oil, 1xday"
-800,Dr. Keyvan Rarez,4434924000,,
-1204,Dr. McKay,4109929339,,"gummy vites, zantaqc 75 mg, 2xcay"
-1059,Dr. C. Marino,4432593770,,
-541,Elizabeth Dennis,4107159990,NKA,Abilify
-26,Parry Moore,4109977660,"bactrim,sulfa drugs","Lipitor, 10mg, 1xday
+800,Dr.,Keyvan Rarez,4434924000,,
+1204,Dr.,McKay,4109929339,,"gummy vites, zantaqc 75 mg, 2xcay"
+1059,Dr.,C. Marino,4432593770,,
+541,Elizabeth,Dennis,4107159990,NKA,Abilify
+26,Parry,Moore,4109977660,"bactrim,sulfa drugs","Lipitor, 10mg, 1xday
 Vitamin D3, 1000iu, 1xday"
-1268,J. H. Harriet Lane Clinic,4109535710,,"Briviact, 50mg, 2xday
+1268,J.,H. Harriet Lane Clinic,4109535710,,"Briviact, 50mg, 2xday
 Vimpat, 300mg, 2xday
 Depakote, 500mg, 2xday
 Clonazepam, 0.5mg, 2xday
@@ -184,23 +184,23 @@ Guanpacine, 1mg, 1xday
 Phenobarb, 45mg, 1xday
 Guan Pacir FR, 3mg, 1xday
 Diastat Rectal, 12.5mg, if needed"
-1161,Jacqueline Annan,3014772811,"latex, pennicillian",
-1324,Dr. Gopalan,4107475888,,"Escitalopram, 10mg, 1xday
+1161,Jacqueline,Annan,3014772811,"latex, pennicillian",
+1324,Dr.,Gopalan,4107475888,,"Escitalopram, 10mg, 1xday
 Lamotrigine, 200mg, 1xday
 Risperidone, 1mg, 1xday
 Fluticasone, 50mg, 1xday
 Acetaminopiten, 325mg, PRN
 Tussin Syruup, 5ml, PRN"
-555,Peggy Martin,4109929339,NKA,
-1231,Dr. W. Saway 410-964-5300,,,
-244,Willard Stanly Ford,4103688700,,"Adderracc, Buspar"
-1147,Kauser Khan,4109927004,"salmon, cat dander",OTC allergy med as needed
-273,Margaret Wang,4107402900,,"Lexapro, 20mil, 1xday
+555,Peggy,Martin,4109929339,NKA,
+1231,Dr.,W. Saway 410-964-5300,,,
+244,Willard,Stanly Ford,4103688700,,"Adderracc, Buspar"
+1147,Kauser,Khan,4109927004,"salmon, cat dander",OTC allergy med as needed
+273,Margaret,Wang,4107402900,,"Lexapro, 20mil, 1xday
 Novalog insulin pump
 multi vitamin, 1xday
 Vit D3, 1xday
 Enzymes, 3, 3xday"
-1450,Dr. Nadeem Hashmi,4109972770,,"vyvance 70
+1450,Dr.,Nadeem Hashmi,4109972770,,"vyvance 70
 aderall 10
 mg, 1xday
 abilify 7 1/2 2x
@@ -210,86 +210,86 @@ vyvance, 70mg, 1xday
 fiber gummies, 1xday
 multivitamin, 1xday
 digestive advantage, 1xday"
-1241,Dr. Naseem Danaid,4433674740,,"multivitamin, 1xday
+1241,Dr.,Naseem Danaid,4433674740,,"multivitamin, 1xday
 omega 3, 1xday"
-567,Zeenat Hashmi,4107151012,NKA,
-429,Steven Braun,3017768000,Cefzil,Wellburtin
-1071,Dr. Reilly,4434511600,,
-579,,,,
-1192,Dr. Paul Ambush,4105317566,,
-766,Mumtaz Mehboob,4104656300,,
-522,Richard Layton  410-337-2707,,"gluten,dairy,soy,nut",Lexapro
-1456,Dr. Jason Goldskin,4105832955,,"Quili-chew RE 40mg 
+567,Zeenat,Hashmi,4107151012,NKA,
+429,Steven,Braun,3017768000,Cefzil,Wellburtin
+1071,Dr.,Reilly,4434511600,,
+579,N/A,N/A,,,
+1192,Dr.,Paul Ambush,4105317566,,
+766,Mumtaz,Mehboob,4104656300,,
+522,Richard,Layton 410-337-2707,,"gluten,dairy,soy,nut",Lexapro
+1456,Dr.,Jason Goldskin,4105832955,,"Quili-chew RE 40mg 
 Flintstones Vitamin
 Vitamin B6 100mg
 Levetiracetam 100mg/ml solution (Keeper)"
-1469,Dr. C. Mailander,4109929339,,"Vyvanse, 40mg, 1xday
+1469,Dr.,C. Mailander,4109929339,,"Vyvanse, 40mg, 1xday
 Sertraline HCL, 25mg, 1xday
 Magnesium Glydinae, 200m, 2xday
 Melatonin, 5mg, 1xday
 Hailey FE, 1.5mg, 1xday"
-690,Lesly Berger,4104657550,"Nuts,Fish,Tobrx,Amox",
-1422,Dr. McKay,4109929339,,"Multivitamin, 1xday
+690,Lesly,Berger,4104657550,"Nuts,Fish,Tobrx,Amox",
+1422,Dr.,McKay,4109929339,,"Multivitamin, 1xday
 Miralax, 1xday"
-1148,Dr. Brown,4109971700,,
-1248,Laura Arling,3019073690,,"Robinul, 10mg, 1xday"
-1286,"Tisha Vazehere, 410-661-470",,,
-1311,Ellicott City Pediatrics,4104657550,penicillin,"Multi vitamin, 5ml, 1xday
+1148,Dr.,Brown,4109971700,,
+1248,Laura,Arling,3019073690,,"Robinul, 10mg, 1xday"
+1286,Tisha,"Vazehere, 410-661-470",,,
+1311,Ellicott,City Pediatrics,4104657550,penicillin,"Multi vitamin, 5ml, 1xday
 B & D, 2 drop, 1xday
 Probiotica, 2 drops"
-1177,Dr. Paul Ambush,4105317566,"gluten, milk, soy",
-1232,Dr. Risa Huber,4104801895,"fish, shell food","omega 3 fish oil, 3ML, 1xday
+1177,Dr.,Paul Ambush,4105317566,"gluten, milk, soy",
+1232,Dr.,Risa Huber,4104801895,"fish, shell food","omega 3 fish oil, 3ML, 1xday
 atomoxetine 60mg, 1xday"
-854,James Anthony,4109920510,eggs,"Robinul, Baclofen"
-1399,Dr. Clark,3016778800,,
-1124,Dr. Murakami,2024762123,,
-1125,Dr. Murakami,2024762123,,
-814,Dr. Randal Riesett,4109102300,,seizure medication
-990,Dr. Mary Rifine,6672348650,,"Dexmethylphenidde (focalin) 20mg, 1xday"
-919,Dr. Tracy Gutierrez,,"ativan, blue cheese",
-368,Dr. Maggin,3014901990,,"Diralproex, 500mg, 1xday
+854,James,Anthony,4109920510,eggs,"Robinul, Baclofen"
+1399,Dr.,Clark,3016778800,,
+1124,Dr.,Murakami,2024762123,,
+1125,Dr.,Murakami,2024762123,,
+814,Dr.,Randal Riesett,4109102300,,seizure medication
+990,Dr.,Mary Rifine,6672348650,,"Dexmethylphenidde (focalin) 20mg, 1xday"
+919,Dr.,Tracy Gutierrez,,"ativan, blue cheese",
+368,Dr.,Maggin,3014901990,,"Diralproex, 500mg, 1xday
 Glycopyriolate, 1mg, 2xday
 Fluoxetine, 10mg, 2xday
 Clinda & panto"
-540,James Fragetta,4103219393,NKA,"Nortroptylinc,Clompramme,Topamax,"
-1495,Dr. Nadeem Hashim,4109972770,,
-1215,Harriett Lane Clinic,4109555710,,"Vyvance, 50mg, 1xday
+540,James,Fragetta,4103219393,NKA,"Nortroptylinc,Clompramme,Topamax,"
+1495,Dr.,Nadeem Hashim,4109972770,,
+1215,Harriett,Lane Clinic,4109555710,,"Vyvance, 50mg, 1xday
 Sertaine, 125mg, 1xday
 Clonodine, 0.1mg, 1xday"
-1439,Dr. Angela Undie,4104055733,,
-851,Dr. Catherine Parrish,4105229940,,"synthroid, hydecott tabs, growth hormone"
-1463,Dr Lasser,4433674740,,
-1230,Suzanne Stivison,3019073960,,
-785,Jeremy Benson,4107402900,NKA,
-643,Anjali Saini,4107444849,,"Zoloft, Nortriptyline, piozerum, vertolin"
-234,Kendra Kay,4108843600,Sulfur Drugs,
-1375,,,,
-738,Dana Wollney,4109970500,,"Risperidone, 0.5ml, 4xday
+1439,Dr.,Angela Undie,4104055733,,
+851,Dr.,Catherine Parrish,4105229940,,"synthroid, hydecott tabs, growth hormone"
+1463,Dr,Lasser,4433674740,,
+1230,Suzanne,Stivison,3019073960,,
+785,Jeremy,Benson,4107402900,NKA,
+643,Anjali,Saini,4107444849,,"Zoloft, Nortriptyline, piozerum, vertolin"
+234,Kendra,Kay,4108843600,Sulfur Drugs,
+1375,N/A,N/A,,,
+738,Dana,Wollney,4109970500,,"Risperidone, 0.5ml, 4xday
 deslenlafaxine succienate, 25mg, 1xday"
-1363,Dana Wollney,4109970500,,
-1288,Tisha Vasghere,4106614670,,
-262,Carole Parnes,,,"Tegretol, Bunidryl"
-1379,,,,
-1298,Dr. Njdeka Udochi,4107409001,penicillin,"Quillivant XR - 6ML Daily
+1363,Dana,Wollney,4109970500,,
+1288,Tisha,Vasghere,4106614670,,
+262,Carole,Parnes,,,"Tegretol, Bunidryl"
+1379,N/A,N/A,,,
+1298,Dr.,Njdeka Udochi,4107409001,penicillin,"Quillivant XR - 6ML Daily
 Aripiprazole 5mg - 1/2 tab Daily
 Famotidine, 20MG tabs, 1xday"
-481,Risa Kramer,4109646200,nka,
-838,Elizabeth Thompson,4109976400,,
-1465,Dr. Eugene Taylor,,,"Citirizine
+481,Risa,Kramer,4109646200,nka,
+838,Elizabeth,Thompson,4109976400,,
+1465,Dr.,Eugene Taylor,,,"Citirizine
 Famatodine
 Metropopol
 Losartin
 Budesonide
 Albuterol"
-1482,Dr. Kevin Kelly,4103838300,,"Albuterol
+1482,Dr.,Kevin Kelly,4103838300,,"Albuterol
 Symbicort"
-28,Dr. Peter Cheng,,"Penecillan,oranges","Lexapro, 20mg, 1xday
+28,Dr.,Peter Cheng,,"Penecillan,oranges","Lexapro, 20mg, 1xday
 Camrese, OCP, 1xday"
-197,GW Pediatrics,2029942222,,Teapetol
-1058,Dr. J. Dennis,4107159990,,"Risperidone, 2mg, 1xday
+197,GW,Pediatrics,2029942222,,Teapetol
+1058,Dr.,J. Dennis,4107159990,,"Risperidone, 2mg, 1xday
 GuanFacine, 1mg, 2xday"
-664,Felecia Waddleton-Willis,4103094600,NKA,none
-1039,Dr. Victoria Wilson,4107950257,azithromycin,"Lamotrigine, 75Mmg, 2xday
+664,Felecia,Waddleton-Willis,4103094600,NKA,none
+1039,Dr.,Victoria Wilson,4107950257,azithromycin,"Lamotrigine, 75Mmg, 2xday
 Ethynodiol Diacetale, 1mg, 1xday
 Ethynyl Estradiol, 50MG, 1xday
 Lansoprazole, 2xday
@@ -299,21 +299,21 @@ Vit C, 1000, 2xday
 Vit D, 300mg, 1xday
 Osteobiftex, 2xday
 Xyzal, 1xday"
-515,Fabrizio Lucioli,,NKA,Bariatric Vitamins 1xday
-535,Deborah Dunn,4108847831,"Penicillin, Bees","""Lithium Carbonate 300mg
+515,Fabrizio,Lucioli,,NKA,Bariatric Vitamins 1xday
+535,Deborah,Dunn,4108847831,"Penicillin, Bees","""Lithium Carbonate 300mg
 Lithium Carbonate 150mg
 Risperidone 1mg
 Zyrtec 10mg
 Flonase Spray 0.05% 2 sprays"""
-1408,Dr. Zaneb Beams,4438329260,,"Methylphenidate, 15ml, 1xday"
-1409,Dr. Zaneb Beams,4438329260,,
-1347,"Dr. Chang, 443-451-16700",,,"Viibryd, 30mg, 1xday
+1408,Dr.,Zaneb Beams,4438329260,,"Methylphenidate, 15ml, 1xday"
+1409,Dr.,Zaneb Beams,4438329260,,
+1347,Dr.,"Chang, 443-451-16700",,,"Viibryd, 30mg, 1xday
 Abilify, 5mg, 1xday
 Buopar, 15mg, 1xday"
-30,Kathleen Thames,4109645306,,
-1091,Dr. Berger,4104657550,,"xyzal (seasonal allergies), nasonex, abilify, ritalin"
-926,Mark Reed,3016185500,gluten free,abilify
-31,Peter Cheng,4109645300,,"prograf, 1.5mg, 1xday
+30,Kathleen,Thames,4109645306,,
+1091,Dr.,Berger,4104657550,,"xyzal (seasonal allergies), nasonex, abilify, ritalin"
+926,Mark,Reed,3016185500,gluten free,abilify
+31,Peter,Cheng,4109645300,,"prograf, 1.5mg, 1xday
 carvedld, 12.5mg, 2xday
 Aligurinol, 100mg, 1xday
 folic acid, 1mg, 1xday
@@ -322,18 +322,18 @@ sodium bicarbonatem 65mg, 2xday
 Eliguis, 2.5mg, 2xday
 Progref, 1.5mg, 1xday; 1mg, 1xday
 B12 Vitamin, 1xday"
-32,Ellis Mez,4107957737,,"vitamin, 1xday; Claritin,  1xday; Pantoprazole, 1xday, fluitcasone nasal spray, 1xday"
-1261,Dr. Zaneb Beams,4438329260,,
-727,JH Community Physicians,4432593770,Chloralhydrate,"Strattera,Polyethylene,Clonidine,Diazepa"
-1390,R. Scott Strohlman,4109646300,,Multivitamins
-1391,R. Scott Strohlman 410-964-6300,,,Multivitamins
-1259,Dr. Duniya Lancaster,4104802803,,"singulaire chewable, 5mg, 1xday"
-908,Col. Med. Practice,4109928500,,
-268,Jacob Cherian,4109645311,,Depakote
-1113,"Dr. Miller, Catonsville Pediatrics",4107444849,,"multivitamin, 1xday
+32,Ellis,Mez,4107957737,,"vitamin, 1xday; Claritin,  1xday; Pantoprazole, 1xday, fluitcasone nasal spray, 1xday"
+1261,Dr.,Zaneb Beams,4438329260,,
+727,JH,Community Physicians,4432593770,Chloralhydrate,"Strattera,Polyethylene,Clonidine,Diazepa"
+1390,R.,Scott Strohlman,4109646300,,Multivitamins
+1391,R.,Scott Strohlman 410-964-6300,,,Multivitamins
+1259,Dr.,Duniya Lancaster,4104802803,,"singulaire chewable, 5mg, 1xday"
+908,Col.,Med. Practice,4109928500,,
+268,Jacob,Cherian,4109645311,,Depakote
+1113,Dr.,"Miller, Catonsville Pediatrics",4107444849,,"multivitamin, 1xday
 Adderall, 30mg, 1xday
 Cloridine, .03MG, 1xday"
-1493,Dr. Leonie Prao,6672172100,,"Vyvanse, 70mg, 1xday
+1493,Dr.,Leonie Prao,6672172100,,"Vyvanse, 70mg, 1xday
 Bupropion SR, 200mg, 1xday
 Intuniv, 4mg, 1xday
 Clonidine, 0.6mg, 1xday
@@ -343,8 +343,8 @@ Omega-3, 300mg, 1xday
 L-Theanine, 200mg, 1xday
 Methylcellulos, 1000mg, 2xday
 Docusate sodium, 200mg, 2xday"
-1018,Annett Bartley-Satuyi,4439797819,,Aliralax
-551,Jonathan Fish,4109102300,,"carbamazepine, 600mg, 2xday
+1018,Annett,Bartley-Satuyi,4439797819,,Aliralax
+551,Jonathan,Fish,4109102300,,"carbamazepine, 600mg, 2xday
 clonazepam, 0.5mg, 2xday
 multivitamin, 1xday
 zyrtec, 10mg, 1xday
@@ -353,66 +353,66 @@ vitamin D, 2000IU, 1xday
 fluoxetine HCL, 20mg, 1xday
 stool softener, 100mg, 2xday
 Vitamin C, 500mg, 1xday"
-542,Mark Kim,4107612273,NKA,
-1430,Dr. Jessie Sadikman,3015451000,,
-1504,Dr. Jesse Sadikman,3015451000,,"Muanjarro, 10mg, 1xweek
+542,Mark,Kim,4107612273,NKA,
+1430,Dr.,Jessie Sadikman,3015451000,,
+1504,Dr.,Jesse Sadikman,3015451000,,"Muanjarro, 10mg, 1xweek
 Tumeric juice, 2oz/day"
-543,Dr. Philip,2404591800,Cephalosparen,"Abilify, 5mg, 1xday 
+543,Dr.,Philip,2404591800,Cephalosparen,"Abilify, 5mg, 1xday 
 Fluoxefine, 20mg, 1xday"
-992,Virginia Keane,4105785350,,
-1341,Dr. Paul Ambush,4105317566,gluten and dairy,
-412,Edward Gratz,,"Bactrim, Codeine",
-1328,Dr. Suzette Ettienne,3013907960,"shellfish,nuts,eggs,","Gummy Vitamins, 2, 1xday
+992,Virginia,Keane,4105785350,,
+1341,Dr.,Paul Ambush,4105317566,gluten and dairy,
+412,Edward,Gratz,,"Bactrim, Codeine",
+1328,Dr.,Suzette Ettienne,3013907960,"shellfish,nuts,eggs,","Gummy Vitamins, 2, 1xday
 Cetirizire Hydrochorieb, 10mg, 1xday
 Montelukost Sod, 5mg, 1xday"
-556,Mateen Awan,4109929355,gluten,
-1432,Dr. Nicholas Donkor,4107405460,,"Levetiracetam, 6.5 ml, 2xday
+556,Mateen,Awan,4109929355,gluten,
+1432,Dr.,Nicholas Donkor,4107405460,,"Levetiracetam, 6.5 ml, 2xday
 Vit B complex chew, 1xday"
-757,Susan Scheerfeld,4432593770,,"Vitamin D, 50mg, 1xday
+757,Susan,Scheerfeld,4432593770,,"Vitamin D, 50mg, 1xday
 Clobetasol, 0.05mg, 1xday
 Levothyzone, 88 mg, 1xday"
-1235,Dr. Michael Lasser,4433674740,cefdnir,Nayzilam - emergency seizures
-728,Dr. Tracy Freeman,3014252038,"Soy, gluten, nuts","Vyvanse, 30mg, 1xday
+1235,Dr.,Michael Lasser,4433674740,cefdnir,Nayzilam - emergency seizures
+728,Dr.,Tracy Freeman,3014252038,"Soy, gluten, nuts","Vyvanse, 30mg, 1xday
 Fluvoxamine, 50mg, 1xday
 Quercetin, 1000mg, 1xday
 Omega 3, 1000mg, 1xday
 Vitamin D-3, 1000IU, 1xday
 Methylcobalamin, 0.14ML, every other day"
-194,Charter internal Medicine 410-910-7300,,Ceclar rash,
-392,Joshua Anderson,4109975191,"Gluten, milk product",
-839,"Kate Shockley, CNP",4107303399,lactose intolerant,synthroid
-363,Strahlman,4109646300,"Sulfur,favabeans","Depakote, Risperdal, lithium.adderall"
-37,Richard Kolodrubetz,3016216570,,"divalrrdex sodiumj 500 mg 2xday
+194,Charter,internal Medicine 410-910-7300,,Ceclar rash,
+392,Joshua,Anderson,4109975191,"Gluten, milk product",
+839,Kate,"Shockley, CNP",4107303399,lactose intolerant,synthroid
+363,N/A,Strahlman,4109646300,"Sulfur,favabeans","Depakote, Risperdal, lithium.adderall"
+37,Richard,Kolodrubetz,3016216570,,"divalrrdex sodiumj 500 mg 2xday
 Montelukast Sodium, 10mg 1xday
 Asmanex Twisthacer, 220 mg 1xday
 Proair HFR, 90mcg, as needed"
-1262,Dr. Michelle McEwan,4434511600,,"Zoloft, 100mg, 1xday
+1262,Dr.,Michelle McEwan,4434511600,,"Zoloft, 100mg, 1xday
 Clonidine, 0.3mg, 1xday
 Miralax, 1 cup, 1xday
 Go lax, 1 tab, 1xday"
-297,Sujata Qasba,,,Concerta ER
-528,Dr. Olureni Akinlade,4104430490,NKA,"Lantolrigene, 100mg"
-303,Dr. Jonathan Fish,4109102300,,"Lexapro, 40mg, 1xday
+297,Sujata,Qasba,,,Concerta ER
+528,Dr.,Olureni Akinlade,4104430490,NKA,"Lantolrigene, 100mg"
+303,Dr.,Jonathan Fish,4109102300,,"Lexapro, 40mg, 1xday
 Clonazepam, 0.75mg, 1xday
 multivitamin 1 tablet a day
 Ability, 2mg, 1xday"
-1126,Daniel Levy,4103631043,Peanuts,"vyvarse, 50mg, 1xday
+1126,Daniel,Levy,4103631043,Peanuts,"vyvarse, 50mg, 1xday
 guafacine, 1mg, 1xday, am
 guafacine, 4mg, 1xday, pm
 fluxotine, 20mg, 1xday
 multivitamin, daily
 epipen, 0.3mg, as needed"
-761,Kartik Desai,4103139292,,"B12, Vitamin D"
-413,Huma Warh,4107404500,"Sulfa,penicillin","Concerta,allegra,buspar,lamictal"
-1317,Monika Thandalam Jomasekar,4439514286,,
-406,Risa Huber,4104801895,,
-1184,Dr. Midha,4109929339,,
-1165,Christine Reilly,4434511600,,
-557,dana Wollney,4109970500,NKA,
-1431,Dr. Ruby Dey,4103094600,,"Multivitamin, 1xday"
-1145,Dr. Jacqueline Brown,4109971700,,Miralax
-1296,Dr. Chatterjee,4109641056,amoxycilin,
-509,Dr. Lathicia Tadakanda,4107402900,,"Nurtec, 1mg, PM
+761,Kartik,Desai,4103139292,,"B12, Vitamin D"
+413,Huma,Warh,4107404500,"Sulfa,penicillin","Concerta,allegra,buspar,lamictal"
+1317,Monika,Thandalam Jomasekar,4439514286,,
+406,Risa,Huber,4104801895,,
+1184,Dr.,Midha,4109929339,,
+1165,Christine,Reilly,4434511600,,
+557,dana,Wollney,4109970500,NKA,
+1431,Dr.,Ruby Dey,4103094600,,"Multivitamin, 1xday"
+1145,Dr.,Jacqueline Brown,4109971700,,Miralax
+1296,Dr.,Chatterjee,4109641056,amoxycilin,
+509,Dr.,Lathicia Tadakanda,4107402900,,"Nurtec, 1mg, PM
 Magnesium, 500mg, 1xday
 B Vit, 1xday
 Hyderoxixine, 25mg, 3xday
@@ -420,41 +420,41 @@ CDB.T Gummies, 20mg, 2xday
 Diomaz, 250mg, 2xday
 Fish oil
 Magnizesium"
-729,Nicholas Donkor,4107405460,peanuts,"vitamins C,D
+729,Nicholas,Donkor,4107405460,peanuts,"vitamins C,D
 Clonidine, 0.3mg,  3xday"
-519,Dr.Tasneem,4109646200,none,"Depakote ER, 500mg, 1xday"
-1037,Paul Ambush,4105317566,"peanuts, eggs",
-1326,Dr. Shiela Ravin Dran,,,"Levothyrozine, 150mg, 1xday"
-801,Wendell McKay,4109929335,,"Onfi  30mg, 1xday, PM
+519,N/A,Dr.Tasneem,4109646200,none,"Depakote ER, 500mg, 1xday"
+1037,Paul,Ambush,4105317566,"peanuts, eggs",
+1326,Dr.,Shiela Ravin Dran,,,"Levothyrozine, 150mg, 1xday"
+801,Wendell,McKay,4109929335,,"Onfi  30mg, 1xday, PM
 Keppra 6ML, 1xday, AM
 Keppra, 5ML, 1xday, PM
 Depakote 5000, PM
 Felbama 800mg, AM; 1000mg, Afternoon
 rispersdone 50MG, 1xday, PM
 Depakote 375mg AM"
-1337,Ji Yon Kwon,4104801889,,"Vitamin D
+1337,Ji,Yon Kwon,4104801889,,"Vitamin D
 Probiotic"
-649,Keyvaw Napo,4434924000,NKA,
-1388,"Peter Chang, MD",4109645300,,
-897,John Dalton,4107888033,,"TheraM Vitamin D, Zoloff, Zantac, Seruguel, Luvox, Tinactin Spray, Colace, Risperidone, Clonazapam, Hydrocortisone AC"
-1505,Dr. Fannie  Brown,3012201210,coconut,"methylphendate, 1xday"
-1016,Dr. Delaney,3014981900,,"fluoxetine, vyvanse, seroquel"
-517,Lt.. Hugh M. Dainer,3013199786,none,"Nexum, aspirin"
-1227,Dr. Francesca Carhart,4105490900,,"multivitamiin, probiotic"
-1349,A. Gilchrist,3017762700,shellfish,"Phenobarital, 7.5mg, 2xday
+649,Keyvaw,Napo,4434924000,NKA,
+1388,Peter,"Chang, MD",4109645300,,
+897,John,Dalton,4107888033,,"TheraM Vitamin D, Zoloff, Zantac, Seruguel, Luvox, Tinactin Spray, Colace, Risperidone, Clonazapam, Hydrocortisone AC"
+1505,Dr.,Fannie Brown,3012201210,coconut,"methylphendate, 1xday"
+1016,Dr.,Delaney,3014981900,,"fluoxetine, vyvanse, seroquel"
+517,Lt..,Hugh M. Dainer,3013199786,none,"Nexum, aspirin"
+1227,Dr.,Francesca Carhart,4105490900,,"multivitamiin, probiotic"
+1349,A.,Gilchrist,3017762700,shellfish,"Phenobarital, 7.5mg, 2xday
 Keppra, 9ML, 2xday
 Ethomorikicle, 10mg, 2xday
 Epidiolex, 5mg, 2xday
 Depokote, 8, 2xday"
-1240,Dr. Dianne Landrum,4434511600,penicillin,"Concerta, 27mg, 1xday"
-545,Wendell Mckay,4109929330,,"Lexapro,Strattera"
-909,Jason Lowery,2402156900,,"fluoxetine, ranitidine"
-1012,Dr. Emilie Cole,4109646227,,
-185,Dr. Bacchus,4107402900,,"Celexa, 20mg, 1xday
+1240,Dr.,Dianne Landrum,4434511600,penicillin,"Concerta, 27mg, 1xday"
+545,Wendell,Mckay,4109929330,,"Lexapro,Strattera"
+909,Jason,Lowery,2402156900,,"fluoxetine, ranitidine"
+1012,Dr.,Emilie Cole,4109646227,,
+185,Dr.,Bacchus,4107402900,,"Celexa, 20mg, 1xday
 Hydrocholorsizied, 10mg, 1xday
 zinc, fish oil, vitamin d"
-40,Morbeto Maguirean,4107445900,NKA,
-394,Dr. Diane Kepner,4109977660,Amoxicillan,"Lamotrigine, 250mg, 2xday
+40,Morbeto,Maguirean,4107445900,NKA,
+394,Dr.,Diane Kepner,4109977660,Amoxicillan,"Lamotrigine, 250mg, 2xday
 Sertrailine, 75mg, 1xday
 Metroprolol, 100mg, 1xday
 Latanaprost Eye Drops, 1xday
@@ -463,33 +463,33 @@ XCOPRI, 150mg, 1xday
 Lacosamide, 50mg 2xday
 Losartan, 25mg 1xday
 Claritin, as needed"
-658,May,4109929339,Reglan,"methphedidate, risperidone, losartan, citralopram, guanfaceme"
-855,Dr. Brooks,4107303399,,Vyvanse 50mg 1xday; fluoxitine 20mg 1xday; laturiv 2mg 1xday; dextro amphetamine 5mg 1xday; metatoxin 6mg 1xday
-217,Dr. Jennifer Prabhu,4104658119,,"Levothyroxine, 112mg, 1xday
+658,N/A,May,4109929339,Reglan,"methphedidate, risperidone, losartan, citralopram, guanfaceme"
+855,Dr.,Brooks,4107303399,,Vyvanse 50mg 1xday; fluoxitine 20mg 1xday; laturiv 2mg 1xday; dextro amphetamine 5mg 1xday; metatoxin 6mg 1xday
+217,Dr.,Jennifer Prabhu,4104658119,,"Levothyroxine, 112mg, 1xday
 Vit B12, 100mg, 1xday
 Vit D, 50mg, 1xday"
-1212,"HoCo Peds, Dr. Martin",4109929339,cinnamon,"Keppra, 5mg, 2xday"
-423,,,,
-254,Dr. A. Cheera,4108012273,"Erythromycin, grrass","birth control, 1tab/day
+1212,HoCo,"Peds, Dr. Martin",4109929339,cinnamon,"Keppra, 5mg, 2xday"
+423,N/A,N/A,,,
+254,Dr.,A. Cheera,4108012273,"Erythromycin, grrass","birth control, 1tab/day
 synthroid, 190mcg, 1xday
 Vit. C, 1000mg, 1xday
 Vit. D, 1000mg, 1xday
 Zyrtec, 10mg, 1xday
 Singular, 10mg, 1xday
 Albuterol Inhaler, 2 puffs every 6 hours as needed"
-881,N. B. Vellanki,4107727984,"fish, strawberries","atovastatiz, 20mg 1xday
+881,N.,B. Vellanki,4107727984,"fish, strawberries","atovastatiz, 20mg 1xday
 amapaline olmesiten, 10-40 MG, 1xday
 vitamin D-3, 2000MG, 1xday
 vitamin c, 1000 tab, 1xday"
-1498,Dr. Jennifer Moynilhan,4109929339,,
-1006,Michael Lasser,4433674740,seafood,
-469,Dr. Desai,4109977660,,"Levothyroxiine Sodiium Oral Capsule, 25mcg, 1xday
+1498,Dr.,Jennifer Moynilhan,4109929339,,
+1006,Michael,Lasser,4433674740,seafood,
+469,Dr.,Desai,4109977660,,"Levothyroxiine Sodiium Oral Capsule, 25mcg, 1xday
 Vit C Adult Gummies Oral Chewable, 250mg, 1xday
 Zyrtec Allergy Oral Capsule, 10mg, 1xday
 Vit D3 Oral Tablet Chewable, 50mcg, 1xday
 Fish Oil Odor-less oral capsule, 1200mg, 1xday"
-1086,Christine Reilly,4434511600,,"Methylphenidate, 40mg 1xday"
-807,Dr. Diane Kepner,4109977660,"gluten,dairy, cashew","Depakote ER, 250mg, 2xday
+1086,Christine,Reilly,4434511600,,"Methylphenidate, 40mg 1xday"
+807,Dr.,Diane Kepner,4109977660,"gluten,dairy, cashew","Depakote ER, 250mg, 2xday
 Melatonini, 06mg, daily
 CBD oil, 3 drops am
 Vit D, 2000, pm
@@ -499,68 +499,68 @@ Magnesium, 88mg, pm
 Culturelle probiotic, 1tab
 Allegra, 60mg, am
 Flonase/Azelastine, 2 sprays, am/pm"
-622,Jen Koppelman,4104654111,NKA,
-1211,Dr. Kendrick Gwynn,4439233246,,"carbamazephine 200mg 1xday
+622,Jen,Koppelman,4104654111,NKA,
+1211,Dr.,Kendrick Gwynn,4439233246,,"carbamazephine 200mg 1xday
 Aspirin, 81mg 1xday
 levothyroxine, 0.5mg, 1xday
 atorvastatin, 80mg 1xday
 sertraline, 75mg, 1xday
 quetiapine, 75mg 1xday"
-560,"Michele McEwan, The Pediatric Center",4434511600,NKA,"Strattera 40mg, 1xday"
-328,Cheryl Leonardi,4109974780,"Pencillin, cephalosp","Methimazole, 5mg, 1xday
+560,Michele,"McEwan, The Pediatric Center",4434511600,NKA,"Strattera 40mg, 1xday"
+328,Cheryl,Leonardi,4109974780,"Pencillin, cephalosp","Methimazole, 5mg, 1xday
 Vitamin D, 1xday"
-963,Marcia Augustine,4107944904,sulfa drugs,"abilify, escitaloprom, topiramate"
-1442,Dr. Donald Schneider,4107210800,,"Adderal XR, 25mg, 1xday
+963,Marcia,Augustine,4107944904,sulfa drugs,"abilify, escitaloprom, topiramate"
+1442,Dr.,Donald Schneider,4107210800,,"Adderal XR, 25mg, 1xday
 Guanfacine, 4mg, 1xday
 Clonidine, 0.1mg, 1xday
 Fish Oil,  1xday
 Multivitamins, 1xday"
-774,Nicholas Morog,4103688650,,
-1196,Dianne Landrum,4434511600,gluten free,"flovent, 44mg, BID; 
+774,Nicholas,Morog,4103688650,,
+1196,Dianne,Landrum,4434511600,gluten free,"flovent, 44mg, BID; 
 flonase, 2 squirts, BID
 synthroid, 150MG QD
 Straterra, QD
 Prevadd, QD"
-955,Cr. Cole,4109646300,peanuts,Risperodone
-956,Dr. Cole,4109646300,,Risperodone
-480,Mary Rifino,4103688650,,Keppra
-1264,Sr. Sujita Qasba,3107762700,,"Baclofen, 20mg, 2xday
+955,Cr.,Cole,4109646300,peanuts,Risperodone
+956,Dr.,Cole,4109646300,,Risperodone
+480,Mary,Rifino,4103688650,,Keppra
+1264,Sr.,Sujita Qasba,3107762700,,"Baclofen, 20mg, 2xday
 Zolaft, 37mg, 1xday
 Focolin, 5mg, 1xday
 Multivitamin, 2xday"
-1142,Catonsville Pediatrics,4107444849,,none
-45,K. Wickmarante,4432593770,NKA,"Prilosec, 40mg, 1xday
+1142,Catonsville,Pediatrics,4107444849,,none
+45,K.,Wickmarante,4432593770,NKA,"Prilosec, 40mg, 1xday
 multi vitamin, 1xday
 Vit C, 500mg, 1xday
 Vit D, 2000mg, 1xday
 Singleair, 10mg, 1xday
 EpiPen"
-44,Kanthi Wickmarante,4432593770,NKA,"Vit D, 2000mg, 1xday
+44,Kanthi,Wickmarante,4432593770,NKA,"Vit D, 2000mg, 1xday
 Sodium Fluride, 5000, 2xday
 Freistye Sensor
 Escitalopram, 15mg, 1xday
 Albuterol Proaer, 1, PRN
 Famoti divie, 20mg, 1xday"
-1173,Columbia Med Practice,4109646200,,"Depakote, Ativon, Abilify"
-913,Mary Joan Frost,8888086483,,
-769,,,,
-1017,Dr. Chatterjee,4109641051,,"Atomoxetine HCL, 60mg, 1xday
+1173,Columbia,Med Practice,4109646200,,"Depakote, Ativon, Abilify"
+913,Mary,Joan Frost,8888086483,,
+769,N/A,N/A,,,
+1017,Dr.,Chatterjee,4109641051,,"Atomoxetine HCL, 60mg, 1xday
 Sertraline HCL, 50mg, 1xday
 Guanfacine HCL ER, 2mg, 1xday
 Qvar, 40mg, 2xdqay
 Albuterol Sulfate HFA, 90mg, PRN"
-1512,Dr. Bhasin,4107680700,,
-341,Dr. Kendra Kay,4108843600,,"Melformin, 500mg, 4xday
+1512,Dr.,Bhasin,4107680700,,
+341,Dr.,Kendra Kay,4108843600,,"Melformin, 500mg, 4xday
 Jardiance, 25mg, 1xxday
 Tulicity, 4.5mg, 1xweek
 Basaglar, 14 units, 1xday"
-1195,Stella Jefferes,3015938300,,"Fluphenazine 1mg, 1xday
+1195,Stella,Jefferes,3015938300,,"Fluphenazine 1mg, 1xday
 Trazodomf, 100mg, 1xday
 Divalproex 500 DR 750mg, 1xday
 Divalproex 500 DR, 500mg, 2xday
 Benztroyane mes, 1mg, 2xday"
-1511,Dr. McKay,4109929339,,"Senna, 26mg"
-1448,Dr. Khan,4109927004,,"Timolol 0.5% Eye Drops
+1511,Dr.,McKay,4109929339,,"Senna, 26mg"
+1448,Dr.,Khan,4109927004,,"Timolol 0.5% Eye Drops
 Atorvastatin 40mg
 Fluticasone 50mcg Nasal Spray
 Vitamin D2 50,000 IU SoftGel
@@ -571,36 +571,36 @@ Atomoxetine HCL 40 mg
 Propranol 20 mg
 Divalproex SOD DR 250 mg
 Quetiapine 200 mg"
-46,Dr. Suzon Abdo/ 443-535-8500,,NKA,"Levothyroxine, 75mg 1xday
+46,Dr.,Suzon Abdo/ 443-535-8500,,NKA,"Levothyroxine, 75mg 1xday
 Vitamin D, 2000mg, 1xday
 Miralax, 1capful, 1xday
 Colace, 2 tbl 1xday"
-190,Dr. Edwin Besson,4107444849,,
-1022,Gregory Levickas,6672342100,,
-1525,,,,"Keppra, 2ml, 2xday"
-675,Ben Miller,4108220200,NKA,
-1005,Erin Gonzalez,4108741600,,
-1484,Dr. Emmerson Chang,3015604747,"nuts,shellfish,eggs","Benzlropine, 0.5mg, 2xday
+190,Dr.,Edwin Besson,4107444849,,
+1022,Gregory,Levickas,6672342100,,
+1525,N/A,N/A,,,"Keppra, 2ml, 2xday"
+675,Ben,Miller,4108220200,NKA,
+1005,Erin,Gonzalez,4108741600,,
+1484,Dr.,Emmerson Chang,3015604747,"nuts,shellfish,eggs","Benzlropine, 0.5mg, 2xday
 Sertraline, 100mg, 2xcay
 Halopendol, 5mg, 4xday
 Vitamin D, 5000"
-670,Ayesha Cheema,4108012273,"benadryl, tegretal","Lexapro, 10mg, 1xday
+670,Ayesha,Cheema,4108012273,"benadryl, tegretal","Lexapro, 10mg, 1xday
 B Complex, 1xday
 Vitamin D, 1xday
 Atorastatin, 20mg, 1xday"
-1501,Dr. Chase Brexon,4108372050,,"Aripipraxole, 5mg, 1xday"
-1441,Dr. Nicole Smith,3012369540,,
-403,Adolfo Lopez,4108281273,,"Zantac, Ativan"
-1090,Santhia Mathew,4108847831,,"clozapine, lovazepan, benztropine, clonidine HCL"
-205,Laurey Corsialia,4105525050,NKA,"Aziothiodrine, crestor, medroxyprogesterone"
-931,"Mary Suntine, 410-564-000",,,"concerta, 70mg, 1xday
+1501,Dr.,Chase Brexon,4108372050,,"Aripipraxole, 5mg, 1xday"
+1441,Dr.,Nicole Smith,3012369540,,
+403,Adolfo,Lopez,4108281273,,"Zantac, Ativan"
+1090,Santhia,Mathew,4108847831,,"clozapine, lovazepan, benztropine, clonidine HCL"
+205,Laurey,Corsialia,4105525050,NKA,"Aziothiodrine, crestor, medroxyprogesterone"
+931,Mary,"Suntine, 410-564-000",,,"concerta, 70mg, 1xday
 Amino Acids, 1600, 1xday
 Traizadone, 100mg, 1xday
 Intuniv, 6mg, 1xday"
-691,Chandana Cha 410-964-1056,,,
-959,R. Scott Strahlman,4109646300,,"Levothyroxin, 1mg, 1xday"
-904,SC Primary Care Physicians,4109972770,,
-396,Udochi Njide,4107409001,NKA,"Lithium 450mg, 1xday; Lithium 500mg, 1xday
+691,Chandana,Cha 410-964-1056,,,
+959,R.,Scott Strahlman,4109646300,,"Levothyroxin, 1mg, 1xday"
+904,SC,Primary Care Physicians,4109972770,,
+396,Udochi,Njide,4107409001,NKA,"Lithium 450mg, 1xday; Lithium 500mg, 1xday
 depakote 250mg, 1xday; 500mg, 1xday
 Metformin 500mg, 1xday; 1000mg, 1day
 Resporodone, 2gm 2xday
@@ -608,42 +608,42 @@ Levothryroxine, 50mg, 1xday
 Pantzprazole, 40mg, 1xday
 Lisinopril, 2.5mg, 1xday
 Vitamin DS, 125mg, 1xday;"
-1474,"Diana Vanroon, CRNP",8663892727,,Multivitamin
-375,Prema Siva,3014983150,,"Hemp gummies, 1xday
+1474,Diana,"Vanroon, CRNP",8663892727,,Multivitamin
+375,Prema,Siva,3014983150,,"Hemp gummies, 1xday
 Vit. C gummies, 2, 1xday"
-1132,Hoco Pediatrics,4109929339,nuts apple water mel,multi vitamins
-501,Dr. Alkesh Patel,4109971529,Gluton (Celiacs),"Nutrivene vitamins, 1xday
+1132,Hoco,Pediatrics,4109929339,nuts apple water mel,multi vitamins
+501,Dr.,Alkesh Patel,4109971529,Gluton (Celiacs),"Nutrivene vitamins, 1xday
 DHA, 1xdah
 Ensure plus, 1xday"
-676,Dr Jonathan Fish,4109102300,red dye,"vyvanse, buspirone"
-349,Friba Faqeeri,4108372650,"Nuts, apples, coffee","Lisinopril, 5mg, 1tablet a day
+676,Dr,Jonathan Fish,4109102300,red dye,"vyvanse, buspirone"
+349,Friba,Faqeeri,4108372650,"Nuts, apples, coffee","Lisinopril, 5mg, 1tablet a day
 Vitamin D2, 1000mg, 1tablet a day"
-989,Michelle Brendle,8888086483,,
-1236,Dr. Agwuna,4437184067,,"Depakote 125mg, 2xday"
-724,Zanele Beams,4438329260,,"Gvanfaerne, claritin"
-470,Cheryl Leonardi,4109974780,"Bee, Penicillin",
-895,Dr. Cahill,4104657550,,"fluoxctine, 40mg, 1xday"
-1348,Thomas Withuhn,4105525050,,
-1002,Dr. Kolodrubetz,3016216570,,
-1203,Michele McEuiven,4434511600,gluten,"focalin, tirosint"
-1118,Dr. A. Tomayo,4103094600,,
-629,Kevin Carlson 410-910-2300,,,"Abilify,Lexapro,Topomax,Artano"
-337,Kartik Desai,4103139292,,"Risperdal, Clonodine,Sertralene"
-246,Dr. Frayha,4104658119,penicillin,"Venafilaxine, 150mg, 1xday
+989,Michelle,Brendle,8888086483,,
+1236,Dr.,Agwuna,4437184067,,"Depakote 125mg, 2xday"
+724,Zanele,Beams,4438329260,,"Gvanfaerne, claritin"
+470,Cheryl,Leonardi,4109974780,"Bee, Penicillin",
+895,Dr.,Cahill,4104657550,,"fluoxctine, 40mg, 1xday"
+1348,Thomas,Withuhn,4105525050,,
+1002,Dr.,Kolodrubetz,3016216570,,
+1203,Michele,McEuiven,4434511600,gluten,"focalin, tirosint"
+1118,Dr.,A. Tomayo,4103094600,,
+629,Kevin,Carlson 410-910-2300,,,"Abilify,Lexapro,Topomax,Artano"
+337,Kartik,Desai,4103139292,,"Risperdal, Clonodine,Sertralene"
+246,Dr.,Frayha,4104658119,penicillin,"Venafilaxine, 150mg, 1xday
 Trazadone, 50mg, 1xda
 Gabepentin, 100mg, PRN
 Vitamin B-1, 250mg, 1xday
 Naltrexone, 50mg, 1xday
 Multiple vitamin, 1xday"
-458,Ying Huang,4107502229,"Squash, seasonal",
-984,Michael Lasser,4432593770,dairy,"celexa 30mg, 1xday
+458,Ying,Huang,4107502229,"Squash, seasonal",
+984,Michael,Lasser,4432593770,dairy,"celexa 30mg, 1xday
 omega 3 1000mg, 1xday
 albutyerol inhaler, HFC, PRN
 trileptal 300mg, 2xday
 magnesium biglycinate 100mg, 2xday
 cogentin .5mg, 2xday
 zyprexa 2.5mg, 1xday"
-50,Dr. Sarah Connor,4108847831,gluten free,"Levothyroxin, 0.75mg, 1xday
+50,Dr.,Sarah Connor,4108847831,gluten free,"Levothyroxin, 0.75mg, 1xday
 Risperidone, 2mg, 1xday; 3mg, 1xday
 Metformin, 1000, 2xday
 Norethindrone, 5mg, 1xday
@@ -651,83 +651,83 @@ Align, 4mg, 1xday
 Fluticasone, 50mg, 1xday
 Divalproex Sodium, 200mg, 1xday
 Fexofenadine, 180mg, 1xday"
-544,Safia Tasneem,4109646200,NKA,"oxcarbazepine, 600mg, 2xday
+544,Safia,Tasneem,4109646200,NKA,"oxcarbazepine, 600mg, 2xday
 hydeochlozo thiozide, 25mg, 1xday
 Vitamin D3, 1xday
 olmesartan medoxomil, 40mg, 1xday
 Spironolactone, 25mg, 1xday
 Vitamin C, 1xday"
-1096,Dr. Lynn Masih,,,Oral contraceptive 1xday
-1480,Dr. D. Saha,8007777904,,
-921,Jennifer Landsman,4104657550,,"depakote, redpirodone, omeprazole"
-566,Dr. Amy Byrd,4105837116,,"Lexapro, 35mg, 1xday"
-1210,Monique Burke,4434511600,,"Guanfacine, 1mg, 1xday
+1096,Dr.,Lynn Masih,,,Oral contraceptive 1xday
+1480,Dr.,D. Saha,8007777904,,
+921,Jennifer,Landsman,4104657550,,"depakote, redpirodone, omeprazole"
+566,Dr.,Amy Byrd,4105837116,,"Lexapro, 35mg, 1xday"
+1210,Monique,Burke,4434511600,,"Guanfacine, 1mg, 1xday
 Carbamazepine, 200mg, 2xday
 Escitalopram, 10mg, 1xday
 Risperidone, .5mg, 1xday
 Multivitamin, 1xday
 Loratadine, 5mg, 1xday"
-875,"Joshua Madden, MD",4107444849,none,
-961,Cecilia Nwankwo,3013304243,,
-295,Dr. May,4109929339,"Benedryl, Seroquel","Risperdel, Luvox, Topamaz"
-862,Susan Schoenfeld,4432593770,,"Intuniv, Buprofion"
-1306,Dr. Holmes,4103561575,,
-56,Dr. Daliah Halboni,4432593770,"Sulfa,bees",synthroid .75mg 1xday
-1120,Catonsville Pediatrics,4107444849,,"Adderall, Guanfacine, Fluocetine"
-671,Sr. Sheikh,4109646200,NKA,"Depakote,Detrol,Depo-provera,prilosec"
-449,Harry Oken,4109107500,NKA,
-498,Dr. Eidth Vargo,4432593770,NKA,"Lithium carbonate 600mg, 2xday
+875,Joshua,"Madden, MD",4107444849,none,
+961,Cecilia,Nwankwo,3013304243,,
+295,Dr.,May,4109929339,"Benedryl, Seroquel","Risperdel, Luvox, Topamaz"
+862,Susan,Schoenfeld,4432593770,,"Intuniv, Buprofion"
+1306,Dr.,Holmes,4103561575,,
+56,Dr.,Daliah Halboni,4432593770,"Sulfa,bees",synthroid .75mg 1xday
+1120,Catonsville,Pediatrics,4107444849,,"Adderall, Guanfacine, Fluocetine"
+671,Sr.,Sheikh,4109646200,NKA,"Depakote,Detrol,Depo-provera,prilosec"
+449,Harry,Oken,4109107500,NKA,
+498,Dr.,Eidth Vargo,4432593770,NKA,"Lithium carbonate 600mg, 2xday
 Benztropine 2mg, 3xday
 Oxcarbazepine 600mg, 3xday
 Olanzapine 10mg, 1xday
 Olznzapine 5mg, 1xday"
-466,Arnold Brenner,4109221133,"Mlk,wheat,cheese,nut",
-596,John Boscia,4438493040,NKA,"Haldol,Lorazopan,depakote,Hetz,lisinoprl"
-1339,Dr. McKay,4109929339,amoxicillin,"Zyrtec, 10ml, 1xday
+466,Arnold,Brenner,4109221133,"Mlk,wheat,cheese,nut",
+596,John,Boscia,4438493040,NKA,"Haldol,Lorazopan,depakote,Hetz,lisinoprl"
+1339,Dr.,McKay,4109929339,amoxicillin,"Zyrtec, 10ml, 1xday
 Guanfacinem, 7.5ml, 2xday
 Topamax, 2ml, 2xday"
-1009,"Warren Ross, 410-997-511",,"seafood, bees","zertec, 10mg, 1xday
+1009,Warren,"Ross, 410-997-511",,"seafood, bees","zertec, 10mg, 1xday
 fish oil, 1400mg, 1xday
 multivitamin, 2, 1xday"
-1152,Mario Majetti,6672142100,Penicillon,
-1222,Dr. Ruth Agwuna,4107729463,,"serquel, 200mg 1xday
+1152,Mario,Majetti,6672142100,Penicillon,
+1222,Dr.,Ruth Agwuna,4107729463,,"serquel, 200mg 1xday
 depakote 500mg 2xday
 centrum multivitamin"
-577,,,,
-1284,"Jennifer Landsman, MD",4104657500,,
-1309,Dr. Wendell McKay,4109929339,,"Amtodipine, 10mg, 1xday"
-1206,Jason Goldstein,4105832955,,
-1517,Dr. Ravendhran,4433674740,,"Quillichew ER, 20mg, 1xday
+577,N/A,N/A,,,
+1284,Jennifer,"Landsman, MD",4104657500,,
+1309,Dr.,Wendell McKay,4109929339,,"Amtodipine, 10mg, 1xday"
+1206,Jason,Goldstein,4105832955,,
+1517,Dr.,Ravendhran,4433674740,,"Quillichew ER, 20mg, 1xday
 Mirtazapine, 1xday"
-1470,Dr. Paul Ambush,4105317566,,
-343,The Pediatric Center,,,Luvex
-1160,M. Delaney,3017543060,,"multi-vitamin, claritin"
-310,Dr. Kausirt Khan,4104559894,,"Trileptal,Prozac,Tenex,Growth Hormone"
-1454,,,,
-1479,Dr. Brown,4109971700,,"Melatonin, 3mg, 1xday
+1470,Dr.,Paul Ambush,4105317566,,
+343,The,Pediatric Center,,,Luvex
+1160,M.,Delaney,3017543060,,"multi-vitamin, claritin"
+310,Dr.,Kausirt Khan,4104559894,,"Trileptal,Prozac,Tenex,Growth Hormone"
+1454,N/A,N/A,,,
+1479,Dr.,Brown,4109971700,,"Melatonin, 3mg, 1xday
 Claritin, 10mg, 1xday
 Flonase, PRM
 Calicium, 500m, 1xday"
-1343,Dr. McEwan,4434511600,,"Levothyroxin, 25mg, 1xday"
-513,Samantha Matthew,4108347831,,"Multivitamins, 1xday
+1343,Dr.,McEwan,4434511600,,"Levothyroxin, 25mg, 1xday"
+513,Samantha,Matthew,4108347831,,"Multivitamins, 1xday
 birth control, 1xday
 Focolin TR, 20mg 1,day
 lorazepan, 0.5mg, 1xday
 Depakote, 750mg, PM"
-62,Dr. Shuchi Saluja,3012954000,NKA,"Protonix, 40mg, 1xday
+62,Dr.,Shuchi Saluja,3012954000,NKA,"Protonix, 40mg, 1xday
 Claritin, 10mg, 1xday, as needed"
-749,Sujata Qusba,4107404500,,"Humalog, Lantus"
-253,Dr. Arnold Brenner,4109221133,,
-1174,Risa Huber,4104801895,,"Concerta, 27mg, 1Xday
+749,Sujata,Qusba,4107404500,,"Humalog, Lantus"
+253,Dr.,Arnold Brenner,4109221133,,
+1174,Risa,Huber,4104801895,,"Concerta, 27mg, 1Xday
 Multivitamin"
-706,Sarah Connor,4108847831,,"Keppra, 7.5ml, 1xday
+706,Sarah,Connor,4108847831,,"Keppra, 7.5ml, 1xday
 Zyrtec, 5ml, every other day"
-689,Dr. Edith Vargo,4432593770,,"Briviact 75mg, 2xday
+689,Dr.,Edith Vargo,4432593770,,"Briviact 75mg, 2xday
 Fintepla, 7ml, 2xday
 Clobazam, 10mg, 2xday
 THC, 5mg, 1xday
 Daily Multivitamin"
-1093,Scott Strahlman,4109646300,,"guanfacine, 2mg, 1xday
+1093,Scott,Strahlman,4109646300,,"guanfacine, 2mg, 1xday
 Vitamin C, 500mg, 1xday
 zinc, 20mg, 1xday
 escitalopram 10mg, 1xday
@@ -736,7 +736,7 @@ melatonin, as needed, 1mg, 1xday
 N-acetyl-L-Cysteine (NAC), 600mg, 2xday
 Calcium, 400mg, as needed
 Zyrtec, 10mg, as needed"
-886,"Kausey, Khan",4109927004,,"Paraoxetine HCL 10mg 
+886,"Kausey,",Khan,4109927004,,"Paraoxetine HCL 10mg 
 Multivitamin Tablet
 Vitamin D3 2000IU 
 Risperidone 0.5mg tab
@@ -746,134 +746,134 @@ Triamcinolone HCL 0.4mg
 Tamsulosin HCL 0.4mg
 Atorvastatin 20mg
 Mupirocin 2% ointment"
-1036,Dr. Chen,4102706762,"tree nuts, seafood",
-720,Michael Zong,4436363100,,"HailyFe24, 1tab, 1xday
+1036,Dr.,Chen,4102706762,"tree nuts, seafood",
+720,Michael,Zong,4436363100,,"HailyFe24, 1tab, 1xday
 Escitalopram, 10mg, 1xday
 Cetirizine, 10mg, 1xday"
-1011,Dr. Alesxandar,4107150080,dairy,"sertraline HCL, dexmethylphenidate, clonidine"
-475,Dr. Vellanki,4107727984,,"Fenofibrate,1xday"
-442,N.B. Vellanki,4107727984,Insects,"Fenofibrate, 1xday"
-911,Karen Miller,4107444849,,"oxcarbazepine (anti-seizure) 1200mg, 2xday
+1011,Dr.,Alesxandar,4107150080,dairy,"sertraline HCL, dexmethylphenidate, clonidine"
+475,Dr.,Vellanki,4107727984,,"Fenofibrate,1xday"
+442,N.B.,Vellanki,4107727984,Insects,"Fenofibrate, 1xday"
+911,Karen,Miller,4107444849,,"oxcarbazepine (anti-seizure) 1200mg, 2xday
 Risperidone (.5 & 2mg), 2xday
 Clonidine for sleep, .25mg, 1xday
 Vitamin D Gummy
 Multivitamin Gummy
 Norethindrone-ethinyl estradiol, 1.5mg, 1xday"
-1263,Cathy Mailander,4109929339,,
-65,William Saway,4109645300,NKA,"Iosamax,Topamax,Lamictal,Allegra"
-1074,Wendell McKay,4109929339,,"adderall XR, 30mg, 1xday
+1263,Cathy,Mailander,4109929339,,
+65,William,Saway,4109645300,NKA,"Iosamax,Topamax,Lamictal,Allegra"
+1074,Wendell,McKay,4109929339,,"adderall XR, 30mg, 1xday
 quercetin, 1xca
 Adderall mix, 10, 1xday
 Zyrtec, 10, 1xday"
-894,Wanda F. Fox,3012956289,,
-1157,"Ying Huang, 410-7750-2229",,,
-1384,,,,
-1344,Dr. Chang,4434511600,amoxicillan,
-562,,,,
-1520,Dr. Nideem,4109972770,,"Flintstones Multi vitamin
+894,Wanda,F. Fox,3012956289,,
+1157,Ying,"Huang, 410-7750-2229",,,
+1384,N/A,N/A,,,
+1344,Dr.,Chang,4434511600,amoxicillan,
+562,N/A,N/A,,,
+1520,Dr.,Nideem,4109972770,,"Flintstones Multi vitamin
 Guafocine, 1mg, 2xday"
-666,Dr. Steven Eversley,4109977660,"penicillin,nuts,eggs","Loratadine, 10mg, as needed
+666,Dr.,Steven Eversley,4109977660,"penicillin,nuts,eggs","Loratadine, 10mg, as needed
 Methylphenidate ER, 54mg, 1xday
 Fluoxetine, HCL, 30mg, daily
 Albuterol, 90mg, as needed
 Methylphenidate, 10mg, 1xday
 Epinephrine, 0.3mg, Emerg."
-973,Chandiang Chattergee,4109641056,,"Keppra, 3ml 2xday"
-967,Marie Chasnow,4105697337,,"sertraline, clomidine, risperidiione, baracluse"
-1042,Peter Cheng,4109545300,,
-1025,Kauser Khan,4109927004,,
-758,Diane Landrum,4434511600,,"Levothyroxine sodium, 88mcg, 1xday
+973,Chandiang,Chattergee,4109641056,,"Keppra, 3ml 2xday"
+967,Marie,Chasnow,4105697337,,"sertraline, clomidine, risperidiione, baracluse"
+1042,Peter,Cheng,4109545300,,
+1025,Kauser,Khan,4109927004,,
+758,Diane,Landrum,4434511600,,"Levothyroxine sodium, 88mcg, 1xday
 Clindamycin phosphate topical, 1xday"
-924,UNI Urgent Care,4436560306,,none
-550,Dr. Miryam Davis,2022917300,NKA,"Anafranil, zoloff, ORAP"
-930,Dr. Henry Chang,4434511600,,"heart meds, atenolol, thyroid meds, methimazole, xalbton, azopt"
-743,Pediatric Center,4434511600,,
-905,Dr. Nicholas Donkor,4107405460,seasonal,Albuteral
-750,Kathleen Byne,4108847031,,
-762,,,,
-939,"Dr. Morag, 667-234-86750",,,"Vitamin C, 1000, 1xday
+924,UNI,Urgent Care,4436560306,,none
+550,Dr.,Miryam Davis,2022917300,NKA,"Anafranil, zoloff, ORAP"
+930,Dr.,Henry Chang,4434511600,,"heart meds, atenolol, thyroid meds, methimazole, xalbton, azopt"
+743,Pediatric,Center,4434511600,,
+905,Dr.,Nicholas Donkor,4107405460,seasonal,Albuteral
+750,Kathleen,Byne,4108847031,,
+762,N/A,N/A,,,
+939,Dr.,"Morag, 667-234-86750",,,"Vitamin C, 1000, 1xday
 Centrilzine, 10mg,, 1xday
 Vitamin D, 1000, 1xday
 Multivitamin, 1xday
 Gamfibrazil, 800mg, 2xday
 Cetirizine, 10mg, 1xday"
-71,Aklesh Patel,4109979751,Erythromycin,Insulin
-1032,Husna R. Baksh,3014665173,,
-981,Kimberly Crim,4108741600,,"elonidine, synmold"
-1270,Rajiv Dua,4107303399,,"Multivitamin, 1xday
+71,Aklesh,Patel,4109979751,Erythromycin,Insulin
+1032,Husna,R. Baksh,3014665173,,
+981,Kimberly,Crim,4108741600,,"elonidine, synmold"
+1270,Rajiv,Dua,4107303399,,"Multivitamin, 1xday
 Guanfacine, 2mg, 2xday
 Vit C and D, 1xday"
-1278,Dr. Alexander,4107150080,,
-428,Dr. DeSai,4109975191,,"Methimazols, 5mg, 1xday"
-1274,,,,Allegra
-1116,Dr. Laura Lieberman,4108769680,Milk,
-1136,Dr. Beams,4438329260,,Trilepital
-1280,Michael Zollicoffer,4105421725,,
-1279,Michael Zollicoffer,4105421725,,
-639,Kanthi Wicks,4432593770,,"Metformin,glucotrol,Januvia,Benzeepril"
-898,Dr. Lisa Miller,6672342100,,OTC allergy meds 1 tablet 1xday
-224,Dr. David Luebbet,4107303399,NKA,"Levothroxin, 75mcg, 1xday
+1278,Dr.,Alexander,4107150080,,
+428,Dr.,DeSai,4109975191,,"Methimazols, 5mg, 1xday"
+1274,N/A,N/A,,,Allegra
+1116,Dr.,Laura Lieberman,4108769680,Milk,
+1136,Dr.,Beams,4438329260,,Trilepital
+1280,Michael,Zollicoffer,4105421725,,
+1279,Michael,Zollicoffer,4105421725,,
+639,Kanthi,Wicks,4432593770,,"Metformin,glucotrol,Januvia,Benzeepril"
+898,Dr.,Lisa Miller,6672342100,,OTC allergy meds 1 tablet 1xday
+224,Dr.,David Luebbet,4107303399,NKA,"Levothroxin, 75mcg, 1xday
 Co Q 10, 300mg 1xday
 MVI, 1xday
 Vitamin D, 2000, 1xday
 Clariton"
-1410,Dr. Kauser Khan,4104559894,"seroquel, benadryl",
-929,Dr. Chatterjee,4109641056,,
-775,Juliana Selaru,4106562646,,"fluoxetine hcl, 60mg, 1xday
+1410,Dr.,Kauser Khan,4104559894,"seroquel, benadryl",
+929,Dr.,Chatterjee,4109641056,,
+775,Juliana,Selaru,4106562646,,"fluoxetine hcl, 60mg, 1xday
 aripiprazole, 2mg, 1xday
 multivitamin, 1xday"
-636,Paul Ambush,4105317566,,"Clonidine, Risperidene,Benadryl,Depakote"
-411,Michele McEwan,4434511600,Coconut,
-381,Elizabeth Bower,4104801895,,"Propranolol, 20mg, 2xday
+636,Paul,Ambush,4105317566,,"Clonidine, Risperidene,Benadryl,Depakote"
+411,Michele,McEwan,4434511600,Coconut,
+381,Elizabeth,Bower,4104801895,,"Propranolol, 20mg, 2xday
 Pimozide, 1mg, 2xday
 Levongesterel, .01mg, 1xday
 Multivitamin, 1xday"
-459,Komal Patel,8668892727,"Fish, cats, dust","Multivitamin, 1xday
+459,Komal,Patel,8668892727,"Fish, cats, dust","Multivitamin, 1xday
 Intuive, 1xday"
-1327,Dr. Heather Alexander,4107150080,,Daily vitamin
-1513,Dr. Davis-Dash,4104332200,,"Focalin, 25mg, 1xday
+1327,Dr.,Heather Alexander,4107150080,,Daily vitamin
+1513,Dr.,Davis-Dash,4104332200,,"Focalin, 25mg, 1xday
 Concerta ER, 27mg, 1xday
 Abilify, 15mg, 1xday
 Lamictal, 5mg, 1xday
 Trazodone, 50mg, 1xday"
-841,Dr. Ashkey Dunn,3017745800,"Penicillin, Zythroma","miralax, 1cap/day
+841,Dr.,Ashkey Dunn,3017745800,"Penicillin, Zythroma","miralax, 1cap/day
 multivitam, 1xday"
-242,Manjula Basu,3016778800,,"Synthroid, Zoloft, Abilify"
-547,Tetunde Skitta-Bey,3015721000,"Gluten, Casein free","Abilify,k prozac, singulair"
-1043,Deeppu Shah,4432593770,,
-1377,,,,
-680,"Sara Park, CRNP",3017742995,NKA,"Depakote,clonazepam, lacosamide"
-1175,Dr. Yaung Yoon,4107611921,,
-925,Karen Miller,4107444849,,zoloft 175mg 1xday
-1178,Karen Miller,4107444849,,"Focalin ER 30 
+242,Manjula,Basu,3016778800,,"Synthroid, Zoloft, Abilify"
+547,Tetunde,Skitta-Bey,3015721000,"Gluten, Casein free","Abilify,k prozac, singulair"
+1043,Deeppu,Shah,4432593770,,
+1377,N/A,N/A,,,
+680,Sara,"Park, CRNP",3017742995,NKA,"Depakote,clonazepam, lacosamide"
+1175,Dr.,Yaung Yoon,4107611921,,
+925,Karen,Miller,4107444849,,zoloft 175mg 1xday
+1178,Karen,Miller,4107444849,,"Focalin ER 30 
 Gauficine 2"
-437,Eric Crawford,4107403600,,
-999,Terry Everhart,4109564911,,"triamcinolone, diphenhydram, ben peroxide, docusate, loratadine, mometasone"
-946,Karen Miller,4107444849,,"Melatonin, 5mg, 1xday
+437,Eric,Crawford,4107403600,,
+999,Terry,Everhart,4109564911,,"triamcinolone, diphenhydram, ben peroxide, docusate, loratadine, mometasone"
+946,Karen,Miller,4107444849,,"Melatonin, 5mg, 1xday
 Concerta, 27mg, 1xday
 Multivitamin"
-357,Harry Li,4103124700,"Nuts, coffee, beans","Ecenazole, Depot Lyaon,Acctaminophen"
-614,Dr. Rupal Desai,4109977660,Gantrisin,"albuterio,tegretol,flovent,loratadiene, ventolin HFA inhaler, chlorpheniramine maleate, prilosed"
-685,David Leichtling,4109970214,NKA,"Diazepam,Synthroid,Lexapro,Seroquel"
-986,Sujata Qasba,3017762700,,
-811,Patient Firt Columbia,,,Zyrtec
-988,Sujata Qasba,3017762700,,
-677,Nicholas Donkor,4107405460,NKA,
-872,"Dr. Jude, 410-678-88--",,,"Metodate, 30mg, 1xday
+357,Harry,Li,4103124700,"Nuts, coffee, beans","Ecenazole, Depot Lyaon,Acctaminophen"
+614,Dr.,Rupal Desai,4109977660,Gantrisin,"albuterio,tegretol,flovent,loratadiene, ventolin HFA inhaler, chlorpheniramine maleate, prilosed"
+685,David,Leichtling,4109970214,NKA,"Diazepam,Synthroid,Lexapro,Seroquel"
+986,Sujata,Qasba,3017762700,,
+811,Patient,Firt Columbia,,,Zyrtec
+988,Sujata,Qasba,3017762700,,
+677,Nicholas,Donkor,4107405460,NKA,
+872,Dr.,"Jude, 410-678-88--",,,"Metodate, 30mg, 1xday
 Intuniv, 3mg, 1xday
 Intuniv, 1mg, 1xday"
-678,Nicholas Donkor,4107405460,NKA,
-899,Wendell McKay,4109929339,,
-612,Ramesh Sabapatts,4103918734,NKA,"Paroxetine,nitrofur,amlodipine,betaseron"
-1156,Dr. Burke,4434511600,lamictal,"Depakote, 250mg, 2xday
+678,Nicholas,Donkor,4107405460,NKA,
+899,Wendell,McKay,4109929339,,
+612,Ramesh,Sabapatts,4103918734,NKA,"Paroxetine,nitrofur,amlodipine,betaseron"
+1156,Dr.,Burke,4434511600,lamictal,"Depakote, 250mg, 2xday
 onfi, 10mg, 2xday
 felbamate, 600mg, 2xday
 guaifenesin, 1mg, 2xday
 melatorin, 5mg, 1xday
 diazepam, 15mg, pm
 multivitamin, 1xday"
-491,Dr. Meegan Chestnut,4109645300,NKA,levothyroxin 88mg 1xday
-309,Tricia Alexis,4108372250,Augmentin,"Robafen, 100mg/5ml, every 4 hrs as needed
+491,Dr.,Meegan Chestnut,4109645300,NKA,levothyroxin 88mg 1xday
+309,Tricia,Alexis,4108372250,Augmentin,"Robafen, 100mg/5ml, every 4 hrs as needed
 Abilify, 15mg, 1xday
 Risperidone,  1mg, 2xday
 Trazodone, 50mg, 1xday
@@ -881,39 +881,39 @@ Alprazolam, 1mg, 3xday
 Depakole, 500mg, 3xday
 Melatonin, 3mg, 1xday
 Zoloft, 50mg, AM - 1-1/2 tab 1xday"
-421,Kendra Kay,4108843600,NKA,"guanfacine, 1mg, 2xday
+421,Kendra,Kay,4108843600,NKA,"guanfacine, 1mg, 2xday
 escitalopram, 20mg,  1xday
 aripiprazole, 1, pm
 Vit. D2, 50,000 caps, 1xday"
-548,Dr. Gopalan,4107475888,,"Tegretol, Aspirin"
-271,Scott Maurer,4104422427,,"Depakote,Risperdal,Eskalita,Seroguel"
-305,Joseph Gibbons,4107303399,"Grapes,Berries,Choc.","depakote, lamotrigine, Onfi, lorazepam, prozac, insulin, omeprazole, vitamins"
-1420,Ascension P.C.,6672348650,wasps,"Epipen
+548,Dr.,Gopalan,4107475888,,"Tegretol, Aspirin"
+271,Scott,Maurer,4104422427,,"Depakote,Risperdal,Eskalita,Seroguel"
+305,Joseph,Gibbons,4107303399,"Grapes,Berries,Choc.","depakote, lamotrigine, Onfi, lorazepam, prozac, insulin, omeprazole, vitamins"
+1420,Ascension,P.C.,6672348650,wasps,"Epipen
 Guanfacine, 1mg, 1.5, 2xday"
-694,,,,
-318,Kanthi Mlick,4432593770,,Synthroid
-563,Andrew Abram,4104486450,NKA,"Depakote, Trileptal"
-1417,Dr. Reha Pokharel,4109645306,,
-1117,Jill Rosenstock,3014988880,Latex,Vitamin D
-654,Dr. Ji-Yon Kwon,4104801895,trileptal,"clobazam 30mg, 2xday
+694,N/A,N/A,,,
+318,Kanthi,Mlick,4432593770,,Synthroid
+563,Andrew,Abram,4104486450,NKA,"Depakote, Trileptal"
+1417,Dr.,Reha Pokharel,4109645306,,
+1117,Jill,Rosenstock,3014988880,Latex,Vitamin D
+654,Dr.,Ji-Yon Kwon,4104801895,trileptal,"clobazam 30mg, 2xday
 zonisamide 300g, 2xday
 briviact, 5ml, 2xday"
-1007,"Dr. Landsman, 41-465-7550",,,
-1226,Michael Lasser,4433674740,,
-228,Kim Weiss,4109974780,,"Vitamin D, 1.25mg, once a week"
-235,Pediatric Center,4434511600,,"Paxil, Xanax, trazadone"
-1307,866-389-2727,,,"Adderall XR, 30mg, 1xday
+1007,Dr.,"Landsman, 41-465-7550",,,
+1226,Michael,Lasser,4433674740,,
+228,Kim,Weiss,4109974780,,"Vitamin D, 1.25mg, once a week"
+235,Pediatric,Center,4434511600,,"Paxil, Xanax, trazadone"
+1307,N/A,866-389-2727,,,"Adderall XR, 30mg, 1xday
 Bupropion HCL, 300mg, 1xday
 Sertraline, 100mg, 1xday"
-82,Melissa Conti/410-997-4780,,,"Previcid, Claritin"
-1451,Dr. Satuyi,3013229500,Chlyndamioin,
-1356,Dr. Sujata Qasba,3017762700,,"Risperdal, 0.25mg, 1xday
+82,Melissa,Conti/410-997-4780,,,"Previcid, Claritin"
+1451,Dr.,Satuyi,3013229500,Chlyndamioin,
+1356,Dr.,Sujata Qasba,3017762700,,"Risperdal, 0.25mg, 1xday
 Albuterol, 2 pulls as needed"
-1299,Maria Santos,4104657550,,"Buspirone, 10mg, 2xday
+1299,Maria,Santos,4104657550,,"Buspirone, 10mg, 2xday
 Hydroxydine, 10mg, 1xday
 Abilify, 10mg, 1xday"
-1429,Dr. Donker,4107405460,,
-974,Dr. Mary Rifino,6672348650,"shellfish, all fish","Risperidone, .25mg 1xday
+1429,Dr.,Donker,4107405460,,
+974,Dr.,Mary Rifino,6672348650,"shellfish, all fish","Risperidone, .25mg 1xday
 Duloxetine, 40mg 1xday
 Spironolactone, 50mg, 1xday
 Amlodipine, 2.5mg 1xday
@@ -921,29 +921,29 @@ Hydroxyzine, 25mg 1xday
 Oxybutynin, 5mg 1xday
 Psyllion Hust, 500mg 1xday
 Vitamin D3, 250mg, 1xday"
-640,Edward Cahill,4104657550,nka,Miralax
-1089,Dr. Zainderman,4432593782,,"Omega-3, probiotic, multivitamin, melatonin"
-1199,Dr. Elvira Pasmanik,4105214211,,"Benztropine 0.5MG 2Xday
+640,Edward,Cahill,4104657550,nka,Miralax
+1089,Dr.,Zainderman,4432593782,,"Omega-3, probiotic, multivitamin, melatonin"
+1199,Dr.,Elvira Pasmanik,4105214211,,"Benztropine 0.5MG 2Xday
 Lamotrigine 25MG 2Xday
 Risperidone 2MG 2Xday"
-1027,Virgina Elsinger,4107303399,,
-1140,Dr. Janet Siddiqui,4108741600,,"multivitamin, 1 tab., 1xday
+1027,Virgina,Elsinger,4107303399,,
+1140,Dr.,Janet Siddiqui,4108741600,,"multivitamin, 1 tab., 1xday
 Vitamin D, 1xday"
-1193,Aruna Khurana,4109978200,,
-975,Dr. Chang,4107403600,,"levothyroxine, 150mg, 1xday
+1193,Aruna,Khurana,4109978200,,
+975,Dr.,Chang,4107403600,,"levothyroxine, 150mg, 1xday
 vitmin D3, 50mg, 1xday"
-83,Sannis A. Mathew,4108347831,,"Simvastatin, Tegretol, tricor, Glipizide, Metformin, Losartan, xalatan, imitrex,treximet, reglan, maxalt, benadryl, vitamin B2"
-1119,Dr. Scott Strahlman,4109646300,,"Sertraline, 200mg, 1xday
+83,Sannis,A. Mathew,4108347831,,"Simvastatin, Tegretol, tricor, Glipizide, Metformin, Losartan, xalatan, imitrex,treximet, reglan, maxalt, benadryl, vitamin B2"
+1119,Dr.,Scott Strahlman,4109646300,,"Sertraline, 200mg, 1xday
 Ariprazole, 7.5mg, 1xday"
-681,Columbia Medical Practice,4109646300,NKA,
-237,Dr. Abby,,Suprax,
-695,Jacqueline Brown,4109971700,NKA,Risperdol
-625,Ayesha Cheema,4108012273,Needs dairy enzyme,"Aripiprazole (Abilify), 5mg, 2xday
+681,Columbia,Medical Practice,4109646300,NKA,
+237,Dr.,Abby,,Suprax,
+695,Jacqueline,Brown,4109971700,NKA,Risperdol
+625,Ayesha,Cheema,4108012273,Needs dairy enzyme,"Aripiprazole (Abilify), 5mg, 2xday
 Ofanzapine, 5mg, 1xday
 Lorazepam, 0.5mg, as needed
 Multivitamin, 1xday"
-1371,Dr. Nadia Ansari,4107890304,,"Junel, 1:5/30, 1xday"
-627,Dr. Brown,4432593770,Peanuts,"Ruhnamide, 1200mg, 2xday
+1371,Dr.,Nadia Ansari,4107890304,,"Junel, 1:5/30, 1xday"
+627,Dr.,Brown,4432593770,Peanuts,"Ruhnamide, 1200mg, 2xday
 zonisamide 200mg am & pm
 Vit D3, 1000IU, 1xday
 Felbamate, 1200mg, 2xday
@@ -951,93 +951,93 @@ Divalpirex, 1000, 2xday
 Epipen as needed
 Olanzapine, 5mg, 1xday
 Sertraline, 100mg, 1xday"
-1020,Irma Bensinger,4109846200,,
-1483,Dr. Molly Silber,4434511600,,
-1304,Dr. Sara Mixter,4105832774,penicillian,"levothyroxine, .44 mcg, 1xday
+1020,Irma,Bensinger,4109846200,,
+1483,Dr.,Molly Silber,4434511600,,
+1304,Dr.,Sara Mixter,4105832774,penicillian,"levothyroxine, .44 mcg, 1xday
 Vitamin D 50 mcg, 1xday
 Vitamin B2, 3000, 1xday
 Tri-to-sprintec, 1, 1xday"
-1244,Meghan Wellad,,,"claritin, .5mg, 1xday
+1244,Meghan,Wellad,,,"claritin, .5mg, 1xday
 motrin, 15mg, 2day
 zinc, 10mg, 2xday
 fish oil, 10mg, 2xday
 gaba, 10mg, 2xday"
-1490,,,,"Respiridone, 3mg, AM
+1490,N/A,N/A,,,"Respiridone, 3mg, AM
 Respirdone, 1mg, PM
 Entyprl, 20mg, 1xday
 Lamopynel, 100mg, 1xday
 Hucrxyzire, 25mg, 1xday"
-1110,Dr. Lindsay Fitch,4100076400,,
-1170,Dr. M. Santos,4104657550,Motrin,vyvanse
-890,Lillian M. Beard,3015935566,,
-659,Lifebridge,4105311440,,"Risperidone 1mg, 2xday"
-696,"Parnes, May, Mckay",4109929339,"Kiwi, Bee stings,",
-730,Kristin Adelmyer,3018295906,NKA,"Synthroid, .56g, 1xday
+1110,Dr.,Lindsay Fitch,4100076400,,
+1170,Dr.,M. Santos,4104657550,Motrin,vyvanse
+890,Lillian,M. Beard,3015935566,,
+659,N/A,Lifebridge,4105311440,,"Risperidone 1mg, 2xday"
+696,"Parnes,","May, Mckay",4109929339,"Kiwi, Bee stings,",
+730,Kristin,Adelmyer,3018295906,NKA,"Synthroid, .56g, 1xday
 Vitamin D, 1000mg, 1xday
 Vitamin C, 500mg, 1xdah
 Multivitamin, 1xday"
-715,"Dr. Suzan Abdo, 443-55-8500",,Amoxicillin,"Zoloft, 25mg, 1xday
+715,Dr.,"Suzan Abdo, 443-55-8500",,Amoxicillin,"Zoloft, 25mg, 1xday
 Miralax, 1/2 scoop, 1xday
 tabuvite vitamin, 1 tab, 1xday
 Vit D3, 1000 iu, 1xday
 Calcium carbonate, 500mg chew, am meal & pm meal"
-1153,Dr. Lee,4109929339,,Junel
-1049,Dr. Galita,4104657550,,"Clobazam, 10mg, 5mg, 1xday
+1153,Dr.,Lee,4109929339,,Junel
+1049,Dr.,Galita,4104657550,,"Clobazam, 10mg, 5mg, 1xday
 Prozac, 30mg, 1xday
 Zyrtec, 10mg, 1xday
 Vitamin D, 1xday
 Multi Vitamin, 1xday
 Fish Oil, 1xday"
-1159,Dr. Mary Ogunsanya,3012180398,,
-1523,Dr. King,,,"Qelbree, 600mg, Qam
+1159,Dr.,Mary Ogunsanya,3012180398,,
+1523,Dr.,King,,,"Qelbree, 600mg, Qam
 Buspar, 10mg, Qhs
 Hydroxyzine, 10mg, Qhs"
-744,Lauronee Sunak 410-964-6200,,,"Risperdol, Lorazepam,Tegretol"
-425,Sharma Mann,4109975333,"Amoxicillan,Egg,Milk","multi vitamin, 1xday"
-794,Dr. Coupet,2402646595,,"Risperidone, 0.5mg, 2xday
+744,Lauronee,Sunak 410-964-6200,,,"Risperdol, Lorazepam,Tegretol"
+425,Sharma,Mann,4109975333,"Amoxicillan,Egg,Milk","multi vitamin, 1xday"
+794,Dr.,Coupet,2402646595,,"Risperidone, 0.5mg, 2xday
 Propranolol, 60mg, 1xday
 Propoanolol, 20mg, 1xday
 Olonzapine, 5mg, 1xday
 Olanzapine, 10mg, 1xday
 Hydroxyzine pamoate, 25mg, PRN
 Vitamin D3, 50mg, 1xday"
-464,Betty Kyser,4104657550,,Diazepan
-434,Dr. Elizabeth Bouer,4104801895,,"Topamax,2xday
+464,Betty,Kyser,4104657550,,Diazepan
+434,Dr.,Elizabeth Bouer,4104801895,,"Topamax,2xday
 Mysoline, 2xday
 KWQSVIBrwm 1xweek"
-943,Reha Pokharel,4109645300,,"Multivitamin-Flinstones, 1xday
+943,Reha,Pokharel,4109645300,,"Multivitamin-Flinstones, 1xday
 Flax seed oil, 1000mg, 1xday
 Vitamin D3, 1000IU, 1xday
 Guanfacine, 3mg, 1xday
 Sertraline, 200mg, 1xday"
-719,Justin Elfrey,4103682100,NKA,Multivitamin 1xday
-1000,Mry Garcia,4103219393,,
-1367,Dr. Rumneet Saini,4434511600,,"Levothyroxine, 37.5mg, 1xday
+719,Justin,Elfrey,4103682100,NKA,Multivitamin 1xday
+1000,Mry,Garcia,4103219393,,
+1367,Dr.,Rumneet Saini,4434511600,,"Levothyroxine, 37.5mg, 1xday
 Senna, 2.5 tablets, nightly"
-713,Aruna Khurana 410-997-8200,,NKA,
-1201,Yn Hee Kim,4438493760,,Vitamin D
-1075,Dr. Gabriela Siegel,4108867831,,"Clonazebam, 0.5mg, 2xday
+713,Aruna,Khurana 410-997-8200,,NKA,
+1201,Yn,Hee Kim,4438493760,,Vitamin D
+1075,Dr.,Gabriela Siegel,4108867831,,"Clonazebam, 0.5mg, 2xday
 Aripiprazole, 20mg, 1xday
 Metformin, 500mg, 1xday"
-1297,Sherri Gruneberg,4107886565,penicillian,"Vyvanse, 10mg, 1xday
+1297,Sherri,Gruneberg,4107886565,penicillian,"Vyvanse, 10mg, 1xday
 Sertraline, 100mg, 1xday
 Abilify, 2mg, 1xday
 Ability, 5mg, 1xday"
-745,Dr. Abdo,4435358500,,"Levothyroxine, 20mg, 1xday"
-1252,Columbia Pediatric Center,4434511600,,"Clonidine, .1mg 2xday
+745,Dr.,Abdo,4435358500,,"Levothyroxine, 20mg, 1xday"
+1252,Columbia,Pediatric Center,4434511600,,"Clonidine, .1mg 2xday
 Prozak, 2.5ml 1xday"
-1250,Columbia Pediatric Center,4434511600,,
-1106,Retha Chea,4432706760,,"Lexipro (excltolopram), 10ml, 1xday
+1250,Columbia,Pediatric Center,4434511600,,
+1106,Retha,Chea,4432706760,,"Lexipro (excltolopram), 10ml, 1xday
 Trileptal (oxcabazeprine) 5ml, 1xday (AM)
 Trileptal (oxcabazeprine) 10ml, 1xday (PM)
 Abilify (arlpiprazole), 30mg, 1xday (AM)
 Abilify (arlpiprazole), 15mg, 1xday (PM)
 Vitamins
 Fiber supplement, 5g"
-1256,Dr. Steven Eversley,4109977660,,"Buspirone, 7.5m, 2xday
+1256,Dr.,Steven Eversley,4109977660,,"Buspirone, 7.5m, 2xday
 Tresiba insulin, 16 cc, 1xday
 Novolog insulin, varies, 3xday"
-598,Dr. Shah,4109927004,NKA,"Rispridone, 1mg, 1xday
+598,Dr.,Shah,4109927004,NKA,"Rispridone, 1mg, 1xday
 Clonazepam, 0.5mg, 1xday
 Fluoxetine, 20mg, 1xday
 Fluoxetine, 10mg, 1xday
@@ -1047,105 +1047,105 @@ Risperidone, 0.25mg, 2xday
 Divalproex, 250mg, 2xday
 Cloridine, 0.1mg, 1xday
 Other meds PRN"
-954,Dr. Atina Aban,4109649033,,
-797,Dr. Augustine,4109971700,,
-1434,Dr. Majek K,4107600098,,"Risperidone, 0.5mg, 2pm
+954,Dr.,Atina Aban,4109649033,,
+797,Dr.,Augustine,4109971700,,
+1434,Dr.,Majek K,4107600098,,"Risperidone, 0.5mg, 2pm
 Risperidone, 2mg, 8pm
 Benzropine Mes, 0.5mg, 2xday
 Lamotrigine, 25mg, 2xday
 Buspirone Hec, 10mg, 2xday
 Divalymoone Ec, 500mg, 2xday
 Escalelopron, 20mg, 8pm"
-923,Dr. Henley,4105824220,penicillin,"Desloratadine, 1 tablet, 1xday"
-1238,"Sidney Nalsomy, III",4107307040,,Trazadone flueoxitine intuniv hydrocordizide resperidal
-586,Dr. Dhanoa,3019297100,"seafood, nuts, chees","Albuterol 2 puffs, as needed up to 4xday
+923,Dr.,Henley,4105824220,penicillin,"Desloratadine, 1 tablet, 1xday"
+1238,Sidney,"Nalsomy, III",4107307040,,Trazadone flueoxitine intuniv hydrocordizide resperidal
+586,Dr.,Dhanoa,3019297100,"seafood, nuts, chees","Albuterol 2 puffs, as needed up to 4xday
 Multivitamin, daily
 Flonase, daily
 Claritin, daily
 Claritin-D, as needed for post nasal drip"
-718,,,,
-441,Manjula Basu,3016778516,,
-1334,Dr. Megan Cullen,4109645900,,"Metformin, 1000mg, 2xday
+718,N/A,N/A,,,
+441,Manjula,Basu,3016778516,,
+1334,Dr.,Megan Cullen,4109645900,,"Metformin, 1000mg, 2xday
 Glipizide, 10mg, 2xday
 Low-dose aspirin, 81mg, 1xday
 Multi vitamin, 1 gummy, 2xday"
-655,nicholas Donkor,4107405460,,none
-776,Marshall Freedman,4109645360,,"Vitamin D, Clitalopram, Trazodone, miralae"
-1524,Dr. Cahill,,,
-1255,Dr. Smita Vazakar,4434432300,,"Flovent, 2puffs, 2xday
+655,nicholas,Donkor,4107405460,,none
+776,Marshall,Freedman,4109645360,,"Vitamin D, Clitalopram, Trazodone, miralae"
+1524,Dr.,Cahill,,,
+1255,Dr.,Smita Vazakar,4434432300,,"Flovent, 2puffs, 2xday
 Albuterol, 2puffs, PRN"
-1254,Dr. Smita Vazakar,4434422300,,
-1381,,,,
-1242,Dr. Polgar,4438645503,,"divalproex, 500mg, 2xday
+1254,Dr.,Smita Vazakar,4434422300,,
+1381,N/A,N/A,,,
+1242,Dr.,Polgar,4438645503,,"divalproex, 500mg, 2xday
 clonazepam, 2mg, 2xday
 olanzapine, 15mg, 1xday
 ibuprofen, 600mg, PRN
 acetaminophen, 500mg, PRN"
-332,Joseph Gibbons,4107303399,,"Risperadal,Bupropon,Sertraline,Sprintec"
-1167,Angela Duncan,3014988880,shellfish,
-968,Pediatric & Adolescent Center,3018692292,,"hydrncorsoru, rispendone tab"
-1041,Peter Cheng,4109645300,,
-380,Mamid Lhsani,4109924464,NKA,"Victoza, Turmeric, Glipizide, Vitamin D, Precip nasal spray"
-842,Dr. D. Loudun,4107403600,,
-887,Edward Cahill,4104657550,,"lithium, multi vitimin, fish oil, detiaizine, olanzapine, vitamin D docusate, minocyline"
-843,Dr. Wendell McKay,4109929339,corn; gluten free,Zantac
-452,David Leighting,4109646200,,"Aripiprazole 31MG 1xday
+332,Joseph,Gibbons,4107303399,,"Risperadal,Bupropon,Sertraline,Sprintec"
+1167,Angela,Duncan,3014988880,shellfish,
+968,Pediatric,& Adolescent Center,3018692292,,"hydrncorsoru, rispendone tab"
+1041,Peter,Cheng,4109645300,,
+380,Mamid,Lhsani,4109924464,NKA,"Victoza, Turmeric, Glipizide, Vitamin D, Precip nasal spray"
+842,Dr.,D. Loudun,4107403600,,
+887,Edward,Cahill,4104657550,,"lithium, multi vitimin, fish oil, detiaizine, olanzapine, vitamin D docusate, minocyline"
+843,Dr.,Wendell McKay,4109929339,corn; gluten free,Zantac
+452,David,Leighting,4109646200,,"Aripiprazole 31MG 1xday
 Fluoxetine 40mg 1xday
 Laniotrigine 200mg 2xday
 Vitamin D3 1000 units 1xday"
-342,Steven Brown,3017768000,NKA,
-605,William Sawat,4109645300,Sulphur drugs,"Risperdal,Tegretol,Ventolin"
-553,Jennifer Landsman,4104657550,Sulfur,"Adderall, Ortho Tri Cyclen"
-870,Kinder Mender 443-492-4000,,,
-796,Kauser Khan,4104559894,,
-1421,Dr. Donkor,4107405460,,
-1329,Dr. Alexander,4107150080,,
-453,Jacob Cherian,4109665311,bee stings,"depokote 500G, 1xday
+342,Steven,Brown,3017768000,NKA,
+605,William,Sawat,4109645300,Sulphur drugs,"Risperdal,Tegretol,Ventolin"
+553,Jennifer,Landsman,4104657550,Sulfur,"Adderall, Ortho Tri Cyclen"
+870,Kinder,Mender 443-492-4000,,,
+796,Kauser,Khan,4104559894,,
+1421,Dr.,Donkor,4107405460,,
+1329,Dr.,Alexander,4107150080,,
+453,Jacob,Cherian,4109665311,bee stings,"depokote 500G, 1xday
 invega 1xday
 verapimal 1xday
 atonol 1xday
 trispintic 1xday
 calcium 1xday"
-896,Dr. Galita,4104657550,"penicillin,augmentin","Doxycycline, 100mg, 1xday
+896,Dr.,Galita,4104657550,"penicillin,augmentin","Doxycycline, 100mg, 1xday
 Flonase, 1xday
 Prevacid, 20mg, 1xday"
-599,Steven Eversley,4109977660,Penicillin,"concerta, 54, 1xday
+599,Steven,Eversley,4109977660,Penicillin,"concerta, 54, 1xday
 Gabapatin, 300, 2xday
 Seroguel, 150, 5x day
 Ginko Biloba, 120, 2xday"
-1358,Ashely Martin,6677212880,,
-609,Young Yuin,4107611424,,Keppra
-1013,Dr. J.  Anthony,4109920510,,
-1507,Dr. Nicole Smith,3012369540,pollen,
-962,K. Ambalavanar,4107666447,,"Livathyaspine, Pravastaka"
-624,The Pediatric Center,4434511600,Red dye #40,"keppra, cloticetta"
-1190,Klebanow and Associates,4109920510,,"Multivitamins, probiotics"
-917,Paul Ambush,4105317566,,"Fluoxetine, 40mg, 1xday"
-89,Dr. Randal Riesett,4109102300,Tetiacyclive,"losartanl 12.5mg 1xday; rosuvastain 5mg every other day; minocycline, 50mg, 1xday"
-90,Dr. Ken Williams,6672342100,Penicillin,"multi vitamin, 1xday
+1358,Ashely,Martin,6677212880,,
+609,Young,Yuin,4107611424,,Keppra
+1013,Dr.,J. Anthony,4109920510,,
+1507,Dr.,Nicole Smith,3012369540,pollen,
+962,K.,Ambalavanar,4107666447,,"Livathyaspine, Pravastaka"
+624,The,Pediatric Center,4434511600,Red dye #40,"keppra, cloticetta"
+1190,Klebanow,and Associates,4109920510,,"Multivitamins, probiotics"
+917,Paul,Ambush,4105317566,,"Fluoxetine, 40mg, 1xday"
+89,Dr.,Randal Riesett,4109102300,Tetiacyclive,"losartanl 12.5mg 1xday; rosuvastain 5mg every other day; minocycline, 50mg, 1xday"
+90,Dr.,Ken Williams,6672342100,Penicillin,"multi vitamin, 1xday
 Allergy medicines as needed
 Probiotic, 1xday"
-865,"Dr. Sarah Prayer,",,,
-1492,Dr. Williams,4105005500,,
-647,Ho-Lai Feng,4109645300,"Torazine, penicillin","Lopid, Carbenzepine, Lipitor"
-1105,Samuel Williams,4107882350,,"multi vitamin, vitamin C, probiotic"
-760,Jill Rosenstock,3014988880,"Milk, wheat products","Digestive enzyme, fish oil, multi-vitamin"
-633,,,,
-589,Lesley Berger,4104657550,,"Vitamin D, 1xday"
-914,Dr. Zameo Beams,4438329260,,"Focaln XR, 15, 1xday
+865,Dr.,"Sarah Prayer,",,,
+1492,Dr.,Williams,4105005500,,
+647,Ho-Lai,Feng,4109645300,"Torazine, penicillin","Lopid, Carbenzepine, Lipitor"
+1105,Samuel,Williams,4107882350,,"multi vitamin, vitamin C, probiotic"
+760,Jill,Rosenstock,3014988880,"Milk, wheat products","Digestive enzyme, fish oil, multi-vitamin"
+633,N/A,N/A,,,
+589,Lesley,Berger,4104657550,,"Vitamin D, 1xday"
+914,Dr.,Zameo Beams,4438329260,,"Focaln XR, 15, 1xday
 Focalin, 10, 1xday
 Ituniv, 3, 1xday
 Celeya, 20, 1xday"
-1229,Dr. Landsmann,4104657551,,"Clobazam, 6ml. 1xday
+1229,Dr.,Landsmann,4104657551,,"Clobazam, 6ml. 1xday
 Multivitamins, 2, 1 xday
 oxcarbazeprine, 10ml, 2xday"
-210,Dr. Dasgupta,4432593770,Sulfa antibiotics,"sertaline 150 mg, 1xday
+210,Dr.,Dasgupta,4432593770,Sulfa antibiotics,"sertaline 150 mg, 1xday
 Curcumin 2500mg, 1xday
 Magnesium 400mg, 1xday
 Vitamin D, 1xday
 Krill oil, 1xday
 Tirosiint, 150mg, 1xday"
-1464,,,,"AM (4)
+1464,N/A,N/A,,,"AM (4)
 - One 10 mg METHYLPHENIDATE
 - Two 36 mg METHYLPHENIDATE
 - One BUSPIRONE
@@ -1157,53 +1157,53 @@ Tirosiint, 150mg, 1xday"
 6pm 
 - 1 (10mg) ARPIPRAZOLE
 - 1 melatonin pill"
-723,Nicholas Morog,6672348650,NKA,
-1285,Wendell McKay,4109929339,,"albuterol inhaler, 2 puffs, as needed"
-1273,Edisa Padder,3015604742,,"Guanficine, 4mg, 1xday
+723,Nicholas,Morog,6672348650,NKA,
+1285,Wendell,McKay,4109929339,,"albuterol inhaler, 2 puffs, as needed"
+1273,Edisa,Padder,3015604742,,"Guanficine, 4mg, 1xday
 Vyvanse, 70mg, 1xday
 Zoloft, 1xday"
-574,Dr. Anilchopra,,"compisinc, regian","Byetta, actose"
-525,Dr. Seyged Apis,4103672216,"motrin,aspirin,sugar","Levothyrox 0.05, 1xday
+574,Dr.,Anilchopra,,"compisinc, regian","Byetta, actose"
+525,Dr.,Seyged Apis,4103672216,"motrin,aspirin,sugar","Levothyrox 0.05, 1xday
 Insulin 70/30 4 units in am
 Insulin 70/30 2 units in PM"
-581,Dr. Risa Huber,4104801895,Sudafed,
-1171,Pediatric Care,3016816730,,"clonidine, 0.3mg, 1xday
+581,Dr.,Risa Huber,4104801895,Sudafed,
+1171,Pediatric,Care,3016816730,,"clonidine, 0.3mg, 1xday
 Ritalin ER, 20mg, 1xday
 Zitalin, 10mg,  1xday
 vitamins"
-1237,Dr. Joyce Dietrich,4434422300,"amoxicillian, cefdln","Levothyroxine 62.5mg, 1xday
+1237,Dr.,Joyce Dietrich,4434422300,"amoxicillian, cefdln","Levothyroxine 62.5mg, 1xday
 Ritalin, 20mg, 1xday"
-340,Dr. Benzamin Lee,4107447184,,"Vitron C, 65-125mg, 1xday
+340,Dr.,Benzamin Lee,4107447184,,"Vitron C, 65-125mg, 1xday
 Amlodipine, 5mg, 1xday
 Valsartan, 60mg, 1xday
 Risperidone 0-5mg, 1xday
 Fenofibrate, 165mg, 1xday
 Lamotrigine, 25mg, 1xday"
-1166,David Eisenberg,6673122408,,"multi-vitamin, systaine, traavaton"
-334,Jacqueline Shepard-Lewis,4103094600,"Wheat, gluten, soy,",see medical form
-575,Valorie Anlage,3017768000,"Wheat,gluten,soy","ejzim complete, TMG, zinc, lithganing, nutriant-950"
-1003,Dr. Jonathan Fish,,"nuts, wheat, dairy",none
-1350,Dr. McKay,4109929339,amoxicillan,"Losortan, 50mg, 1xday"
-910,Virginia Keane,4105785277,"egg, dairy",
-1072,James Dalton,4107888033,,"vareniclsne, famotbine, fenodelperate, fluticasone"
-1378,,,,
-1385,Dr. Nagsi Surega,4107953800,Latex,"Levothyroxine, 75MCO, 1xday"
-1078,Dr. Linda Lang,4104655454,latex,"Amlopindine Besylate, 2.5mg, 1xday
+1166,David,Eisenberg,6673122408,,"multi-vitamin, systaine, traavaton"
+334,Jacqueline,Shepard-Lewis,4103094600,"Wheat, gluten, soy,",see medical form
+575,Valorie,Anlage,3017768000,"Wheat,gluten,soy","ejzim complete, TMG, zinc, lithganing, nutriant-950"
+1003,Dr.,Jonathan Fish,,"nuts, wheat, dairy",none
+1350,Dr.,McKay,4109929339,amoxicillan,"Losortan, 50mg, 1xday"
+910,Virginia,Keane,4105785277,"egg, dairy",
+1072,James,Dalton,4107888033,,"vareniclsne, famotbine, fenodelperate, fluticasone"
+1378,N/A,N/A,,,
+1385,Dr.,Nagsi Surega,4107953800,Latex,"Levothyroxine, 75MCO, 1xday"
+1078,Dr.,Linda Lang,4104655454,latex,"Amlopindine Besylate, 2.5mg, 1xday
 Rosavastatin Calcium, 10mg, 1xday"
-1123,Dr. Alpana Goswami,3019843100,"braxin, lactose","risporidone, divalproex, omteprazolo"
-1475,Dr. Scott Stranlman,4109648500,,"Goanfacine, 2xday
+1123,Dr.,Alpana Goswami,3019843100,"braxin, lactose","risporidone, divalproex, omteprazolo"
+1475,Dr.,Scott Stranlman,4109648500,,"Goanfacine, 2xday
 Methycphenidate, 5mg, 1xday
 Clonidine 0.1mg, 1xday"
-1471,Dr Rios,4108741600,,"Straterra, 10mg, 1xday"
-591,Dr. David Leichtling,4109646200,NKA,"Vimpat, 10 mg/ml solution, 15cc, 2xday
+1471,Dr,Rios,4108741600,,"Straterra, 10mg, 1xday"
+591,Dr.,David Leichtling,4109646200,NKA,"Vimpat, 10 mg/ml solution, 15cc, 2xday
 Keppra 100 mg/ml solution, 10cc, 2xday"
-650,Dr. Susan Brown-Schoenfeld,4432593770,"Eggs,latex,milk,soy,","Dupuixent, 2ml, bi-weekly
+650,Dr.,Susan Brown-Schoenfeld,4432593770,"Eggs,latex,milk,soy,","Dupuixent, 2ml, bi-weekly
 Levothroxine, 75mcg, 1xday
 Escitalopram, 10mc, 1xday
 Zyrtec, 10gm, 2xday
 Benydrle"
-947,Dr. Chandana Chatterjee,4109641056,"mosquito, no dairy","abilify, clonidine, seroquel"
-1488,,,"ability, augmentin","Vit D2, 50,000IU, 1xweek
+947,Dr.,Chandana Chatterjee,4109641056,"mosquito, no dairy","abilify, clonidine, seroquel"
+1488,N/A,N/A,,"ability, augmentin","Vit D2, 50,000IU, 1xweek
 Halopuridol, 5mg, 1xday
 Fluticasone, 50mcg, 1xday
 Benztropine, 1mg, 2xday
@@ -1212,11 +1212,11 @@ Clonazepam, 0.5mg, 2xday
 Lithiam Carbonate, 600mg, 2xday
 Propanolol, 80mg, 3xday
 Oxcarbazepine, 600mg, 3xday"
-902,St. Agnes Medical Group,4103682100,"penicillian, amox.",
-951,Amandeep Singh,4104657091,amoxicillian,"Lansoprazole, 30mg, 1xday
+902,St.,Agnes Medical Group,4103682100,"penicillian, amox.",
+951,Amandeep,Singh,4104657091,amoxicillian,"Lansoprazole, 30mg, 1xday
 Vitamin D3, 1xday
 Multi Vitamin Chew, 1xday"
-93,Peter Cheng,4109645300,,"Verapamil 240mg 1xday
+93,Peter,Cheng,4109645300,,"Verapamil 240mg 1xday
 Clomipramine 100mg 1xday
 Sertraline 50mg 1xday
 Vitamin E&D3 1000 units 1xday
@@ -1224,31 +1224,31 @@ Cholcalciferol, 25mcg, 1xday
 Metformin, 1000mg, 2xday
 Gipizide, 2.5mg, 1xday
 Metoprolal, 25mg, 1xday"
-487,Michelle Price,4107402900,,"Zoloft, Zyprexa"
-935,Dr. Wollney,4109970500,,
-703,Dr. Wollney,4109970500,,
-1079,Dr. Joseph Gibbons,4107303399,"gluten, dairy","Fluoxethe, 3.5ml, 2xday
+487,Michelle,Price,4107402900,,"Zoloft, Zyprexa"
+935,Dr.,Wollney,4109970500,,
+703,Dr.,Wollney,4109970500,,
+1079,Dr.,Joseph Gibbons,4107303399,"gluten, dairy","Fluoxethe, 3.5ml, 2xday
 Aripriprozole, 1.4ml, 1xday
 Fluoxitine, 3.5ml, 1xday"
-583,S. Abdullah,2022912900,,"Coumadin, Digoxin, Enalapril,Risperdal"
-1180,Saba Sheikh,4109645300,oluginentum,"CBC, multivitamen, fish oil"
-1303,Lesley Bergy,4104657550,bananas,"flonase, 1squirt per nostril
+583,S.,Abdullah,2022912900,,"Coumadin, Digoxin, Enalapril,Risperdal"
+1180,Saba,Sheikh,4109645300,oluginentum,"CBC, multivitamen, fish oil"
+1303,Lesley,Bergy,4104657550,bananas,"flonase, 1squirt per nostril
 melatonin, 5mg at night
 clariton 10mg, QD
 tums, PRN"
-619,Susan Madonian,3014983150,Soy,"Pulicort,Albuterel,Fluoxetine,Strattera"
-712,Isaac Yoon,4437184067,NKA,"Oxcarbazepine 300mg, 2xday"
-710,Pediatric Center,4107403600,NKA,
-319,Dr. Garonzik,4109975191,"Wheat, dairy, soy,","trileptol, 1/2 tsp
+619,Susan,Madonian,3014983150,Soy,"Pulicort,Albuterel,Fluoxetine,Strattera"
+712,Isaac,Yoon,4437184067,NKA,"Oxcarbazepine 300mg, 2xday"
+710,Pediatric,Center,4107403600,NKA,
+319,Dr.,Garonzik,4109975191,"Wheat, dairy, soy,","trileptol, 1/2 tsp
 zoloft, 1.5m
 Nystatin
 Levocarnitine"
-585,Mumtaz Mehboob,4104656300,Seafood,Carbamazepine
-1310,Dr. Rachel Plotwick,4438494000,,"Guanfacone, 4mg, 1xday
+585,Mumtaz,Mehboob,4104656300,Seafood,Carbamazepine
+1310,Dr.,Rachel Plotwick,4438494000,,"Guanfacone, 4mg, 1xday
 Sertraline, 100mg, 1xday"
-1053,Georgette Sums,4108741600,,
-608,Pediatric Center,4434511600,,
-1137,Casey Mabry,4104658119,,"Adderall XR, 10mg, 1xda6
+1053,Georgette,Sums,4108741600,,
+608,Pediatric,Center,4434511600,,
+1137,Casey,Mabry,4104658119,,"Adderall XR, 10mg, 1xda6
 Depakote, 500mg, 2xday
 AMPHET/DEXTR CAP
 10MG ER
@@ -1259,10 +1259,10 @@ DIVALPROEX ER TAB
 ESCITALOPRAM TAB 20MG
 HYDROXYZINE HCL TAB50MG 
 MULTIVITAMIN TAB"
-460,Randal Riesett,4109102300,NKA,
-985,Raymond Coleman,3014689225,,"concerton, clondine"
-1054,Dr. Angila Gadsby,3017768000,Bees,"Vitamin D, Multivitamin, Benydril as needed"
-1289,"Colins Gruz, 41-653-0360",,,"benztrapine, .05mg, 1xday
+460,Randal,Riesett,4109102300,NKA,
+985,Raymond,Coleman,3014689225,,"concerton, clondine"
+1054,Dr.,Angila Gadsby,3017768000,Bees,"Vitamin D, Multivitamin, Benydril as needed"
+1289,Colins,"Gruz, 41-653-0360",,,"benztrapine, .05mg, 1xday
 escitalopiz, 10mg, 1xday
 gabapentin, 600mg, 3xday
 invega, 9mg, 1xday
@@ -1272,12 +1272,12 @@ prevident, 2xday
 simvastatin, 40mg, 1xday
 terbinafine, 1%, 2xday
 vitamin D, 1xday"
-450,Strahlman,4109646300,Milk products,Clonidine
-507,Kee J. Park  410-760-8131,,"weeds, Risperal","Lithium,Phenytoin,BenzoylPeroxide,Melato"
-1401,,,,
-1402,,,,
-679,"Parnes, May, Mckay",4109929339,NKA,"Zantac, Zyrtec"
-1357,Dr. Brockington,4108690100,peanuts,"Lorazepam 1mg
+450,N/A,Strahlman,4109646300,Milk products,Clonidine
+507,Kee,J. Park 410-760-8131,,"weeds, Risperal","Lithium,Phenytoin,BenzoylPeroxide,Melato"
+1401,N/A,N/A,,,
+1402,N/A,N/A,,,
+679,"Parnes,","May, Mckay",4109929339,NKA,"Zantac, Zyrtec"
+1357,Dr.,Brockington,4108690100,peanuts,"Lorazepam 1mg
 Divalproex EC 500mg
 Famotidine 40mg
 Olanzapine 20mg
@@ -1287,28 +1287,28 @@ Fexofenadine HCL 180 mg
 Montelukast 10mg
 Fluticasone 50mcg nasal spray
 Eye Itch Relief 0.025%"
-846,Dr. Levy,4103631843,,
-1099,James Rice,4102636363,"amoxicillian, eggs","Multi vitamins, 1xday
+846,Dr.,Levy,4103631843,,
+1099,James,Rice,4102636363,"amoxicillian, eggs","Multi vitamins, 1xday
 Probioitics, 1xday"
-759,"Dr, Susan Lee",4109929339,Tree nuts,"Prozac, 50mg, 1xday
+759,"Dr,",Susan Lee,4109929339,Tree nuts,"Prozac, 50mg, 1xday
 Intuniv, 2mg, 1xday
 Norgestimate, 1xday"
-1065,Judith Melchiorie,4108741400,,"Cetirizinie Hydroshloride, pill, 1xday"
-1024,Peter Cheng,4109525300,,
-751,Scott Strahlman,4109646300,,"Methylphenidate(ER), 30mg, 1xday
+1065,Judith,Melchiorie,4108741400,,"Cetirizinie Hydroshloride, pill, 1xday"
+1024,Peter,Cheng,4109525300,,
+751,Scott,Strahlman,4109646300,,"Methylphenidate(ER), 30mg, 1xday
 Guanfacine, 3mg, 1xdqay, 2mg 1xday
 Methylphenidate, 5mg, 1xday
 Risperidone, 1mg, 1xday, 0.5mg 1xday
 Fluoxetine, 60mg 1xday; 10mg 1xday
 Hydroxyzine, 50mg, 1xday"
-1398,Dr. Setuy,4439797819,,
-248,Susan Schoenfeld,4432593770,"Penicillin, Ceclor","Lexapro, 15mg 1xday"
-439,Dr. Elizabeth Miller,4103682100,,
-660,Brenner,4109221133,NKA,
-970,Wendell McKay,4109929339,,
-564,Ari Lieman,4103094611,NKA,"Celexa,Tenex,Topamax,Seroquel"
-220,Risa Kramer,4109646200,NKA,"Trileptal,Keppra"
-634,Dr. Sewchand,6672342100,"Sulfur,shellfish,bee","Qelbree, 100mg, 2xday
+1398,Dr.,Setuy,4439797819,,
+248,Susan,Schoenfeld,4432593770,"Penicillin, Ceclor","Lexapro, 15mg 1xday"
+439,Dr.,Elizabeth Miller,4103682100,,
+660,N/A,Brenner,4109221133,NKA,
+970,Wendell,McKay,4109929339,,
+564,Ari,Lieman,4103094611,NKA,"Celexa,Tenex,Topamax,Seroquel"
+220,Risa,Kramer,4109646200,NKA,"Trileptal,Keppra"
+634,Dr.,Sewchand,6672342100,"Sulfur,shellfish,bee","Qelbree, 100mg, 2xday
 Paxil, 5mg, 1xday
 Losarten, 25mg, 1xday
 elrabenazine, .5tab, 2xday
@@ -1318,34 +1318,34 @@ Alpha Keto Glutaric Acid, 30mg, 1xday
 Magnesium Citrate, 150mg, 1xday
 Advil, 2, pm
 Clariton, 1, pm"
-1336,Dr. Karen Vorsteg,4109646300,,"Probiotics, 1xday
+1336,Dr.,Karen Vorsteg,4109646300,,"Probiotics, 1xday
 Vitamin D, 1xday
 Complex B, 1xday"
-1260,Karen Miller,4107444849,"penicillin, shellfis",
-512,Dr. Goodwin,4109975333,NKA,"Abilify, 5mg, 1xday
+1260,Karen,Miller,4107444849,"penicillin, shellfis",
+512,Dr.,Goodwin,4109975333,NKA,"Abilify, 5mg, 1xday
 Sertraline, 100mg, 1xday
 Lorazepan, .5mg, 2xday"
-260,Elvira Pasmcnik,4105214211,,"Lisinoprin, 5mg, 1xday
+260,Elvira,Pasmcnik,4105214211,,"Lisinoprin, 5mg, 1xday
 Vitamin C, 500mg, 1xday
 Vitamin D, 5000IU, 3 per week"
-1127,Dr. Strahlman,4109646227,,"Methylphoidate, 30mg"
-1397,Dr. Dana Wollney,4109970500,kiwi,
-726,Linda Baldold,4439232870,,"Risperdone, Melatonex"
-752,Jose Ortega,3014071701,,
-1322,Dr. Lasser,4433674740,,
-883,Dr. Khan,4109927004,,"concerta, escitalopram, abilify"
-805,Pediatric Center,,,Topamax
-101,"Leichtling,#410-964-6200",,,
-1051,Dr. Yee,3016252800,,"Adderall, prosac, tenex"
-1360,Dr. Fitch,4109966400,,"Kids Daily Vitamins, 1xday"
-1181,Peggy Martin,4109929339,cephalosporins,
-1461,Dr. P. Dantzer,4102706760,penicilin,
-936,Saba Sheikh,4109645300,,"lamotrigine, citalopram"
-590,Anjalic Saini,4107444849,"Peanut,shellfish,+","zyrtech, 5mg, 1xday"
-415,Dr. Elizabeth Muller,4103682100,Penicillin,"Celexa 20mg 1xday
+1127,Dr.,Strahlman,4109646227,,"Methylphoidate, 30mg"
+1397,Dr.,Dana Wollney,4109970500,kiwi,
+726,Linda,Baldold,4439232870,,"Risperdone, Melatonex"
+752,Jose,Ortega,3014071701,,
+1322,Dr.,Lasser,4433674740,,
+883,Dr.,Khan,4109927004,,"concerta, escitalopram, abilify"
+805,Pediatric,Center,,,Topamax
+101,N/A,"Leichtling,#410-964-6200",,,
+1051,Dr.,Yee,3016252800,,"Adderall, prosac, tenex"
+1360,Dr.,Fitch,4109966400,,"Kids Daily Vitamins, 1xday"
+1181,Peggy,Martin,4109929339,cephalosporins,
+1461,Dr.,P. Dantzer,4102706760,penicilin,
+936,Saba,Sheikh,4109645300,,"lamotrigine, citalopram"
+590,Anjalic,Saini,4107444849,"Peanut,shellfish,+","zyrtech, 5mg, 1xday"
+415,Dr.,Elizabeth Muller,4103682100,Penicillin,"Celexa 20mg 1xday
 Zyrtec, 10mg, 1xday
 Multivitamin 1xday"
-570,Steven Diener,4107402900,NKA,"Metfromin, 500mg, 2xday
+570,Steven,Diener,4107402900,NKA,"Metfromin, 500mg, 2xday
 Concerta slow release, 35mg, 1xday
 Multi Vitamin, 1xday
 Vitamin C, 500mg, 1xday
@@ -1354,12 +1354,12 @@ Vitamin D, 5000mg, 1xday
 Ozempic, .50, 1xday, once every other week
 Vit B3, 30mg, 1xday
 Vit B Complex, 200mg, 1xday"
-554,Michael Johnston,4439239315,,
-1345,Columbia Medical Practice,,,
-1109,Irma Bensinger,4109646200,"chem fumes, codeine",
-103,Felecia Woddleton-Willis,4103094600,,"Sertraline HCL, Guanfacine"
-1103,Pedder,4108843600,,Focalin XR
-1021,Katherine Kemper,3019335050,peanuts,"depakote, 250mg, 2xday
+554,Michael,Johnston,4439239315,,
+1345,Columbia,Medical Practice,,,
+1109,Irma,Bensinger,4109646200,"chem fumes, codeine",
+103,Felecia,Woddleton-Willis,4103094600,,"Sertraline HCL, Guanfacine"
+1103,N/A,Pedder,4108843600,,Focalin XR
+1021,Katherine,Kemper,3019335050,peanuts,"depakote, 250mg, 2xday
 risperadone, .25mg, AM
 risperadone, .5mg, PM
 cogentin, 0.5mg, AM
@@ -1370,103 +1370,103 @@ Epineairine, 0.3mg, PRN
 MVI, 1, 1xday
 Geodon, 60mg, AM
 Vitamin D3, 1xday, fish oil, 1xday"
-1218,Dr. Vaishner,4432593770,,"rispeodel 1.25mg 1xday
+1218,Dr.,Vaishner,4432593770,,"rispeodel 1.25mg 1xday
 trazadone 50mg 1xday"
-1503,Dr. Molly Silber,4434511600,,
-697,Jacob Cherion,4109645311,,"Aspirin,tenormin,benicar,zocar"
-698,Jacob Cherian,4109645311,,"lotrel,zyrtec,cozaar"
-901,Dr. Adkins,4107402900,Peanuts,"Vitamin D, 5000mg"
-378,Netanel Schwob,4104866100,,Methylyn
-1060,Zeenal Hashimi,4104025056,,"Zyrtec, 1xcay
+1503,Dr.,Molly Silber,4434511600,,
+697,Jacob,Cherion,4109645311,,"Aspirin,tenormin,benicar,zocar"
+698,Jacob,Cherian,4109645311,,"lotrel,zyrtec,cozaar"
+901,Dr.,Adkins,4107402900,Peanuts,"Vitamin D, 5000mg"
+378,Netanel,Schwob,4104866100,,Methylyn
+1060,Zeenal,Hashimi,4104025056,,"Zyrtec, 1xcay
 Pulmicort, 80mg, BID
 Singulair, 10mg
 Albertoal Inhaler, puffs PRN"
-938,Sharon Henry,3016778949,,
-920,Dr. Agwina,4107729463,,
-1062,"Dr. D. Wollney, 4190997-9599",,"mushrooms, egg, waln",Vitamin D
-850,Dr. Paul Ambush,4105317566,Gluten,"Focalin XR, Intuniv"
-732,Columbia Medical Practice,4109646300,Penicillin,
-1026,Gregory Levickas,6672342100,,
-868,Dr. Megan Cullen,4109648500,,"Vitamin, 1200IU, 1xday
+938,Sharon,Henry,3016778949,,
+920,Dr.,Agwina,4107729463,,
+1062,Dr.,"D. Wollney, 4190997-9599",,"mushrooms, egg, waln",Vitamin D
+850,Dr.,Paul Ambush,4105317566,Gluten,"Focalin XR, Intuniv"
+732,Columbia,Medical Practice,4109646300,Penicillin,
+1026,Gregory,Levickas,6672342100,,
+868,Dr.,Megan Cullen,4109648500,,"Vitamin, 1200IU, 1xday
 Cetirizine Hydrochloride, 10mg, 1-2xday, as needed for allergies"
-1050,JoAnne Slort,4109646100,"penicillion, chocola",
-802,Tanjala Gipson,4439232746,,
-748,Ying Huang,4107502227,"Squash, berries",Baclaphen
-815,Dr. Kirtikant Desai,4107471324,,Prozac
-289,Dr. Anyikwa,4432593770,"Peanuts, dairy",
-107,Smirnow#410-997-0214,,No Mycian antibiotic,"Lexapro, Levothyroxine"
-269,Dr. Schoenfeld,4432593770,,"levothyroxine sodium, 125 mcg
+1050,JoAnne,Slort,4109646100,"penicillion, chocola",
+802,Tanjala,Gipson,4439232746,,
+748,Ying,Huang,4107502227,"Squash, berries",Baclaphen
+815,Dr.,Kirtikant Desai,4107471324,,Prozac
+289,Dr.,Anyikwa,4432593770,"Peanuts, dairy",
+107,N/A,Smirnow#410-997-0214,,No Mycian antibiotic,"Lexapro, Levothyroxine"
+269,Dr.,Schoenfeld,4432593770,,"levothyroxine sodium, 125 mcg
 , 1xday
 Escitalopram Oxalate, 10mg, 1xday
 Cetrizine Hydrochoride, 10mg, 1xday
 Vitamin D2, 50mcg, 1xday
 Vitamin B-complex, 1 capsule/day"
-607,Emilie Cole,4109646300,"Dairy, Nuts","eluoxetine, escitalopram, minestrim"
-414,Jonathan Fish,4109102300,cephalosporine,"Keppra, 500mg, 2xday
+607,Emilie,Cole,4109646300,"Dairy, Nuts","eluoxetine, escitalopram, minestrim"
+414,Jonathan,Fish,4109102300,cephalosporine,"Keppra, 500mg, 2xday
 Adderall XR, 20mg, 2xday
 Fish Oil, 1200, 1xday
 Vitamin D, 2000, 1xday
 B6, 25mg, 1xday"
-508,Marshall Freedman,4109645300,Pencillin,"Vyvanse, Fluxotine, risperdal"
-940,Dr. Cherian,,,"aderall, 30mg, 1xday
+508,Marshall,Freedman,4109645300,Pencillin,"Vyvanse, Fluxotine, risperdal"
+940,Dr.,Cherian,,,"aderall, 30mg, 1xday
 abilify 30mg, 1xday"
-763,Cecily Agraeni,4107400770,,
-788,Cecily Agraeni,4107400770,,
-1246,Dr. Jhansi R. Ganesan,3017254341,,
-907,Lilia Deboroa,4106260037,,Keppra
-1080,"Emerson Chang, 301-56004747",,,
-588,Ying Huang,4107502229,NKA,
-1217,Dr. Lindsay Fitch,4109976400,tree nuts,"strattera 18mg, 2xday
+763,Cecily,Agraeni,4107400770,,
+788,Cecily,Agraeni,4107400770,,
+1246,Dr.,Jhansi R. Ganesan,3017254341,,
+907,Lilia,Deboroa,4106260037,,Keppra
+1080,Emerson,"Chang, 301-56004747",,,
+588,Ying,Huang,4107502229,NKA,
+1217,Dr.,Lindsay Fitch,4109976400,tree nuts,"strattera 18mg, 2xday
 metadate cd 10mg, 1xday
 zyrtec 10mg, 1xday
 flonase nasal spray, 1xday
 multivitamin 1xday"
-1081,"Patient First, Beltsville",2405425987,Dust,
-1151,Dr. Ramachancion,2403891722,wheat,
-219,Melvin Stern,3018543444,,"Emeprosol, 80mg, 1xday
+1081,Patient,"First, Beltsville",2405425987,Dust,
+1151,Dr.,Ramachancion,2403891722,wheat,
+219,Melvin,Stern,3018543444,,"Emeprosol, 80mg, 1xday
 Levothoxine, 11mg, 1xday"
-965,Pediatric & Adolescent Medicine,4107729463,,
-826,Dr. Edward Cahill,,Bactrin DS,Adderall XR
-1272,Johns Hopkins Pediatrics,4433674740,,"Adderall, 29mg, 1xday
+965,Pediatric,& Adolescent Medicine,4107729463,,
+826,Dr.,Edward Cahill,,Bactrin DS,Adderall XR
+1272,Johns,Hopkins Pediatrics,4433674740,,"Adderall, 29mg, 1xday
 Lamictal, 25mg, 1xday
 Vitamin C, 27mg, 1xday
 MVI, 2tabs, 1xday
 Fish Oil, 2tabs, 1xday
 Melatonin, 3mg, 1xday
 Probiotic, 2tabs, 1xday"
-863,Primary Pediatrics,3017768000,,
-949,Dr. Kartik Desai,4103139292,"pollen,mold,cats,dog","Levothyrokine, 1, 1xday
+863,Primary,Pediatrics,3017768000,,
+949,Dr.,Kartik Desai,4103139292,"pollen,mold,cats,dog","Levothyrokine, 1, 1xday
 Vitamin D3, 1200 IU, 1,xday
 Methyl B-12, 1000, 1xday
 Replesta Cholecaliferol, 50,000 IU, 1Weekly
 Cetirizehcl, 1ml, 2xday"
-1291,Dr. Daniel J. Levy,4103631843,,
-1292,Dr. Daniel J. Levy,4103631843,"egg,milk,nuts,wheat","Fluoxetine, 1.25mg, 1xday"
-1502,Dr. Sharma,4105640000,,
-536,Marcia Schwartz,4109646300,NKA,"Abilify, Lexapro"
-628,P. Poblete 410-740-0770,,nka,"Advair, Lisinopril and Propranolol"
-432,Steven Eversky,4109977660,,"Sertraline (zoloft) 150mg 1xday
+1291,Dr.,Daniel J. Levy,4103631843,,
+1292,Dr.,Daniel J. Levy,4103631843,"egg,milk,nuts,wheat","Fluoxetine, 1.25mg, 1xday"
+1502,Dr.,Sharma,4105640000,,
+536,Marcia,Schwartz,4109646300,NKA,"Abilify, Lexapro"
+628,P.,Poblete 410-740-0770,,nka,"Advair, Lisinopril and Propranolol"
+432,Steven,Eversky,4109977660,,"Sertraline (zoloft) 150mg 1xday
 Lamotrigine (lamictal 150mg 2xday
 Aripiprazole (ability) 5mg 1xday
 Cymbalta, 40mg, 2xday
 D3 Vit., 1xday"
-109,Jackson,3017745600,,
-110,William Saway,4109645300,,"Bupropion 150mg 2xday AM&PM
+109,N/A,Jackson,3017745600,,
+110,William,Saway,4109645300,,"Bupropion 150mg 2xday AM&PM
 olanzapine 2.5mg 2xday PM
 oxcarbazepine, 600mg, am
 NAC, 600mg
 Cevivits, 2 tabs
 Fexofenadine, 180mg"
-944,Dr. Paul Ambush,4105317566,"gluten, dairy, egg","Multivitamin
+944,Dr.,Paul Ambush,4105317566,"gluten, dairy, egg","Multivitamin
 Vitamin D"
-976,Dr.Baily Breeden,4104809110,,
-1497,Dr. Juong,,peanuts,
-1234,Dr. Cahill,4104657550,,"methylphenidate ER caps, 40mg, 1xday
+976,Dr.Baily,Breeden,4104809110,,
+1497,Dr.,Juong,,peanuts,
+1234,Dr.,Cahill,4104657550,,"methylphenidate ER caps, 40mg, 1xday
 Fish oil, 1000mg, 1xday
 escitalopram, 5mg, 1xday
 Fiber gummies, 2 gels, 1xday"
-1496,Dr. Juong,,"peanuts, eggs",
-1452,Dr. Mahesh O'Chaney,4107684700,,"Topamax 25mg 2xday
+1496,Dr.,Juong,,"peanuts, eggs",
+1452,Dr.,Mahesh O'Chaney,4107684700,,"Topamax 25mg 2xday
 Paxil 10mg 3xday
 Seroquel 500mg
 Xanax 5mg 2xday
@@ -1479,11 +1479,11 @@ Zyrtec OTC 1xday
 Culturelle OTE 1xday
 Metformin 500mg 1xday
 Jardiance 10mg"
-966,Columba Medical Practice,4109646200,,
-1332,Emily Spears,4434511600,,"Levothyroxine, 75mg, 1xday"
-980,William Young,3012954771,sulfa cipro/penicill,"depakote, banzel, synthroid, norditropin"
-1188,Reenia Jalali,3014988880,,
-504,Dr. Erika Larson,4108741400,"gluten, cefzil","humalog&lantus insulin, 4+/day
+966,Columba,Medical Practice,4109646200,,
+1332,Emily,Spears,4434511600,,"Levothyroxine, 75mg, 1xday"
+980,William,Young,3012954771,sulfa cipro/penicill,"depakote, banzel, synthroid, norditropin"
+1188,Reenia,Jalali,3014988880,,
+504,Dr.,Erika Larson,4108741400,"gluten, cefzil","humalog&lantus insulin, 4+/day
 levothyroxine, 137mg, 1xday
 prilosec, 40mg, 1xday
 culterelle probiotic, 1xday
@@ -1492,19 +1492,19 @@ Vitamin, 1xday
 Zyrtec, 10mg, 1xday
 Albuterol, as needed
 Miralax, 1xday"
-771,Nicholas Donkor,4107405400,,
-770,Nicholas Donkor,4102400460,,Risperdol
-1249,Shahab Malik,4105829630,,"Miralax, 1 cup, 1xday"
-809,410-9929339,,,
-717,Amy Cheung,4104657550,,"Geodon,Depakote"
-978,??,4104802803,,
-1169,Johns Hopkins HC,2404591800,pollen,"Flouxetine, 3ml, 1xday
+771,Nicholas,Donkor,4107405400,,
+770,Nicholas,Donkor,4102400460,,Risperdol
+1249,Shahab,Malik,4105829630,,"Miralax, 1 cup, 1xday"
+809,N/A,410-9929339,,,
+717,Amy,Cheung,4104657550,,"Geodon,Depakote"
+978,N/A,??,4104802803,,
+1169,Johns,Hopkins HC,2404591800,pollen,"Flouxetine, 3ml, 1xday
 Aripirozole, 1ml, 1xday
 Vitamin C, 1, 1xday
 Probiotics gummies, 1, 1xday"
-995,The Pediatric Care Center,3015645880,,robinul
-1437,Dr. Harshita Saxena,3013197070,,Multi-vitamin
-111,Dr. Warren Ross 410-997-5191,,Zoloft,"Myretrig, 25mg, 1xday
+995,The,Pediatric Care Center,3015645880,,robinul
+1437,Dr.,Harshita Saxena,3013197070,,Multi-vitamin
+111,Dr.,Warren Ross 410-997-5191,,Zoloft,"Myretrig, 25mg, 1xday
 Pantoprazole, 20mg, 1xday
 Levothyroxine, 25mg, 1xday
 Venlafaxine, 225mg, 1xday
@@ -1514,90 +1514,90 @@ Gluesamine chondeoitin, 1xday
 Pro EPA Xtra, 1xday
 NAC, D3, Multiv , 1xday
 CoQ10, 1xday"
-1010,Jose M. Ortega,2402901041,,vitamins & supplements only
-795,Mario Ortega,2402901041,Gluten/Casein free,"calcium, zinc, coconut oil"
-1302,Dr. Jacqueline Brown,4109971700,Latex,"Methimazole, 2.5mg, 1xday
+1010,Jose,M. Ortega,2402901041,,vitamins & supplements only
+795,Mario,Ortega,2402901041,Gluten/Casein free,"calcium, zinc, coconut oil"
+1302,Dr.,Jacqueline Brown,4109971700,Latex,"Methimazole, 2.5mg, 1xday
 Mirabegron, 25mg, 1xday
 Flonase, 1xday
 Albuterol"
-601,Columbia Med Practice,4109646700,,
-928,Ruth Agwuna,4107729463,,focalin xr
-1108,Dr. Kim Kelly,3017022003,,"Claritin, Flonaise"
-1253,Dr. Jill Durfee,3016825900,,"Perphamaghe 2mg 2xday
+601,Columbia,Med Practice,4109646700,,
+928,Ruth,Agwuna,4107729463,,focalin xr
+1108,Dr.,Kim Kelly,3017022003,,"Claritin, Flonaise"
+1253,Dr.,Jill Durfee,3016825900,,"Perphamaghe 2mg 2xday
 Sertraline HCL 50mg 1xday
 Buproprion HCLXL 150mg 1xday
 Rosuvestatin Calcium 5mg 1xday
 Benxtropine 0.5mg 2xday"
-840,Dr. Anjali Saini,4107444849,peanuts,"Ambilify, Concerta"
-483,R. Scott Strahlman,4109646300,nka,"Clindamycin, divalproex SOD DR"
-1481,Dr. Leah Brasch,3016562745,Penicellin,"Multi vitamin
+840,Dr.,Anjali Saini,4107444849,peanuts,"Ambilify, Concerta"
+483,R.,Scott Strahlman,4109646300,nka,"Clindamycin, divalproex SOD DR"
+1481,Dr.,Leah Brasch,3016562745,Penicellin,"Multi vitamin
 Claritin"
-386,William Jennings,3019890193,,Zoloft
-1394,Dr. K. Miller,4107444849,,"Vyuanse, 50mg, 1xday
+386,William,Jennings,3019890193,,Zoloft
+1394,Dr.,K. Miller,4107444849,,"Vyuanse, 50mg, 1xday
 Sertrayne, 1xday
 Bupinfacine, 1xday"
-485,Cristeta Gatdula,4107602311,peanuts,"remicaide, methotrexate, zyrtec, folic acid"
-934,Dr. Mark Sivieri,4439514300,"dairy, gluten, oat,","Gabapentin 300MG capsules: 2 capsules 3x/day
+485,Cristeta,Gatdula,4107602311,peanuts,"remicaide, methotrexate, zyrtec, folic acid"
+934,Dr.,Mark Sivieri,4439514300,"dairy, gluten, oat,","Gabapentin 300MG capsules: 2 capsules 3x/day
 Quetiapine ER 150MG tablets: 1 capsule  2x/day
  Aripiprazole (Abilify) 10MG tablets 1 tablet 1x/day"
-114,Kauder Khan,4109927004,NKA,Risperdal
-642,Dr. Benjamin Lee,4107447184,NKA,"Buspirone, 10mg, 2xday
+114,Kauder,Khan,4109927004,NKA,Risperdal
+642,Dr.,Benjamin Lee,4107447184,NKA,"Buspirone, 10mg, 2xday
 Risperidone, 1.5mg, 1xday
 Benztropine, 0.5mg, 1xday"
-597,Dr. Kwon,4104801895,seasonal allergies,"Buspirone HCL, 15mg, 2xday
+597,Dr.,Kwon,4104801895,seasonal allergies,"Buspirone HCL, 15mg, 2xday
 Lamotrigine, 100mg, 1xday
 Aripiprazole, 2mg, 1xday"
-1023,Irma Bensinger,4109646200,,
-279,Felecia Waddleton-Willis,4107777904,beef,"Levothyroxine, 88mg 1xday
+1023,Irma,Bensinger,4109646200,,
+279,Felecia,Waddleton-Willis,4107777904,beef,"Levothyroxine, 88mg 1xday
 Omepcazole, 40mg, 1xday
 Creon CPP, 10mg, 2xday"
-849,Dr. Berger,4104657550,,"bsmzel 1200mg, carbatrol 800mg, vyvanse 20mg"
-1467,"Dr. Shah, 410-715-080",,,
-1466,,,,
-1346,Victoria Steine-Larren,4103692000,,
-1008,Dr. Sheila Raundson,4433674740,,"Lacosamide, 150g, 2xday
+849,Dr.,Berger,4104657550,,"bsmzel 1200mg, carbatrol 800mg, vyvanse 20mg"
+1467,Dr.,"Shah, 410-715-080",,,
+1466,N/A,N/A,,,
+1346,Victoria,Steine-Larren,4103692000,,
+1008,Dr.,Sheila Raundson,4433674740,,"Lacosamide, 150g, 2xday
 Lacosamide, 200mg, nightly
 Levetiracetam, 25mg, nightly
 B6, 100mg, Daily
 B12, 1000mg, daily
 Nezylam, as needed for seizures"
-1295,Dr. Lancaster,4433674740,,
-1038,Dr. Landrum,4107036004,,
-1414,Dr. Rhaverstan,4433674740,,
-1004,Mateen Awan,4109920365,,
-798,Agwuna,4107729463,,"Abilify, metadate"
-1069,Emerson Chang,3015604747,,
-1185,Michael Lasser,4433674740,,"Amiodipine, 10mg, 1xday
+1295,Dr.,Lancaster,4433674740,,
+1038,Dr.,Landrum,4107036004,,
+1414,Dr.,Rhaverstan,4433674740,,
+1004,Mateen,Awan,4109920365,,
+798,N/A,Agwuna,4107729463,,"Abilify, metadate"
+1069,Emerson,Chang,3015604747,,
+1185,Michael,Lasser,4433674740,,"Amiodipine, 10mg, 1xday
 Lisinopril, 30MG, 1xday"
-684,Dr. Saway,4109645300,"Caffine,tomatos,soda","Clonazepam,omeprazole,risperdal,tegretol"
-1294,"Dr. Jacquline Brown,",4109971700,,"Dupixent, Procctin, Zyrtex, Multi vitamin, Zinc/Elderberry, Iron, Magnesium, Neoccte"
-1056,Dr. Ambush,4105317566,gluten,"melantonin, 6mg, 2xday
+684,Dr.,Saway,4109645300,"Caffine,tomatos,soda","Clonazepam,omeprazole,risperdal,tegretol"
+1294,Dr.,"Jacquline Brown,",4109971700,,"Dupixent, Procctin, Zyrtex, Multi vitamin, Zinc/Elderberry, Iron, Magnesium, Neoccte"
+1056,Dr.,Ambush,4105317566,gluten,"melantonin, 6mg, 2xday
 clonidine, 0.2mg, 2xday
 methylphenidate SA, 10mg, 1xday
 jornay ER, 20mg, 2xday
 sertraline, 50mg, 1xday
 Vitamin D, 200IU, 1xday"
-777,Meena Murthy,4109646200,Sulfa,"Escitalopram,singulair, buspirone, risperidone, naproxen"
-637,Dr Bheedh,3018817995,Penicillan,
-772,Lazar,4105311440,,"Citaloprair, multivitamin"
-1403,,,,
-1354,Dr. Juang,4109976400,,
-663,Bruce Gonger,4107405900,,"Dilantin,Nexium,Pravastatin,Zetia,Divalp"
-742,Richard Laytga,4103372700,"Sulfa, Soybeans","Deplin, Methyl"
-116,Elizabeth Dennis,4107159990,,"Seroquel, ,Ativan, Vitamin D"
-933,Karen Bledsoe,3012620260,,
-652,Kauser Khan,4104559594,,"Prilosec,lisinopril,clonidine,metamucil"
-1015,Carroll Primjary Care,4107952233,zithromax,Women's 1 a day multivitamen
-422,Dr. Ross,4109975191,,"Atorvasitatin, 20mg, 1xday
+777,Meena,Murthy,4109646200,Sulfa,"Escitalopram,singulair, buspirone, risperidone, naproxen"
+637,Dr,Bheedh,3018817995,Penicillan,
+772,N/A,Lazar,4105311440,,"Citaloprair, multivitamin"
+1403,N/A,N/A,,,
+1354,Dr.,Juang,4109976400,,
+663,Bruce,Gonger,4107405900,,"Dilantin,Nexium,Pravastatin,Zetia,Divalp"
+742,Richard,Laytga,4103372700,"Sulfa, Soybeans","Deplin, Methyl"
+116,Elizabeth,Dennis,4107159990,,"Seroquel, ,Ativan, Vitamin D"
+933,Karen,Bledsoe,3012620260,,
+652,Kauser,Khan,4104559594,,"Prilosec,lisinopril,clonidine,metamucil"
+1015,Carroll,Primjary Care,4107952233,zithromax,Women's 1 a day multivitamen
+422,Dr.,Ross,4109975191,,"Atorvasitatin, 20mg, 1xday
 Levothyroxine, 50mg, 1xday
 Vit D3, 1.25mg, 1xday
 Sertraline HCL, 5mg, 1xday"
-1223,Jackie Borwn,4109971700,"eggs, peanut","vyvange 40MG, 1xday"
-682,Dr. Josh Anderson,4109975191,NKA,"Risperdal,Zyrtec,cytra-3"
-683,Dr. Jamie Garonzik,4109975191,trees,"Sertraline, 50mg
+1223,Jackie,Borwn,4109971700,"eggs, peanut","vyvange 40MG, 1xday"
+682,Dr.,Josh Anderson,4109975191,NKA,"Risperdal,Zyrtec,cytra-3"
+683,Dr.,Jamie Garonzik,4109975191,trees,"Sertraline, 50mg
 Paliperidone, 1.5mg
 Guanfacine, 3mg, 2xday"
-1133,Dr. Maria Munoz,,codine,"Fiber laxative 625mg tablet, 2xday
+1133,Dr.,Maria Munoz,,codine,"Fiber laxative 625mg tablet, 2xday
 Probiotic, 250MG, 2xday
 Vitamin B12, 1000mg, 1xday
 Bupropion HCL, 75MG, 1xday
@@ -1606,135 +1606,135 @@ Olanzapine, 10mg, 1xday
 Docusate Sodium, 100mg, PRN
 Bentropine, 0.5mg, 1xday
 Clear Lax, 625mg, 1xday"
-1208,Dr. Lasser,4433674740,,emflaza 24MG 1xday; linsingril 5mg 1xday; epleienone 25mg 1xday
-1277,Dr. Michael Tang,2402156310,,none
-816,Dr. N.B. Vellanki,4107727964,,"Gnfi, Lamotrigine, Felbamate, Sertraline, Microges"
-1189,Kathryn Harris,4433674740,,"Multivitamin, cod liver oil"
-1094,Dr. Miller,4107444849,,"Adderall,  Fnalaprl, Chlonodine, Multivitamin"
-1404,Dr. Jacqueline Brown,4109971200,,"Flintstone Multivitamins, 2 per day
+1208,Dr.,Lasser,4433674740,,emflaza 24MG 1xday; linsingril 5mg 1xday; epleienone 25mg 1xday
+1277,Dr.,Michael Tang,2402156310,,none
+816,Dr.,N.B. Vellanki,4107727964,,"Gnfi, Lamotrigine, Felbamate, Sertraline, Microges"
+1189,Kathryn,Harris,4433674740,,"Multivitamin, cod liver oil"
+1094,Dr.,Miller,4107444849,,"Adderall,  Fnalaprl, Chlonodine, Multivitamin"
+1404,Dr.,Jacqueline Brown,4109971200,,"Flintstone Multivitamins, 2 per day
 Benadryl, as needed"
-1453,,,,
-1455,,,,
-1335,Dr. Nicolas Morog,6672348641,,"Methylpheniclate, 36mg, 1xday
+1453,N/A,N/A,,,
+1455,N/A,N/A,,,
+1335,Dr.,Nicolas Morog,6672348641,,"Methylpheniclate, 36mg, 1xday
 Clonidine, 2mg, 1xday
 Setraline, 50mg, 1xday
 Cruanfacine, 3mg, 1xday
 Methylphenidate, 10mg, 1xday"
-953,Jamie Garozmilk,4109523863,"gluten free, sulfar","Vitamin C, 1000mg, 1xday
+953,Jamie,Garozmilk,4109523863,"gluten free, sulfar","Vitamin C, 1000mg, 1xday
 Vitamin D, 1xday
 Multivitamin, 1xday
 Magnesium, 200mg, 1xday
 fish oil, 1xday
 digestive enzymes, 3xday"
-1101,Dr. Anthony,4109920510,amoxicillan,"multivitamin, 1xday"
-1338,Nicolas Morog,6672348640,"food chemicals,dairy",
-1282,Dr. Raymona Smith,4108372050,,"Focalin XR, 5mg, 1xday"
-1281,Dr. Raymona Smith,4108372050,,
-646,Amaka Undie,4104657337,,
-286,Melissa Conti,4109974780,tree nuts;amitrptyli,"Lamictal, propranolol, lisinopril, eip-pen"
-922,Wendell McKay,4109929339,,
-1462,Dr. Joan Kang,3019774100,,"Multivitamin, 1xday
+1101,Dr.,Anthony,4109920510,amoxicillan,"multivitamin, 1xday"
+1338,Nicolas,Morog,6672348640,"food chemicals,dairy",
+1282,Dr.,Raymona Smith,4108372050,,"Focalin XR, 5mg, 1xday"
+1281,Dr.,Raymona Smith,4108372050,,
+646,Amaka,Undie,4104657337,,
+286,Melissa,Conti,4109974780,tree nuts;amitrptyli,"Lamictal, propranolol, lisinopril, eip-pen"
+922,Wendell,McKay,4109929339,,
+1462,Dr.,Joan Kang,3019774100,,"Multivitamin, 1xday
 Melatolin, 1xday"
-847,Dr. Kanthi Wick,4432593770,Peniccilin,
-1287,Regine Gudack,4106614670,,
-1269,Klebenow & Associates,4109971700,,"Methylphenidate, 10mg, 1xday"
-1443,Mercedes Sheffield,2406696330,,
-693,Michael Lasser,4432593770,,
-465,Crossroads Medical,4109975791,,"Strattera,tegratol"
-204,Rubina Alvi,4104430490,"Erythromycin,Lorabid","Levothroxin, 75mcg, 1xday"
-1183,Paul Porras,3016816000,,
-983,Gloria Fuentes,4108690100,,
-1366,Safia Tasneem,4109646200,,"Miglustat 100 mg capsule, 1-2, 3xday
+847,Dr.,Kanthi Wick,4432593770,Peniccilin,
+1287,Regine,Gudack,4106614670,,
+1269,Klebenow,& Associates,4109971700,,"Methylphenidate, 10mg, 1xday"
+1443,Mercedes,Sheffield,2406696330,,
+693,Michael,Lasser,4432593770,,
+465,Crossroads,Medical,4109975791,,"Strattera,tegratol"
+204,Rubina,Alvi,4104430490,"Erythromycin,Lorabid","Levothroxin, 75mcg, 1xday"
+1183,Paul,Porras,3016816000,,
+983,Gloria,Fuentes,4108690100,,
+1366,Safia,Tasneem,4109646200,,"Miglustat 100 mg capsule, 1-2, 3xday
 Vitamin D, 2000 IU, 1xday
 Iron, 65mg, 1xday
 Nasal spray
 Claritin, 10mg, 1xday"
-1330,Dr. Paul Ambush,4105317566,"clindamyain,gluten","Calcium, 1xday
+1330,Dr.,Paul Ambush,4105317566,"clindamyain,gluten","Calcium, 1xday
 Multivitamin, 1xday
 Omega 3, 1xday
 Probiotic, 1xday"
-648,Nancy Cohen,3016252800,,
-885,Centennial Med. Group,4107303399,,none
-1135,Jhansi Ganeshan,3017254341,,"onfi, depokote, limotrizine, levothyroxine, hydrocortisone, hemotropin"
-329,Dr. Alkesh Patel,4109979751,,"Levomyroxire, 5mg, 1xday"
-764,Dr. Claudia Beck,4104654111,"peanut,dairy,shellfi",
-1508,Dr. Shannarose Guma,4108012273,,"Xyzal, 5mg, 1xday"
-122,Edward Cahill # 410-465-7550,,Bee Stings,"Neurontin,dexidrene"
-786,Harrn Li,4103124700,,"risperidone, lexapro, triamt, vitamin D"
-124,Jackson#410-531-2200,,,"Lamietal, Seroguel"
-641,Columbia Medical Practice,4109646102,Grapefruit -Veg Diet,"Carbamazepine 200mg, BID
+648,Nancy,Cohen,3016252800,,
+885,Centennial,Med. Group,4107303399,,none
+1135,Jhansi,Ganeshan,3017254341,,"onfi, depokote, limotrizine, levothyroxine, hydrocortisone, hemotropin"
+329,Dr.,Alkesh Patel,4109979751,,"Levomyroxire, 5mg, 1xday"
+764,Dr.,Claudia Beck,4104654111,"peanut,dairy,shellfi",
+1508,Dr.,Shannarose Guma,4108012273,,"Xyzal, 5mg, 1xday"
+122,Edward,Cahill # 410-465-7550,,Bee Stings,"Neurontin,dexidrene"
+786,Harrn,Li,4103124700,,"risperidone, lexapro, triamt, vitamin D"
+124,N/A,Jackson#410-531-2200,,,"Lamietal, Seroguel"
+641,Columbia,Medical Practice,4109646102,Grapefruit -Veg Diet,"Carbamazepine 200mg, BID
 Resperidol, 4mg, QD
 Olanzapine, 10mg, QD
 Trihexiphenidyl, 2mg, QD
 Alarax, 50mg, QD
 Oxyloutynin, 150mg, QD"
-473,Sabrina Wells,4107303399,,
-1423,Dr. Diane Landrum,4434511600,,
-1077,Dr. Berry,6672342100,,
-1446,Dr. Nikiruka Chukudebelu,4108741600,insect bites/stings,"Flovent, 2xday
+473,Sabrina,Wells,4107303399,,
+1423,Dr.,Diane Landrum,4434511600,,
+1077,Dr.,Berry,6672342100,,
+1446,Dr.,Nikiruka Chukudebelu,4108741600,insect bites/stings,"Flovent, 2xday
 Abuterol
 Multivitamin"
-127,Jeffrey Kaplan,4109649300,sulfa products,"Chlorzoxazone, 750mg, 3xday
+127,Jeffrey,Kaplan,4109649300,sulfa products,"Chlorzoxazone, 750mg, 3xday
 Mitrocontrial cocktail-vitamins, 3xcay"
-1144,Dr. Khan,4105237321,,
-803,Ashley Holmes,3016620133,,"Nadolol 20MG 2xDay
+1144,Dr.,Khan,4105237321,,
+803,Ashley,Holmes,3016620133,,"Nadolol 20MG 2xDay
 Synthroid 100mg 1xday
 Buspilone, 15mg, 1xday
 Vitamin D, 1xday
 Magnesium, 2xday
 Prozac, 10mg
 B6, 1xday"
-1364,Tanya Cothran-Ross,2406324000,,
-1468,Dr. Karen Versteg,4109646300,,
-129,Dr. Meagan Chestnut,4109645300,,"Multivitamin, 1xday
+1364,Tanya,Cothran-Ross,2406324000,,
+1468,Dr.,Karen Versteg,4109646300,,
+129,Dr.,Meagan Chestnut,4109645300,,"Multivitamin, 1xday
 Sevtraline, 50mg, 1xday
 Synthroid, 75mg, 1xday
 Omeprazole, 20mg, 2xday"
-704,Gloria Colle,4107309898,Erythromician,"adderall, 30mg, 1xday
+704,Gloria,Colle,4107309898,Erythromician,"adderall, 30mg, 1xday
 clonidine, 0.1mg, 1xday
 citalopram, 20mg, 1xday"
-1141,Chandana Chatterjee,4109641056,,albuterol
-537,Ying Huang Mo,4107502229,,"Afiliby,clonidine,melatonin"
-130,Centennial Med Group,4107303399,"Suprax, Triaminie","Zoloft, 100mg, 1xday
+1141,Chandana,Chatterjee,4109641056,,albuterol
+537,Ying,Huang Mo,4107502229,,"Afiliby,clonidine,melatonin"
+130,Centennial,Med Group,4107303399,"Suprax, Triaminie","Zoloft, 100mg, 1xday
 Ethinyl estradio"
-131,Flowers#410-740-2900,,,
-644,Deepak Shah,4432593770,NKA,Vitamini D
-845,Dr. Kanthi Wicks,4432593770,,"Atorvastatin, hydroxyzine, clonidine, ambilify"
-233,Rupal Desai,4109977660,artificial sweetners,"Multivitamin, 1xday
+131,N/A,Flowers#410-740-2900,,,
+644,Deepak,Shah,4432593770,NKA,Vitamini D
+845,Dr.,Kanthi Wicks,4432593770,,"Atorvastatin, hydroxyzine, clonidine, ambilify"
+233,Rupal,Desai,4109977660,artificial sweetners,"Multivitamin, 1xday
 Zoloft, 35mg, 1xday"
-1494,Dr. Sheila Ravendhran,4433674740,lactose intolerant,Vitamin C
-258,Shirley Lee,8007777904,"Amoxicillin,Lactose","Ciprofloxacin, 4 drops, 2xday
+1494,Dr.,Sheila Ravendhran,4433674740,lactose intolerant,Vitamin C
+258,Shirley,Lee,8007777904,"Amoxicillin,Lactose","Ciprofloxacin, 4 drops, 2xday
 Tacrolimus 0,1% oint., 2xday"
-651,Shalanmole,4109927004,,"loraiadine,"
-733,Dr. Michelle Price,4107409200,NKA,"Carbatrol, Strattera"
-1040,Dr. Khan,4109927004,,"Lortadine 10mg
+651,N/A,Shalanmole,4109927004,,"loraiadine,"
+733,Dr.,Michelle Price,4107409200,NKA,"Carbatrol, Strattera"
+1040,Dr.,Khan,4109927004,,"Lortadine 10mg
 Vitamin D2 50,000 IU softgel
 Tolterodine ER 4mg capsule
 Risperidone 2mg ODT tab
 Divalproex 125mg sprinkle
 Acidophilus ADV PLUS (SOLGAR)"
-1316,Dr. Cassandra McDaniel,4102470782,,"Multivitamin
+1316,Dr.,Cassandra McDaniel,4102470782,,"Multivitamin
 Focalin, 20mg, 1xday"
-187,Jeffrey Kaplan,4109649300,Bees,
-276,Deepak Shah,4432593770,Penicillin,"Metrogel, 0.75% topical, 2xday
+187,Jeffrey,Kaplan,4109649300,Bees,
+276,Deepak,Shah,4432593770,Penicillin,"Metrogel, 0.75% topical, 2xday
 Allopurinol, 100mg, 1xdah"
-1182,Dr. Lindsay Fitch,4109971700,,"Onfi, 5mg, 2/day
+1182,Dr.,Lindsay Fitch,4109971700,,"Onfi, 5mg, 2/day
 Lamictal, 125MG, 3xday
 Vitamin B 50MG 1xday
 Banzel, 14ml, 3xday
 Epidioleic, 2.4ml, 2xday
 Melatonin, 3mg, 1xday
 Multivitamin, 1xday"
-1251,Dr. Erka Larson,4108741400,,
-858,Michele McEven,4434511600,,"Depakote, Ability, Buspirone"
-1104,Dr. Galita,4104657550,,multivitamin 1xday
-1425,Dr. David Sewart,6672142100,,"Multivitamin, 1xday"
-1245,Dr. Cox,4109646200,,"Lamotrigine, 10mg 2xday
+1251,Dr.,Erka Larson,4108741400,,
+858,Michele,McEven,4434511600,,"Depakote, Ability, Buspirone"
+1104,Dr.,Galita,4104657550,,multivitamin 1xday
+1425,Dr.,David Sewart,6672142100,,"Multivitamin, 1xday"
+1245,Dr.,Cox,4109646200,,"Lamotrigine, 10mg 2xday
 Vitamin D3 2000u 1xday
 Montelukast 10mg 1xday
 Guanfacine 2mg 2xday
 Propranolol 20mg 2xday"
-1486,Dr. Depak Shah,4432593770,,"Sertraline HCL, 200mg, 1xday
+1486,Dr.,Depak Shah,4432593770,,"Sertraline HCL, 200mg, 1xday
 Vit. D, 5000 IU, 1xweek
 Loratadine, 10mg, 1xday
 Lisinopril, 10mg, 1xday
@@ -1743,52 +1743,52 @@ Divalproey, 500mg, 2xday
 Clonazepam, 1mg, 2xday
 Quetrapine, 200mg, 1xday
 Ibuprofen, 800mg, PRN"
-1044,Kanthi Micks,4432993720,,
-1216,Dr. Wendell McKay,4109929339,,"guanfacine HCL Erm, 2mg 1xday"
-526,Dr. Awan,4109929355,NKA,"allavert, abilify, lexapro, quillivant"
-958,Dr. Eddiong Akpan,4105538265,,
-699,Barnaby Starr,4103231144,,
-1333,Dr. Gattu,2403761616,,
-136,Dr. Cheng,4109645300,NKA,"Androgfi,Fluoxetine,Synthroid,Zocor"
-534,Kauser Khan,4109927004,,"Multi-vitamin, 1xday"
-256,Juliana Seloree,4109975191,Sulpha Drugs,
-1380,Dr. Ruby Dey,,,Vitamin Gummies
-595,Koathi Wicksin,4432393770,,"Colace,Fiberlax,Zoloft,Lithium,Thiordozi"
-950,Chary Mehta,4107400100,,"seroquel tabs, celexa hbr tabs, haloperidol tabs, tenex tabs, clenidine HCL"
-792,Michael Lasser,4433674740,"Penicillin, tree nut","Vyvanse 60MG 1xday
+1044,Kanthi,Micks,4432993720,,
+1216,Dr.,Wendell McKay,4109929339,,"guanfacine HCL Erm, 2mg 1xday"
+526,Dr.,Awan,4109929355,NKA,"allavert, abilify, lexapro, quillivant"
+958,Dr.,Eddiong Akpan,4105538265,,
+699,Barnaby,Starr,4103231144,,
+1333,Dr.,Gattu,2403761616,,
+136,Dr.,Cheng,4109645300,NKA,"Androgfi,Fluoxetine,Synthroid,Zocor"
+534,Kauser,Khan,4109927004,,"Multi-vitamin, 1xday"
+256,Juliana,Seloree,4109975191,Sulpha Drugs,
+1380,Dr.,Ruby Dey,,,Vitamin Gummies
+595,Koathi,Wicksin,4432393770,,"Colace,Fiberlax,Zoloft,Lithium,Thiordozi"
+950,Chary,Mehta,4107400100,,"seroquel tabs, celexa hbr tabs, haloperidol tabs, tenex tabs, clenidine HCL"
+792,Michael,Lasser,4433674740,"Penicillin, tree nut","Vyvanse 60MG 1xday
 Fluoxatine, 20mg, 1xday
 Adderall 10mg 1xday"
-518,Pliszewski,4109929339,none,adderall
-906,"Howard County Pediatrics, LLC",4109929334,,"flyexetine, adera 4"
-979,Wendell McKay,4109929339,,"baclofen, focalin"
-1407,,,,
-1418,Dr. Edisa Padder,4108843600,,"Valproic Acid, 10ML, 2xday
+518,N/A,Pliszewski,4109929339,none,adderall
+906,Howard,"County Pediatrics, LLC",4109929334,,"flyexetine, adera 4"
+979,Wendell,McKay,4109929339,,"baclofen, focalin"
+1407,N/A,N/A,,,
+1418,Dr.,Edisa Padder,4108843600,,"Valproic Acid, 10ML, 2xday
 Lamotrigine, 25mg, 1xday
 Gabapentin, 14ML, 1xday
 Clonidine, 0.5mg, 1xday
 Fluoxetine, 1.5ML, 1xday
 Vitamin D, 1xday"
-1412,Dr. Paul Ambush,4105317566,"no gluten, dairy",
-1176,Dr. Badger,6672342275,lates,"Fluoxetine, 40mg, 1xday
+1412,Dr.,Paul Ambush,4105317566,"no gluten, dairy",
+1176,Dr.,Badger,6672342275,lates,"Fluoxetine, 40mg, 1xday
 Levothyroxine, 125mg, 1xday
 Pentasa, 500mg, 8xday"
-852,Columbia Medical Practice,4109646200,,"Vitamin D, Aspirin, Calcium, aspirin"
-1392,Ann Lambernedia,3045253334,,
-1191,Dr. Donkor,4107405460,,Focaline 20mg 2xday; clonidine HCL 0.2mg 2 tablets at bedtime; hydroxyzime pamoate 25mg 1 capsule at bedtime
-1426,Dr. Lancaster,4432594740,,"Vitaman D, 1xday
+852,Columbia,Medical Practice,4109646200,,"Vitamin D, Aspirin, Calcium, aspirin"
+1392,Ann,Lambernedia,3045253334,,
+1191,Dr.,Donkor,4107405460,,Focaline 20mg 2xday; clonidine HCL 0.2mg 2 tablets at bedtime; hydroxyzime pamoate 25mg 1 capsule at bedtime
+1426,Dr.,Lancaster,4432594740,,"Vitaman D, 1xday
 Fish oil, 1xday"
-1300,"Klebanow & Assoc, 410-997-400",,,"Adderall, 5mg,1xday
+1300,Klebanow,"& Assoc, 410-997-400",,,"Adderall, 5mg,1xday
 Aripirazole, 2mg, 1xday"
-214,Marie Dobyns,3017250788,,"Tegretol 350mg, 3xday
+214,Marie,Dobyns,3017250788,,"Tegretol 350mg, 3xday
 Depakote 250mg, 3xday
 Risperdal, 1mg, 3xday"
-916,Suiata Oasha,3017762700,,"levothurozine, vit D2, vit E400"
-900,Dr. Galita,4104657550,,"Sertioline, 125mg, 1xday
+916,Suiata,Oasha,3017762700,,"levothurozine, vit D2, vit E400"
+900,Dr.,Galita,4104657550,,"Sertioline, 125mg, 1xday
 Risperdone, .5mg, 1xday
 Evothyroxine, 50mg, 1xday
 Methlphenidate, 36mg, 1xday
 Pepcid AC, 40mg, 1xday"
-1146,Julie King,4105832955,,"Trileptal, 150mg, 2xday
+1146,Julie,King,4105832955,,"Trileptal, 150mg, 2xday
 Focalin, 20mg, 1xday
 Synthroid, 125mg, daily
 Zonisamide, 400-mg, daily
@@ -1796,15 +1796,15 @@ Vimpat, 150mg, 2xday
 Diastat & Mydatolam, for seizures, as needed
 Escitalopram, 10mg, daily
 Lansaprozole, 15mg, daily"
-1318,Dr. Anne Lane,4107886565,,Adderall XR
-668,Kenneth Greene,4108212800,,"Lisinopril,oxcarbazepine,simvastin"
-891,Dr. Madden,4107444849,,"strattera, 60mg, 1xday
+1318,Dr.,Anne Lane,4107886565,,Adderall XR
+668,Kenneth,Greene,4108212800,,"Lisinopril,oxcarbazepine,simvastin"
+891,Dr.,Madden,4107444849,,"strattera, 60mg, 1xday
 zoloft, 100mg, 1xday
 tradazone, 50mg, 1xday
 Guanfacene, 4mg, 1day"
-669,Kenneth Greene,4108212800,,"Lisinopril,atenolol,lipitor,methormin"
-426,Kendra Kay,4107961441,NKA,
-1047,Gregory Levickas,6672342100,,"Fluticasone, 50mcg nasal spray, 2 puffs/day
+669,Kenneth,Greene,4108212800,,"Lisinopril,atenolol,lipitor,methormin"
+426,Kendra,Kay,4107961441,NKA,
+1047,Gregory,Levickas,6672342100,,"Fluticasone, 50mcg nasal spray, 2 puffs/day
 Cetirizine, 10mg, 1xday
 Metamucil, PRN
 Aspirin, 81mg, 1xday
@@ -1812,69 +1812,69 @@ Sertraline HCL,, 10mg, 1xday
 Risperidone, 1mg, 2xday
 Ketoconazole, 2% shampoo, 3xweek
 Atorvastatin, 80mg, 1xday"
-1163,Kendra Kay,3015604747,,
-578,Dr. Joseph Gibbons,4107303399,NKA,"Taltz, 80mg,1x4wks
+1163,Kendra,Kay,3015604747,,
+578,Dr.,Joseph Gibbons,4107303399,NKA,"Taltz, 80mg,1x4wks
 Rasuvo, 20mg, weekly
 Indomethecine, 25mg, 2xday
 Folic Acid, 5mg, 1xday"
-582,Richard Ringer,4106146745,Zogyn,"Reian, Previcio, Lamiltal"
-315,Dr. Siva,3014983150,,
-195,Lisa Owens,4107301100,,Resperdil
-1149,Dr.Sneha Ponpait,3014981900,"peanuts, tree nuts","Multivitamin
+582,Richard,Ringer,4106146745,Zogyn,"Reian, Previcio, Lamiltal"
+315,Dr.,Siva,3014983150,,
+195,Lisa,Owens,4107301100,,Resperdil
+1149,Dr.Sneha,Ponpait,3014981900,"peanuts, tree nuts","Multivitamin
 Epi pen"
-784,Santhie Methew,4108847831,,
-997,Denise McKinney,3016778800,,
-878,Dr. Kelly Taneholz,3017625020,none,"Probitics, chewable
+784,Santhie,Methew,4108847831,,
+997,Denise,McKinney,3016778800,,
+878,Dr.,Kelly Taneholz,3017625020,none,"Probitics, chewable
 Vitamin C
 Vitamin D3"
-1473,Dr. Sheila Mohayer Hofert,4434422300,,"Methylphenidae, 5mg, 1xday"
-1478,Columbia Medical Practice,4109646300,,
-1129,Dr. Aluaro Ramos,4104424011,,"Guafacine, 1/2, 1xday
+1473,Dr.,Sheila Mohayer Hofert,4434422300,,"Methylphenidae, 5mg, 1xday"
+1478,Columbia,Medical Practice,4109646300,,
+1129,Dr.,Aluaro Ramos,4104424011,,"Guafacine, 1/2, 1xday
 Sertraline, 1, 1xday"
-1271,Dr. Alvaro Romas 410-442-4011,,,
-565,Joseph Aleo,4109977660,Augmentin,
-1138,Dr. McEwan,4434511600,,"Synthroid, Methyiphenidate"
-1114,Dr. Strahlman,4109646300,,"Synthroid, 25mg, 1xday"
-611,Dr. Wicks,4432593770,nuts sesame shellfis,"aripiprazole, 5mg, 2xday
+1271,Dr.,Alvaro Romas 410-442-4011,,,
+565,Joseph,Aleo,4109977660,Augmentin,
+1138,Dr.,McEwan,4434511600,,"Synthroid, Methyiphenidate"
+1114,Dr.,Strahlman,4109646300,,"Synthroid, 25mg, 1xday"
+611,Dr.,Wicks,4432593770,nuts sesame shellfis,"aripiprazole, 5mg, 2xday
 fluoxetine, 15mg, 1xday
 Epinephrine, 30mg, pm"
-1376,,,,
-1413,"Dr. Sheila Ravendhran, 443-259-37682",,,"Synthroid, 75mg, 1xday"
-1083,Dr. Tucker-Powell,3012201200,,
-433,Li Harry 410-312-4700,,"nuts, chocolate","Atorvastin 10mg 1xday
+1376,N/A,N/A,,,
+1413,Dr.,"Sheila Ravendhran, 443-259-37682",,,"Synthroid, 75mg, 1xday"
+1083,Dr.,Tucker-Powell,3012201200,,
+433,Li,Harry 410-312-4700,,"nuts, chocolate","Atorvastin 10mg 1xday
 Cetirizine HCL, 10mg, 1xday
 Montelukast Sad, 10mg, 1xday
 Amlodipine Besylate, 5mg, 1xday
 Bupropion HCL, 300mg, 1xday
 Dexmethylphen, 15mg, 1day"
-994,Faith Frankel,4105490900,seasonal allergies,"multivitamin, probiotic"
-1313,Dr. tomothy McClair,3014983150,,"hydroxychloroquine, 150mg, 1xday
+994,Faith,Frankel,4105490900,seasonal allergies,"multivitamin, probiotic"
+1313,Dr.,tomothy McClair,3014983150,,"hydroxychloroquine, 150mg, 1xday
 lipitor, 10mg, 1xday
 lisinopril, 10mg, 1xday
 vitamin D, 50,000 units, once weekly
 levothyroxine, 1xday"
-948,Wendell McKay,4109929339,,"norditropin, prorigil"
-700,Deepak Shah,4432593770,Floxin,Levothyroxine 88MCG 1tab 1xday
-1393,Dr. Dianne Landrum,4434511600,,"Hydroxyzine, 17ML, 1xday
+948,Wendell,McKay,4109929339,,"norditropin, prorigil"
+700,Deepak,Shah,4432593770,Floxin,Levothyroxine 88MCG 1tab 1xday
+1393,Dr.,Dianne Landrum,4434511600,,"Hydroxyzine, 17ML, 1xday
 Fluvoxamine, 25mg, 1xday
 Miralax. 1.5 cap, 1xday
 Ex-las, 1 square, 1xday
 Guanfacine, 2mg, 1xday
 Aripipyazole, 2mg, 1xday"
-584,Randal Riesett,4105491106,NKA,"Sertraline HCL, 50mg, 1xday
+584,Randal,Riesett,4105491106,NKA,"Sertraline HCL, 50mg, 1xday
 Risperidone, 0.5mg, 1xday
 Vitamin D3, 50mcg, 2000, 1xday"
-430,Kenneth Schuberth,4103219393,"No gluten,casein,soy",Prozac
-1019,Daniel Levey,4103631843,,
-830,Dr. McEwan,4434511600,,"levothyroxine, .75mg, 1xday"
-767,Bonrsiquot,4103688631,Aspirin,"Levetiracetam, tylenol"
-1457,Dr. Donkor,4107405400,,
-932,Sondra Hedigman,4103188550,"peanut, wheat, milk",
-806,Primary Peds,3019890085,,"Zolof, 100mg, 1xday
+430,Kenneth,Schuberth,4103219393,"No gluten,casein,soy",Prozac
+1019,Daniel,Levey,4103631843,,
+830,Dr.,McEwan,4434511600,,"levothyroxine, .75mg, 1xday"
+767,N/A,Bonrsiquot,4103688631,Aspirin,"Levetiracetam, tylenol"
+1457,Dr.,Donkor,4107405400,,
+932,Sondra,Hedigman,4103188550,"peanut, wheat, milk",
+806,Primary,Peds,3019890085,,"Zolof, 100mg, 1xday
 Guanficine, 2mg, 1xday
 Vitamin D, 1000mg, 1xday
 Mixed Vitamin, 1xday"
-1440,Dr. Sarah Connor,4108372050,Bactrim,"Tresiba, 1xday
+1440,Dr.,Sarah Connor,4108372050,Bactrim,"Tresiba, 1xday
 Humalog, 3xday
 Farxiga, 10mg, 1xday
 Metformin, 1000mg, 2xday
@@ -1883,40 +1883,40 @@ Atrovastatin, 80mg, 1xday
 Olizapine, 1.25mg, 1xday
 Claritin, 10mg, 1xday
 Aspirin, 80mg, 1xday"
-618,Suiata Oasba,4107404500,"Dairy, trilepal","Depakote,Zoloft,Strattera,Xoperex,zyrtec"
-701,Carol Loikus,8663892727,"Gluten,wheat",
-1510,Dr. Jacqueline Brown,4109971700,,
-972,Dr. Risa Huber,4104801895,,"Levolthyroxine sodium, 12.5mg, 1xday"
-1046,Irma Bensinger,4109646200,,
-1487,Dr. Tasheem,4109646200,,"Anilsdipine, 10mg, 1xday
+618,Suiata,Oasba,4107404500,"Dairy, trilepal","Depakote,Zoloft,Strattera,Xoperex,zyrtec"
+701,Carol,Loikus,8663892727,"Gluten,wheat",
+1510,Dr.,Jacqueline Brown,4109971700,,
+972,Dr.,Risa Huber,4104801895,,"Levolthyroxine sodium, 12.5mg, 1xday"
+1046,Irma,Bensinger,4109646200,,
+1487,Dr.,Tasheem,4109646200,,"Anilsdipine, 10mg, 1xday
 Aforvastatin, 10mg, 1xday
 Respiridone
 Zoloft
 Lovatidine, 10mg, 1xday
 Vit. D, 1000IU, 1xday
 Flonase nasal spray as needed"
-1359,Dr. Wendell McKay,4109929339,,"Citalpram, 25mg, 1xday
+1359,Dr.,Wendell McKay,4109929339,,"Citalpram, 25mg, 1xday
 Intuniv, 2mg, 1xday
 Vyvanse, 30mg, 1,day"
-773,,,,
-1097,Bryan Khim,4104801800,,"Vitamin D3, 2000, 2xday
+773,N/A,N/A,,,
+1097,Bryan,Khim,4104801800,,"Vitamin D3, 2000, 2xday
 Zinc, 20mg, 1xday"
-1369,Vivianne Artis,3014791236,,"Men's Vitamin, 1xday
+1369,Vivianne,Artis,3014791236,,"Men's Vitamin, 1xday
 Montelukast, 10mg, 1xday
 Linzess, 72mcg, 1xday
 Albuterol Mist, 2 puffs, PRN"
-1064,Victoria Wilson,4105172340,sulfa antibiotics,
-714,Dr. Galitta,4104657550,,"Vitamin C 1000mg 1Xday
+1064,Victoria,Wilson,4105172340,sulfa antibiotics,
+714,Dr.,Galitta,4104657550,,"Vitamin C 1000mg 1Xday
 Colchicine, .06mg, as needed"
-1155,Jhansi Ganesan,3017254341,,"children's allegra, multivitamin"
-740,Lindsay Fitch,4109976400,,
-147,David Leightling,4107646200,Bees,
-819,Marcia Augustine,3016620133,,
-1499,Dr. Toni Thompson-Chitta,,mosquito bites,"Adderall XR, 5ml, 1xday
+1155,Jhansi,Ganesan,3017254341,,"children's allegra, multivitamin"
+740,Lindsay,Fitch,4109976400,,
+147,David,Leightling,4107646200,Bees,
+819,Marcia,Augustine,3016620133,,
+1499,Dr.,Toni Thompson-Chitta,,mosquito bites,"Adderall XR, 5ml, 1xday
 Multivitimin, 1xday
 Probiotic, 1xday"
-1373,Dr. Peggy Martin,4109929339,,
-229,Dr. Annie Lin,4107886565,,"Levothyroxine 25mcg
+1373,Dr.,Peggy Martin,4109929339,,
+229,Dr.,Annie Lin,4107886565,,"Levothyroxine 25mcg
 Guanfacine 4mg
 Lamotrigine 100mg
 Sertraline, 75mg, 1xday
@@ -1927,64 +1927,64 @@ Vitron C, 1tab, 2xweek
 B12, 1000mcg, 1xday
 Folic acid, 800mcg, 1xday
 Phofade cream"
-149,Dr. Bensinger,4109646200,Pequset (penicillen),"Insulin, 4units, 1xday
+149,Dr.,Bensinger,4109646200,Pequset (penicillen),"Insulin, 4units, 1xday
 Metaformin, 2xday
 Eliquis, 2xday
 Reybelsus, 1xday"
-364,Bonnie Catalano,4109970214,Phenobarb and Valium,"Dilantin,Citalopram,Risperdal"
-987,Jesse Hoangbard,3012727110,,"lamotrigine, fignpe, sipathiora, ftjlicsone, seroguel, citalopram"
-1518,,,,
-213,Warren Ross,4109975191,"strawberries, yeast","Raritidine 150mg 1xday
+364,Bonnie,Catalano,4109970214,Phenobarb and Valium,"Dilantin,Citalopram,Risperdal"
+987,Jesse,Hoangbard,3012727110,,"lamotrigine, fignpe, sipathiora, ftjlicsone, seroguel, citalopram"
+1518,N/A,N/A,,,
+213,Warren,Ross,4109975191,"strawberries, yeast","Raritidine 150mg 1xday
 Omeprazole 20mg 2xday
 Metoclopranide 10mg 2xday
 doxycycline 20mg 2xday
 doxcpin 10mg 1xday
 nystatin tab 2xday
 Montelukast 10mg 1xday"
-150,Debra Curtis,4108628860,"wheat, rye, barley","Centrum Vitamin, 1xday
+150,Debra,Curtis,4108628860,"wheat, rye, barley","Centrum Vitamin, 1xday
 Vitamin D, 1xday
 Synthroid, 50MG 1xday
 Stelara injection every 3 months"
-494,Ashley Kinder,4103688650,tree nuts,"topiramate, 25mg, 2xday
+494,Ashley,Kinder,4103688650,tree nuts,"topiramate, 25mg, 2xday
 clobazam, 10mg, 2sxday
 carries an epipen"
-152,Carl Sperling,4434445600,Penicillin,"Phenobarbitol, 97mg, 1day
+152,Carl,Sperling,4434445600,Penicillin,"Phenobarbitol, 97mg, 1day
 Metoprolol,,100mg, 2xday
 Atorvastin, 20mg, 1xday
 Melformin HCL, 500mg, 2xday"
-1389,Dr. Craytonia Davis,4107212273,pollen,"Zyrtec, 5mg, 1xday
+1389,Dr.,Craytonia Davis,4107212273,pollen,"Zyrtec, 5mg, 1xday
 Xyzal, 5mg, 1xday"
-1102,Dr. Stephen Eversley,4109977660,"penicillin, predniso","Risperdone, .5mg, 3xday
+1102,Dr.,Stephen Eversley,4109977660,"penicillin, predniso","Risperdone, .5mg, 3xday
 proprandol, 10mg, 5xday
 melatonin, 3mg, 1xday
 oxcarbazepine, 600mg, 2xday
 lanzaprazole, 40mg, 1xday
 pepcid, 40mg, 1xday
 proproanolol, 10mg, 1xday"
-996,Oasha,3017762700,,
-274,Sarah Connor,4108847831,,"Calicum, 600mg, 1xday
+996,N/A,Oasha,3017762700,,
+274,Sarah,Connor,4108847831,,"Calicum, 600mg, 1xday
 Alprazalam, .5mg, 1xday
 Divalproex, 500mg, 2xday
 Lorazepam, .5mg, 1xcay"
-1066,Dr. Beatrice Digen,3015485813,"sertraline,gabapenti","Sertraline, 150, 1xday
+1066,Dr.,Beatrice Digen,3015485813,"sertraline,gabapenti","Sertraline, 150, 1xday
 Valsartan, 160mg, 1xday"
-1073,Mary Jo Minton,4108235232,,Multivitamins
-154,Angela Gibbs,4109126104,penicillin,"Calcium and multivitamin, synthroid, bachfin"
-1489,Dr. Khan,4109927004,,"Vit D, 50,000IU, 1Xweek
+1073,Mary,Jo Minton,4108235232,,Multivitamins
+154,Angela,Gibbs,4109126104,penicillin,"Calcium and multivitamin, synthroid, bachfin"
+1489,Dr.,Khan,4109927004,,"Vit D, 50,000IU, 1Xweek
 Robitussin, 15ML, PRN
 Tylenol, 500mg, PRN"
-502,Jose Gonzalez,4107954020,,"Clonidine .3mg 1xday; kappraam 750mg 2xday; olanzapine 5mg 1xday; ,prozac 40mg 1xday; gummy bear vitamin 2 1xday"
-514,Dr. Safia Tasneem,4109645300,,"Vitamin D3, 400units, 1xday
+502,Jose,Gonzalez,4107954020,,"Clonidine .3mg 1xday; kappraam 750mg 2xday; olanzapine 5mg 1xday; ,prozac 40mg 1xday; gummy bear vitamin 2 1xday"
+514,Dr.,Safia Tasneem,4109645300,,"Vitamin D3, 400units, 1xday
 Medroxyprogesterone, 150mg, every 3 months"
-1225,Paul Ambush,4105317566,,
-221,Dr. Mehboob,4104656300,NKA,
-787,David Leichtling,4109646200,,"Furoxamide, Furusemide, Resperdel, Buspinane,"
-1085,S. Qasba,3017762700,,
-1084,S. Qasba,3017762700,,
-456,Oliver Galita,4104657550,"sulfa,augmontin,omni","cytonel, well buitrlm, sertraline, nasonex"
-1325,Dr. Lofton,4102552700,,
-686,Seema Gadiwalla,4108741400,"Wheat,milk products","vitamin C 1xday, calcium 1xday, fish oil 1xday, vitamin D3 1xday"
-440,Rafeena Bacchus,4107400770,Chloral hydrate,"Clobasem, 5mg, bid
+1225,Paul,Ambush,4105317566,,
+221,Dr.,Mehboob,4104656300,NKA,
+787,David,Leichtling,4109646200,,"Furoxamide, Furusemide, Resperdel, Buspinane,"
+1085,S.,Qasba,3017762700,,
+1084,S.,Qasba,3017762700,,
+456,Oliver,Galita,4104657550,"sulfa,augmontin,omni","cytonel, well buitrlm, sertraline, nasonex"
+1325,Dr.,Lofton,4102552700,,
+686,Seema,Gadiwalla,4108741400,"Wheat,milk products","vitamin C 1xday, calcium 1xday, fish oil 1xday, vitamin D3 1xday"
+440,Rafeena,Bacchus,4107400770,Chloral hydrate,"Clobasem, 5mg, bid
 Clobazem, 2.5mg, qhs
 Lacosamide, 150mg, bid
 Vitamin D2, 40mcg, qd
@@ -1993,105 +1993,105 @@ B Complex, 1xday
 Calcium, 600mg
 Folic Acid, 400mg
 zyrtec, 10mg, prn"
-848,Dr. Edward Cahill,4104656359,penicillin,"Synthroid, 88mg, 1xday"
-1283,Inas Anderson,3019890085,,
-1067,Dr. Harry Kaplan,4106530073,,"aberraigle, levet raceam, fish oil, vitamin d, iron"
-1061,Cherunari Chander,4102470782,,
-158,Jacob Cherian,4109695311,,"Carbamazepine, 300mg, 2xday
+848,Dr.,Edward Cahill,4104656359,penicillin,"Synthroid, 88mg, 1xday"
+1283,Inas,Anderson,3019890085,,
+1067,Dr.,Harry Kaplan,4106530073,,"aberraigle, levet raceam, fish oil, vitamin d, iron"
+1061,Cherunari,Chander,4102470782,,
+158,Jacob,Cherian,4109695311,,"Carbamazepine, 300mg, 2xday
 Escitalopeam, 20mg, 1xday"
-941,Ava George,4432593770,,"ferrex, gabapentin, vit D, sodium bicar, seroquel, spiriva, atorvastatin, dicyclomine, asacol HD, seroquel, fluoxetine"
-159,"Kristin, Keely",4107950257,NKA,Dexadrine 5mg 1xday
-888,Dr. Jennifer Case,4107402900,,"Focalin, 20mg, 1xday
+941,Ava,George,4432593770,,"ferrex, gabapentin, vit D, sodium bicar, seroquel, spiriva, atorvastatin, dicyclomine, asacol HD, seroquel, fluoxetine"
+159,"Kristin,",Keely,4107950257,NKA,Dexadrine 5mg 1xday
+888,Dr.,Jennifer Case,4107402900,,"Focalin, 20mg, 1xday
 zoloft (sertraline)75mg 1xday
 melatonin 5mg 1xday
 Guanfacine, 2mg, 1xday
 Aurovela, 1mg/20mcg, 1xday"
-160,Dr. Bennett So,4109645300,"Dilantin,Phenobarbit","Losartan/Hydroshlorothiazide, 100mg / 25 mg, 1xday
+160,Dr.,Bennett So,4109645300,"Dilantin,Phenobarbit","Losartan/Hydroshlorothiazide, 100mg / 25 mg, 1xday
 OTC  Allegra, 180mg"
-241,John Dooley,2023624467,,"Focalin,Xyprexa"
-365,Rachel Plotnick,4109929339,,"Concerta, Levoxyl"
-739,,,,
-1028,Kim Kelly-Robinson,3017022003,,"Flonaise, as needed"
-1198,Dr. Dahanna,4103094600,"ativan, augmentin,","gluteneasze, 3xday
+241,John,Dooley,2023624467,,"Focalin,Xyprexa"
+365,Rachel,Plotnick,4109929339,,"Concerta, Levoxyl"
+739,N/A,N/A,,,
+1028,Kim,Kelly-Robinson,3017022003,,"Flonaise, as needed"
+1198,Dr.,Dahanna,4103094600,"ativan, augmentin,","gluteneasze, 3xday
 multivitamin, 1xday"
-1076,Emerson Chong,3015604747,,
-162,Lawrence Smith,4109646210,,
-283,Kathleen York Jordan,4104108119,,l
-436,"Dr. Nicholas Morog,k 410-368-8650",,,"Vitamin D, 2000, 1xday
+1076,Emerson,Chong,3015604747,,
+162,Lawrence,Smith,4109646210,,
+283,Kathleen,York Jordan,4104108119,,l
+436,Dr.,"Nicholas Morog,k 410-368-8650",,,"Vitamin D, 2000, 1xday
 Allopurinol, 100mg, 2xday"
-1419,Dr. Karen Vorsteg,4109646300,penicillin,
-226,Rochelle Dyer,3018291887,,"Felbotol, 1200mg, 3xday
+1419,Dr.,Karen Vorsteg,4109646300,penicillin,
+226,Rochelle,Dyer,3018291887,,"Felbotol, 1200mg, 3xday
 Keppra, 1500mg, 2xday
 Trileptal, 150mg 1xday; 300mg, 1xday
 Lexapro, 15mg 1xday; 20mg, 1xday
 Tenex, 1mg, 2xday
 Jaimiess, 1, 1xday
 Montelukast Sodium, 10mg, 1xday"
-877,Dr. Wicks,4432593770,"amoxicillin, fish","synthroid, .75mg 1/day
+877,Dr.,Wicks,4432593770,"amoxicillin, fish","synthroid, .75mg 1/day
 miralax, 18g, 1/day
 multiitamin 1xday
 vitamin D 1xday"
-164,Gary Kazlow,4436614163,,
-853,Dr. Pritam Saini,3014979770,sulfa drugs,"Abilify, 5mg, 1xday
+164,Gary,Kazlow,4436614163,,
+853,Dr.,Pritam Saini,3014979770,sulfa drugs,"Abilify, 5mg, 1xday
 Pravastatin, 20mg, 1xday
 Bisoprolol/hctz, 5/6.25, 1xday
 Vitamin D, 5000, 1xday"
-711,Dr. Warren Ross,4109975191,"Gluten/casein free,","Keppra, 2000mg, 2xday
+711,Dr.,Warren Ross,4109975191,"Gluten/casein free,","Keppra, 2000mg, 2xday
 Depakote, 250mg, 2xday
 Flonase, 1xday
 Allegra, 1xday"
-942,Sharon Silverman,4109645311,,"naproxen, 500M, 2xday
+942,Sharon,Silverman,4109645311,,"naproxen, 500M, 2xday
 hydroxchloroquine, 200M, 2xdayl"
-790,Wendell McKay,4109929339,,
-734,Dr. Amandeep Singh,4104651091,NKA,"Prozac, 50mg, 1xday
+790,Wendell,McKay,4109929339,,
+734,Dr.,Amandeep Singh,4104651091,NKA,"Prozac, 50mg, 1xday
 Clonazapam, .75mg, 2xday"
-1351,Dr. Scott Srahlman,4109646300,,"Clonidine
+1351,Dr.,Scott Srahlman,4109646300,,"Clonidine
 Pre-teen gummie"
-1265,Dr. Steven Eversley,4109977660,,"Levothyroxine, .75mg, 1xday"
-166,Dekpak Shah,4432593770,"Sulfa, insect bites","Concertz 72mg 1xday
+1265,Dr.,Steven Eversley,4109977660,,"Levothyroxine, .75mg, 1xday"
+166,Dekpak,Shah,4432593770,"Sulfa, insect bites","Concertz 72mg 1xday
 Risperixdone 0.1mg 2xday
 Sentraline HCL, 100mg, 1xday
 Hydroxyana PAM, 25mg, 1xday
 Vitamin D 2000mg 1xday"
-817,Dr. Aruna Khurana,4109978200,,"trazadone, 50mg, 1xday
+817,Dr.,Aruna Khurana,4109978200,,"trazadone, 50mg, 1xday
 levothyroxine, 88mg, 1xday
 guanfaine HCL, 1mg, 1xday"
-998,Dana Wollacy,4109970500,"peanuts, tree nuts,",
-621,Michelle Price,4107402900,Amoxicillin,"Lamictal, 100mg 1xday
+998,Dana,Wollacy,4109970500,"peanuts, tree nuts,",
+621,Michelle,Price,4107402900,Amoxicillin,"Lamictal, 100mg 1xday
 Abilify, 10mg, 1xday"
-735,Sam R. Eaton,3014988880,NKA,"Levothyoxine 112mg 1xday
+735,Sam,R. Eaton,3014988880,NKA,"Levothyoxine 112mg 1xday
 Dupixent - 300mg, every other week
 Nutrivene D - Vitamin/Enzyme, 2xday"
-1131,Dr. E. Chan,3015604747,,
-312,Michael May,4109929339,,Depakote
-169,Dr. Justin Brown,2404591800,NKA,
-311,"Parnes, Mays",4109929339,Amoxicillan,"Depakote,Abilify, Ritalin"
-1370,Dr. Steven Brown,3014642300,,
-1100,Joseph Gibbons,4107303399,,"Lamictal, 450mg, 2xday
+1131,Dr.,E. Chan,3015604747,,
+312,Michael,May,4109929339,,Depakote
+169,Dr.,Justin Brown,2404591800,NKA,
+311,"Parnes,",Mays,4109929339,Amoxicillan,"Depakote,Abilify, Ritalin"
+1370,Dr.,Steven Brown,3014642300,,
+1100,Joseph,Gibbons,4107303399,,"Lamictal, 450mg, 2xday
 Zonisamide, 300mg
 Depakote, 125mg, 2xday
 Humira injection
 Rosuvastatin, 5mg, 1xday"
-674,Catonsville Pediatrics,4107444849,NKA,Zoloft
-1186,Aruna Khurana,4109978200,,
-561,Amaka Undie,4104657337,Peanuts/Peanut Prod.,"Risperdol, Conjestin, Clonidine"
-615,Michael Scoble,4108484424,"Penicillin, bactrim",Gildess FF 1/20
-626,Vassills Kollatsos,4109384981,nka,Adderall 10mg 1xday; ventolin 5mg 1xday; melstonis 10mg 1xday
-753,Wendell McKay,4109929339,,"Oxcarbazapine, lansoprazole"
-492,M. Boursiquot,4109644508,"Haldol, Lorazapan","Depakote,Congentin,Risperdal,metformin"
-1143,Dr. Richard Kolodrubetz,3016216570,seafood,"claritin, flonase, flinstones gummy vitamins"
-593,Dr. Meegan Chestnut,4109645300,NKA,"atorvastatin 10MG 1xday
+674,Catonsville,Pediatrics,4107444849,NKA,Zoloft
+1186,Aruna,Khurana,4109978200,,
+561,Amaka,Undie,4104657337,Peanuts/Peanut Prod.,"Risperdol, Conjestin, Clonidine"
+615,Michael,Scoble,4108484424,"Penicillin, bactrim",Gildess FF 1/20
+626,Vassills,Kollatsos,4109384981,nka,Adderall 10mg 1xday; ventolin 5mg 1xday; melstonis 10mg 1xday
+753,Wendell,McKay,4109929339,,"Oxcarbazapine, lansoprazole"
+492,M.,Boursiquot,4109644508,"Haldol, Lorazapan","Depakote,Congentin,Risperdal,metformin"
+1143,Dr.,Richard Kolodrubetz,3016216570,seafood,"claritin, flonase, flinstones gummy vitamins"
+593,Dr.,Meegan Chestnut,4109645300,NKA,"atorvastatin 10MG 1xday
 levothryroxine 112mg 1xday
 vitamin D 1.25mg 1xday
 flonase .05mg 1xday
 cozaar 100mg 1xday
 glucosamine 500mg 1xday
 hydrodiuril 25mg 1xcay"
-189,Melvin Stern - 301-854-3444,,Sulfa Drugs,
-1353,Dr. T. DeMateo,4434422300,,"Vitamin C, 1xday
+189,Melvin,Stern - 301-854-3444,,Sulfa Drugs,
+1353,Dr.,T. DeMateo,4434422300,,"Vitamin C, 1xday
 Zyrtek, 1xday"
-915,Bradley Hunter,3019422212,bees,
-1315,Dr. Peter Cheng,4109927004,,"Guanfacine 1mg 
+915,Bradley,Hunter,3019422212,bees,
+1315,Dr.,Peter Cheng,4109927004,,"Guanfacine 1mg 
 Flintstones Complete Shew VT
 Fluticasone 50mg nasal spray
 Topiramate 25mg 
@@ -2101,64 +2101,64 @@ Trazodone 100mg
 Melatonin 10mg
 Ziprasidone 40mg 
 Cetirizine HCL 1mg/ml syrup"
-546,Abedal Khan,4107309526,,"Apri, Levoxyl, librax, clarinex"
-1214,Dr. McKay,4109929339,seasonal allergies,multivitamin 1xday
-1514,"Dr. Ansari, Linthicum Pediatrics",,,"Atomoxeline capsules, 60mg, 1xday
+546,Abedal,Khan,4107309526,,"Apri, Levoxyl, librax, clarinex"
+1214,Dr.,McKay,4109929339,seasonal allergies,multivitamin 1xday
+1514,Dr.,"Ansari, Linthicum Pediatrics",,,"Atomoxeline capsules, 60mg, 1xday
 Clonidine tablets, 0.2mg, 1xday"
-1433,Dr. Fitch,4109976400,Nuts,"Helhylphenidale, 10mg, 1xday
+1433,Dr.,Fitch,4109976400,Nuts,"Helhylphenidale, 10mg, 1xday
 Hydroxyzine, 10mg, 1xday"
-736,Dr. Obiado,4432593770,,"Lamictal, Keppra, Zonegran"
-408,"Ji Kwon, MD",4104801895,,"Prozac 4, 40mg q.d."
-1416,Dr. Komal Malik,3016047000,,
-1472,Dr. Daljit Sawhneal,4107609300,"pollen, grass",
-1406,Dr.Sujuta Quasba,3017762700,amoxaciline,"Levothyroxine 37.5mg, 1xday"
-1121,Dr. Backus,3016185500,,
-1355,Dr. Hoffman,2029302380,,"Vitamin D3, 1000U, 1xday
+736,Dr.,Obiado,4432593770,,"Lamictal, Keppra, Zonegran"
+408,Ji,"Kwon, MD",4104801895,,"Prozac 4, 40mg q.d."
+1416,Dr.,Komal Malik,3016047000,,
+1472,Dr.,Daljit Sawhneal,4107609300,"pollen, grass",
+1406,Dr.Sujuta,Quasba,3017762700,amoxaciline,"Levothyroxine 37.5mg, 1xday"
+1121,Dr.,Backus,3016185500,,
+1355,Dr.,Hoffman,2029302380,,"Vitamin D3, 1000U, 1xday
 Adderal XR, 20mg, 1xday"
-617,Dana Wollney,4109970500,NKA,"carbamazepine, clonazepam, diastat acudial, fluoxetine, loratadine, melatonin, methylin, miralax, sennosides"
-1221,Catonsville Pediatrics,4107444489,,"Levetiracet, 500mg, 2xday
+617,Dana,Wollney,4109970500,NKA,"carbamazepine, clonazepam, diastat acudial, fluoxetine, loratadine, melatonin, methylin, miralax, sennosides"
+1221,Catonsville,Pediatrics,4107444489,,"Levetiracet, 500mg, 2xday
 Hydrocortisone, 5mg, 2xday
 Desmopressin, 0.1mg, 3.5xday
 Levothyroxine, 75mcg, 1xday
 Elinext, .03mg, 1xday
 Prednisone, 1.5mg, as needed"
-667,Ruth Agulune,4107729463,NKA,
-672,Dr. Yoshuts,4107303399,NKA,"Trazodone  100 mg  ( 2 tablets
+667,Ruth,Agulune,4107729463,NKA,
+672,Dr.,Yoshuts,4107303399,NKA,"Trazodone  100 mg  ( 2 tablets
 Clonazpeam 05 mg( 1 tablet)
 Cloindine 0.3 mg( 1 tablet)
 Risperidone  3 mg ( 3 tablets)
 
 Cloindine 0.1( 2 tablets)  this is the only morning medication , the rest are all for the evening"
-1323,Dr. Sara Mixter,4109551018,,"Metformin, 750mg, 1xday
+1323,Dr.,Sara Mixter,4109551018,,"Metformin, 750mg, 1xday
 Escitalopram, 25mg, 1xday
 Aripiprazole, 2.5mg, 2xday"
-876,Hope Bird (??),4109920570,,"clonidine, 0.1 gm, 1/day
+876,Hope,Bird (??),4109920570,,"clonidine, 0.1 gm, 1/day
 lexapro (liquid), 1 teaspoon, 1/day"
-927,Dr. Cahill,4104657550,,
-1048,Kauser Khan,4104559594,,
-482,Dr. Wiggins,4108847831,pine nuts,"Escitalopram, 20mg, 1xday
+927,Dr.,Cahill,4104657550,,
+1048,Kauser,Khan,4104559594,,
+482,Dr.,Wiggins,4108847831,pine nuts,"Escitalopram, 20mg, 1xday
 Vitamin D, 4000 units, 1xday"
-808,Dr. McKay,4109929339,,"Fluoxetine 10mg 1xday
+808,Dr.,McKay,4109929339,,"Fluoxetine 10mg 1xday
 Losarten 25mg 1xday
 Vitamin D2 200u 1xday"
-330,Steven Dienen,4107400400,"tegretol, advil","Keppra, Vimpat, Blisovi, Flonase"
-1164,Dennis Odie,4107801980,,"acetaminophen, albuterol, benztropine, clonidine, depakote, hydrocerin external cream, metamucil, oysco, quetiapine, resperidone, senokot, vitamin d, zeadorb-af"
-810,Dr. Ehsani,4109924464,"yeast, macaroni",
-1506,"Family time, Dr. Tellerman",,,"Prozac, 1xday
+330,Steven,Dienen,4107400400,"tegretol, advil","Keppra, Vimpat, Blisovi, Flonase"
+1164,Dennis,Odie,4107801980,,"acetaminophen, albuterol, benztropine, clonidine, depakote, hydrocerin external cream, metamucil, oysco, quetiapine, resperidone, senokot, vitamin d, zeadorb-af"
+810,Dr.,Ehsani,4109924464,"yeast, macaroni",
+1506,Family,"time, Dr. Tellerman",,,"Prozac, 1xday
 Focalin XR, 1xday"
-707,Marcia Augustine,4107944924,"Peanuts,phenobarbtal","levetiracet, levocetirizine"
-918,Paul Ambush,4105317566,,"Sertraline, 200mg, 1xday"
-1438,Dr. Duniya,4433674740,Ketamine,"Oxcarbazepine 300mg, 7.5 ml, 2xday
+707,Marcia,Augustine,4107944924,"Peanuts,phenobarbtal","levetiracet, levocetirizine"
+918,Paul,Ambush,4105317566,,"Sertraline, 200mg, 1xday"
+1438,Dr.,Duniya,4433674740,Ketamine,"Oxcarbazepine 300mg, 7.5 ml, 2xday
 Xulane patches, 1 patch, 1 per week"
-804,,,,
-793,Bruce Wells,4107955131,Sulfa,
-175,Christine Mosmu,4432593770,,none
-1415,Dr. Lidsay Fitch,4109976400,,
-977,Claudia Beck,4104654111,,Humira
-369,Francis Bruno,4109972770,,
-1197,Dr. Kolodrubetz,4106216570,,"vitamin, 1xday"
-880,Dr. Cahill,4104657500,none,none
-524,Bruce Conger,4107402900,,"Synthroid 0.175mg
+804,N/A,N/A,,,
+793,Bruce,Wells,4107955131,Sulfa,
+175,Christine,Mosmu,4432593770,,none
+1415,Dr.,Lidsay Fitch,4109976400,,
+977,Claudia,Beck,4104654111,,Humira
+369,Francis,Bruno,4109972770,,
+1197,Dr.,Kolodrubetz,4106216570,,"vitamin, 1xday"
+880,Dr.,Cahill,4104657500,none,none
+524,Bruce,Conger,4107402900,,"Synthroid 0.175mg
 Yaz 1 tab/day
 Depakote ER 250mg
 Zoloft 75mg
@@ -2168,83 +2168,83 @@ Vitamin D 2000 IU 1 tab/day
 CoQ10 1 tab/day
 Fiber Gummies, 2/day
 Potassium, 20mg, 2/day"
-1228,Heather Neblett-Alexander,4107150080,,
-971,Catonsville Pediatrics,4107444849,,"Claritin, Fish Oil Supplement, Spectrum Complete, Melatonin"
-1092,Dr. Kan Manjula,4109646300,,
-1162,Kendra Kay,3015604747,cepralospurirs,
-1485,Dr. L. Berger,4104657550,,
-945,Dr. Henry Chang,4434511600,,"lexothyroxine, 88mg, 1xday"
-1435,Dr. Amaka Undie,4104657337,,"Multivitamin, 1xday
+1228,Heather,Neblett-Alexander,4107150080,,
+971,Catonsville,Pediatrics,4107444849,,"Claritin, Fish Oil Supplement, Spectrum Complete, Melatonin"
+1092,Dr.,Kan Manjula,4109646300,,
+1162,Kendra,Kay,3015604747,cepralospurirs,
+1485,Dr.,L. Berger,4104657550,,
+945,Dr.,Henry Chang,4434511600,,"lexothyroxine, 88mg, 1xday"
+1435,Dr.,Amaka Undie,4104657337,,"Multivitamin, 1xday
 Enzymes, 1xday"
-833,Dr. N.R. Aqwuna,4107729463,,"Ambilify, metadate"
-592,Charles Sheehan,4104651090,"amoxicillian, ceclor",wellbutrin
-1405,Dr. Stephanie Perdue,3017768000,,"Calcium, 1/4 spoon, 1xday
+833,Dr.,N.R. Aqwuna,4107729463,,"Ambilify, metadate"
+592,Charles,Sheehan,4104651090,"amoxicillian, ceclor",wellbutrin
+1405,Dr.,Stephanie Perdue,3017768000,,"Calcium, 1/4 spoon, 1xday
 Magnesium Citrate, 1/4 spoon, 1xday
 Methylphenidate, 5ml, 1xday"
-754,Dr. Margaret Wang,4109757289,,"Metformin 500mg, 2xday
+754,Dr.,Margaret Wang,4109757289,,"Metformin 500mg, 2xday
 Tenex 2mg, 2xday"
-1172,Dr. Murthy,4108846116,,
-1522,Wellness Health Center,,,
-903,Dr. Casey Mabry,4104658119,adhesive tape,"levothyroxine, 50mcg, 1xday"
-1247,Diane Landrum,4107403600,"gluten, celiac","Omaprazcle, 40mg, 1xday
+1172,Dr.,Murthy,4108846116,,
+1522,Wellness,Health Center,,,
+903,Dr.,Casey Mabry,4104658119,adhesive tape,"levothyroxine, 50mcg, 1xday"
+1247,Diane,Landrum,4107403600,"gluten, celiac","Omaprazcle, 40mg, 1xday
 Qvar, 80mg, 1xday
 Aibuterol, 1 puff, 1xday
 Orencia, 87.5, 10 days"
-857,Dr. Kenneth Klebanow,,,
-179,Patient Care,4109927004,,"Trazadone, Celexa,Lithium"
-1168,Dr. Tracey George,4103632240,seasonal allergies,"vitamin D, 1xday
+857,Dr.,Kenneth Klebanow,,,
+179,Patient,Care,4109927004,,"Trazadone, Celexa,Lithium"
+1168,Dr.,Tracey George,4103632240,seasonal allergies,"vitamin D, 1xday
 Zyrtec, 1xday
 flonase, 1xday"
-1424,Ellicot City Pediatric Assoc,4104657550,Cefdiner,
-1063,David Otto,4107886565,,"sertrailine 75mg 1xday
+1424,Ellicot,City Pediatric Assoc,4104657550,Cefdiner,
+1063,David,Otto,4107886565,,"sertrailine 75mg 1xday
 guanfacine 3mg 1xday
 vyvanse 50mg 1xday
 risperidone 1mg 2xday"
-1411,Dr. Dianne Landrum,4434511600,,
-486,George Dunst,4103682100,,"synthrpid, vitamin D"
-1519,Dr. Wou Alissa,4108372050,,"Guanfacine 2mg , cloridine 0.1mg,rispiridone 0.25mg"
-529,Dr. Abdul Munim,3017253940,,
-1209,Aruna Khurana,4109971828,,
-1045,Kauser Khan,4104559594,,
-2,Steve Diener,4107402900,,"carbamazpin, 200mg, 2xday
+1411,Dr.,Dianne Landrum,4434511600,,
+486,George,Dunst,4103682100,,"synthrpid, vitamin D"
+1519,Dr.,Wou Alissa,4108372050,,"Guanfacine 2mg , cloridine 0.1mg,rispiridone 0.25mg"
+529,Dr.,Abdul Munim,3017253940,,
+1209,Aruna,Khurana,4109971828,,
+1045,Kauser,Khan,4104559594,,
+2,Steve,Diener,4107402900,,"carbamazpin, 200mg, 2xday
 benzxropine, 2mg, 2xday
 buspirone, 10mg, 2xday
 risperidone, 4mg, 1xday
 Quetiapine, 400mg, 1xday"
-1447,JHCP Columbia,,,
-1301,Dr. Anjali Singh Sehmi,2409122738,,"Levothyroxine, 75mg, 1xday
+1447,JHCP,Columbia,,,
+1301,Dr.,Anjali Singh Sehmi,2409122738,,"Levothyroxine, 75mg, 1xday
 Vitamin D, 2000 units, 1xday
 Xyzai, 5mg, 1xday
 Prozac, 4mg, daily"
-1202,Dr. Jacqueline Brown,4109971700,,"adderallXR, 30mg 1xday
+1202,Dr.,Jacqueline Brown,4109971700,,"adderallXR, 30mg 1xday
 adderall, 10mg, 1xday
 aripiprazole,15mg 1xday
 Clonidine HCL ER, 0.4mg, 1xday"
-1239,Emily Spears,4434511600,,"keppra 4ml, 2xday
+1239,Emily,Spears,4434511600,,"keppra 4ml, 2xday
 diaslat 75ml, as needed"
-1243,Dr. Desai,4109977660,,"focalin, 20mg, 1xday
+1243,Dr.,Desai,4109977660,,"focalin, 20mg, 1xday
 lamotrigine, 5mg, 1xday
 fluoxetine, 20mg, 1xday
 sertraline, 50mg, 1xday
 hydroxyzine, 10mg, as needed
 colonidine, .1mg, 1xday"
-688,Paul Lumunicc,4108934844,bees,"Depakote, propranolol, lorazepam, risperdone, l-carnitine, cogentin, synthroid, vitamin E, melatonin, prilosec"
-1095,Dr. Henry Change,4107403600,,"Clonidine, Miralax, Benefiber, Prozac, Zyrtec"
-1014,Ying Huang,4107502229,,"lamotrigine, 4ml, 2xday
+688,Paul,Lumunicc,4108934844,bees,"Depakote, propranolol, lorazepam, risperdone, l-carnitine, cogentin, synthroid, vitamin E, melatonin, prilosec"
+1095,Dr.,Henry Change,4107403600,,"Clonidine, Miralax, Benefiber, Prozac, Zyrtec"
+1014,Ying,Huang,4107502229,,"lamotrigine, 4ml, 2xday
 lamotrigine, 25mg, 2xday"
-982,Zaw Tun,8006771112,,
-1150,Wendall McKay,4109929339,,"Vyvanse, Allegra, Montelukast, Melatonin, Fluoride"
-1029,Henry Chang,4434511600,protamine sulfate,"levothyroxine, 50mg, 1xday"
-1030,Henry Chang,4434511600,,"levothyroxine, 75mg, 1xday
+982,Zaw,Tun,8006771112,,
+1150,Wendall,McKay,4109929339,,"Vyvanse, Allegra, Montelukast, Melatonin, Fluoride"
+1029,Henry,Chang,4434511600,protamine sulfate,"levothyroxine, 50mg, 1xday"
+1030,Henry,Chang,4434511600,,"levothyroxine, 75mg, 1xday
 Symbiocort-every 4hrs as needed, 80, 2 pubbs
 Albuterol-ever 4 hrs as needed, 2 puffs
 Esomeprazole, 40mg, 1xda
 Montelukast, 10mg, 1xday"
-1057,Scott Strahlman,4109646300,,
-538,Gina Standard,4103094600,latex,"fish oil, 1xday
+1057,Scott,Strahlman,4109646300,,
+538,Gina,Standard,4103094600,latex,"fish oil, 1xday
 Vitamin D"
-879,Wendell McKay,4109929339,pencillian,"aptensio XR, mcthylphenidale, guanfacine"
-4,Randel Riesett,4109102300,,"Clonazepam, .50mg daily
+879,Wendell,McKay,4109929339,pencillian,"aptensio XR, mcthylphenidale, guanfacine"
+4,Randel,Riesett,4109102300,,"Clonazepam, .50mg daily
 Trazadone, 50mg, 2xday
 Flonase Nasal Spray, 2 puffs daily
 Claritin, 10mg, 1xday
@@ -2254,79 +2254,79 @@ Colace, 100mg, 2xday
 Synthroid, 0.050mg, 1xday
 Zoloft, 100mg, 2xday
 Daily Multiple vit"
-1458,Dr. Paul Ambush,4105317566,,"Zonigram, 50ml, 1xday
+1458,Dr.,Paul Ambush,4105317566,,"Zonigram, 50ml, 1xday
 Multivitamin, 1xday"
-1321,Dr. Santos,4104657550,nalprojic acid,"keppra, 8ml, 2xday
+1321,Dr.,Santos,4104657550,nalprojic acid,"keppra, 8ml, 2xday
 clobaszm, 4.8ml, 2xday
 melatonin, 2.5mg, nighttime"
-952,Dr. Umme Yasmin,4105087650,,"baclogen, 30mg BID"
-1207,Columbia Medical Prqactice,4109646300,,Floxetine HCL 10mg 1xday; Clondine HCL 0.1mg as needed
-1258,Dr. Ping,4105538273,,"Prozac, 60mg, 1xday
+952,Dr.,Umme Yasmin,4105087650,,"baclogen, 30mg BID"
+1207,Columbia,Medical Prqactice,4109646300,,Floxetine HCL 10mg 1xday; Clondine HCL 0.1mg as needed
+1258,Dr.,Ping,4105538273,,"Prozac, 60mg, 1xday
 Trazodone, 50mg, 8pm
 Calcium, 600mg, 2xday
 Nac N-Acctal, 600mg, 2xday
 Systane ultra, 3xday"
-791,"Laura Schoch, CRNP",2404591800,,"Synthroid, 50mg, 1xday
+791,Laura,"Schoch, CRNP",2404591800,,"Synthroid, 50mg, 1xday
 Focalin, 5mg, 1xday
 miralax, 1 dose, 1xday
 multivitamin, 1xday
 krill oil, 350mg, 1xday"
-778,Dr. Jang,4109645300,sulfur,multi vitamin
-1319,Howard County Pediatrics,4109929339,Sesame,"Calcium, 1xday
+778,Dr.,Jang,4109645300,sulfur,multi vitamin
+1319,Howard,County Pediatrics,4109929339,Sesame,"Calcium, 1xday
 Multivitamin, 1xday"
-1052,Claudia Beck,4104654111,,
-1128,Dr. Todd Burstyn,4105852871,,"Oxybutyin ER, 10mg, 1xday"
-1233,Dana Kornfeld,3015645880,,"Prosac, 15mg, 1xday"
-503,Anjali Saini  410-744-4849,,none,none
-871,Dr. Michele McEwan 410-740-3600,,PCN's,"Synthroid, 75mcg, 1xday
+1052,Claudia,Beck,4104654111,,
+1128,Dr.,Todd Burstyn,4105852871,,"Oxybutyin ER, 10mg, 1xday"
+1233,Dana,Kornfeld,3015645880,,"Prosac, 15mg, 1xday"
+503,Anjali,Saini 410-744-4849,,none,none
+871,Dr.,Michele McEwan 410-740-3600,,PCN's,"Synthroid, 75mcg, 1xday
 MVI, 1mg, 1xday"
-1449,,,,
-1352,Dr. Sara Mixter,4109551018,milk/lactose intoler,"multivitamin, 1xday
+1449,N/A,N/A,,,
+1352,Dr.,Sara Mixter,4109551018,milk/lactose intoler,"multivitamin, 1xday
 Chlorhexidine Mouth Rince, 1tsp, 2xweek"
-356,Dr. Haibing Jiang,4432593770,"Gluten free, Bactrim","Multivitamin 1xday
+356,Dr.,Haibing Jiang,4432593770,"Gluten free, Bactrim","Multivitamin 1xday
 Lamotrigine 50mng 2xday
 Escitalopram 10mg 1xday
 Levothyroxine, 75mcg, 1xday
 Refresh eye drops, 1 drop, 1xday"
-5,E.C. Bruno,4109972770,,
-1179,Scott Strahlman,4109978500,,
-702,Kathleen York-Jordan,4104658119,,"levothyroxin, desmopressin, hydrocortison, nutropin, testosterone, zyrtec, vitamin D, multivitamin, fish oil"
-779,Lifebridge Suburban Physician Group,4105311440,diphenhydramine,"Lexapro,ziprasione,docusate,benztropine,perphenazine"
-616,Kango,3012707000,,"Prilosec, Nystop,Abilfy,Depakote"
-722,Dr. Warren Ross,4107975191,NKA,"Levoyl, R Compect"
-1194,Peggy Martin,4109929339,,
-17,Judy Greengold,2404591800,,
-1107,Dr. Jackie Gilliard,4107212273,,"Focalin XR 30mg, Focalin 5mg, Lamotrigine, 25mg"
-1365,Diane Landrum,4109403600,,
-1374,University of Md,4109294566,"amoxicillian,bactrom","albuterol, PRN"
-1459,Dr. Conger,4107402900,,"Vyvanse, 20 mg"
-1276,"Dr. Alice Lee, 443-442-2300, #4",,,"Risperdone, 1.5mg, 2xday
+5,E.C.,Bruno,4109972770,,
+1179,Scott,Strahlman,4109978500,,
+702,Kathleen,York-Jordan,4104658119,,"levothyroxin, desmopressin, hydrocortison, nutropin, testosterone, zyrtec, vitamin D, multivitamin, fish oil"
+779,Lifebridge,Suburban Physician Group,4105311440,diphenhydramine,"Lexapro,ziprasione,docusate,benztropine,perphenazine"
+616,N/A,Kango,3012707000,,"Prilosec, Nystop,Abilfy,Depakote"
+722,Dr.,Warren Ross,4107975191,NKA,"Levoyl, R Compect"
+1194,Peggy,Martin,4109929339,,
+17,Judy,Greengold,2404591800,,
+1107,Dr.,Jackie Gilliard,4107212273,,"Focalin XR 30mg, Focalin 5mg, Lamotrigine, 25mg"
+1365,Diane,Landrum,4109403600,,
+1374,University,of Md,4109294566,"amoxicillian,bactrom","albuterol, PRN"
+1459,Dr.,Conger,4107402900,,"Vyvanse, 20 mg"
+1276,Dr.,"Alice Lee, 443-442-2300, #4",,,"Risperdone, 1.5mg, 2xday
 Clonidine (AM), 2mg, 1xday
 Clonidine (PM, 1mg, 1xday"
-789,Samuel Croff,3018882233,No Pork,"Lamotrigine, 100mg, 1xday"
-1515,Dr. Shawna Reshard,4433674740,,
-1115,Dr. Wanda Foxx,3012954000,flurone anasthesia,"Keppra, Depakote"
-737,Ardell Shefchek,4103383071,NKA,Diastat
-1275,Jonathon McCoy,4105532900,,
-352,Jennifer Landsman,4104657550,NKA,Fucalin
-993,Dr. Dawood,4433674740,,
-1220,Dr. Hashmi,4109972770,,
-1331,Dr. M. Lasser,,Kepra,"Clonadine, 2.5mg, 1xday
+789,Samuel,Croff,3018882233,No Pork,"Lamotrigine, 100mg, 1xday"
+1515,Dr.,Shawna Reshard,4433674740,,
+1115,Dr.,Wanda Foxx,3012954000,flurone anasthesia,"Keppra, Depakote"
+737,Ardell,Shefchek,4103383071,NKA,Diastat
+1275,Jonathon,McCoy,4105532900,,
+352,Jennifer,Landsman,4104657550,NKA,Fucalin
+993,Dr.,Dawood,4433674740,,
+1220,Dr.,Hashmi,4109972770,,
+1331,Dr.,M. Lasser,,Kepra,"Clonadine, 2.5mg, 1xday
 Triliptal, 8.5ML, Bid
 Latuda, 20mg @ bedtime"
-468,Dr. Shawna Rasharo,4432593770,Erythromycin,"Multivitamin, 1xday
+468,Dr.,Shawna Rasharo,4432593770,Erythromycin,"Multivitamin, 1xday
 Allopurinol, 300mg, 1xday
 Omerprazole 10mg, 1sday"
-1122,Sr. Stuart Weich,3016826000,,Keppra
-1200,Dr. McKay,4109929339,,"Flinstones vitamins, alegra, as needed"
-1444,Dr. Duniya Lancaster,,"dairy,wheat,peanuts","Multi-vitamin, 1xday
+1122,Sr.,Stuart Weich,3016826000,,Keppra
+1200,Dr.,McKay,4109929339,,"Flinstones vitamins, alegra, as needed"
+1444,Dr.,Duniya Lancaster,,"dairy,wheat,peanuts","Multi-vitamin, 1xday
 Vitamin D, 1xday"
-1427,Dr. Lancaster,4433674740,,"Vivanle, 10mg, 1xday
+1427,Dr.,Lancaster,4433674740,,"Vivanle, 10mg, 1xday
 Adderall, 10mg, 1xday"
-1368,Kaiser Perm.,,,"D3, 125mcg, 1xday
+1368,Kaiser,Perm.,,,"D3, 125mcg, 1xday
 Multivitaimin, 1xday
 Aller-Zyr (allergy), 10mg"
-889,Dr. Noman Dy,2408655500,"dilaudid, oxycadone,","enalapril, 5mg 2x/day
+889,Dr.,Noman Dy,2408655500,"dilaudid, oxycadone,","enalapril, 5mg 2x/day
 aspirin, 81mg 3x/week
 zoloft, 100mg, 1x/day
 Eperelone, 50mg, 1xday
@@ -2336,7 +2336,7 @@ Iroon, 325mg, 1xday
 Vit D, 1000mg, 1xday
 Vit C, 500mg, 1xday
 Multivitamin, 1xday"
-462,Kendra Kay,3015604747,,"dialproex, 125mg, 1xday
+462,Kendra,Kay,3015604747,,"dialproex, 125mg, 1xday
 Divalproex, 500mg, 1xday
 Guanfacine, 1mg, 1xday
 Melatonin, 5mg, 1xday
@@ -2346,7 +2346,7 @@ Risperidone, 1mg, 1xday
 Azathioprine, 50mg, 1xday
 Ensure Choloate liq, 2xday
 Multivitamin tab, 1xday"
-461,Kendra Kay,3015604747,,"Benztropine, 0.5mg tab, 1xday
+461,Kendra,Kay,3015604747,,"Benztropine, 0.5mg tab, 1xday
 Clonazepam, 0.5mg tab, 3xday
 Fluoxetine, 20mg cap, 1xday
 Guanfacine, 1mg tab, 2xday
@@ -2355,16 +2355,16 @@ Risperidone, 1mg tab, 1xday
 Propranolol, 10mg, 3xday
 Multivitamin tab, 1xday
 Vitamin D caps, 50K, 1xweek"
-391,Dr. Norman Dy,2408655500,,Vitamin D3 2000 unit
-294,Bruce Corver,4107400770,,Vitamin D3 2000 Unit
-844,Illegible on form,4105421725,,"risperidone, benztropine"
-8,Meagan Lopes,3014988880,"Demerol,egg,soy,milk","Depakote, 7ml, 2xday
+391,Dr.,Norman Dy,2408655500,,Vitamin D3 2000 unit
+294,Bruce,Corver,4107400770,,Vitamin D3 2000 Unit
+844,Illegible,on form,4105421725,,"risperidone, benztropine"
+8,Meagan,Lopes,3014988880,"Demerol,egg,soy,milk","Depakote, 7ml, 2xday
 Zyrtec, 10mg, 1xday
 Zofran, PRM"
-1139,Sr. Aruna Khurana,4109978200,,
-1219,McNeil Brockiington,4108690100,,
-1491,Dr. Shenybel Mendoza-Briswas,4434924466,"shrimp, seafood",
-755,Andrea Holzman,4434710472,,"xyzal, 5mg, 1xday
+1139,Sr.,Aruna Khurana,4109978200,,
+1219,McNeil,Brockiington,4108690100,,
+1491,Dr.,Shenybel Mendoza-Briswas,4434924466,"shrimp, seafood",
+755,Andrea,Holzman,4434710472,,"xyzal, 5mg, 1xday
 cyproheptadineE, 4mg, 1xday
 theo-24 ER, 100mg, 2xday
 synthroid, 100mg, 1xday
@@ -2374,34 +2374,34 @@ stool softener, 100mg, 2xday
 biotin, 10000 mcg, 1xday
 b complex vit., 1xday
 1 a day multi vitamin, 1xday"
-1098,Wendell McKay,4109929339,,"Vyvaines, 20mg, 1xday"
-1055,Dr. Gihiorzi,4103682100,"milk, soy, food dyes",
-1266,Lauren Evans,4103682100,ceclor,
-1267,Laura Evans,4103682100,"blueberries, spinach",
-869,Dr. N.B. Vellanki,4107727984,sulfa,"metformin,docusar, lishopril, climaelide"
-1516,Dr. . Dantzer,4102706760,Penicilin,
-1521,,,,
-960,Aruna Khurana,4109978200,,"Zoloft, 75mg, 1xday"
-435,Claudia Beck,4104654111,,"Singular, Mellasonia"
-708,Carol Piotsky,3013303216,,"Sertraline,minocycline,purelay"
-1205,"Richard Koladrubetz, 301-6721-8570",,,"Oxteilor, 900mg, 2xday"
-362,George Durst,4107448822,,"Topiramate,150mg, 2xday
+1098,Wendell,McKay,4109929339,,"Vyvaines, 20mg, 1xday"
+1055,Dr.,Gihiorzi,4103682100,"milk, soy, food dyes",
+1266,Lauren,Evans,4103682100,ceclor,
+1267,Laura,Evans,4103682100,"blueberries, spinach",
+869,Dr.,N.B. Vellanki,4107727984,sulfa,"metformin,docusar, lishopril, climaelide"
+1516,Dr.,. Dantzer,4102706760,Penicilin,
+1521,N/A,N/A,,,
+960,Aruna,Khurana,4109978200,,"Zoloft, 75mg, 1xday"
+435,Claudia,Beck,4104654111,,"Singular, Mellasonia"
+708,Carol,Piotsky,3013303216,,"Sertraline,minocycline,purelay"
+1205,Richard,"Koladrubetz, 301-6721-8570",,,"Oxteilor, 900mg, 2xday"
+362,George,Durst,4107448822,,"Topiramate,150mg, 2xday
 Depekote DR am, 250mg, 1xday
 Depakote DR pm, 500mg, 1xday
 Multivitamin, 1xday
 Vitamin D3, 2000 ia, 1xday
 Align OTC, 1xday
 Fish oil, 1200, 1xday"
-756,Dr. Berger,4104657550,,"Montelukast, 10mg, 1xday
+756,Dr.,Berger,4104657550,,"Montelukast, 10mg, 1xday
 Flintstones, 1xday
 Levocefirizihe, 5mg, 1xday
 Fluticasone, 50mg, 1xday"
-1428,Dr. Sujata Qasba,3017762700,,
-1087,Dr. Eden,4434924000,,
-1386,,,,
-1361,Dr. Ying Huang,4107502229,,"Adderall, 5mg, 1xday"
-1383,,,,
-1213,Naseem Dawood,4433674740,,
-1088,"Dr. David L. Skoort,",6672142100,,"Vimpat, 200mg, 2xday
+1428,Dr.,Sujata Qasba,3017762700,,
+1087,Dr.,Eden,4434924000,,
+1386,N/A,N/A,,,
+1361,Dr.,Ying Huang,4107502229,,"Adderall, 5mg, 1xday"
+1383,N/A,N/A,,,
+1213,Naseem,Dawood,4433674740,,
+1088,Dr.,"David L. Skoort,",6672142100,,"Vimpat, 200mg, 2xday
 Diviproex, 500mg, 2xday
 VB6, 100mg, 1xda"
